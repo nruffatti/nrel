@@ -1,0 +1,1684 @@
+,Smiles,Property,Value,Units,Notes
+0,C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,400.0,K,
+1,C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,377.0,K,
+2,C=CC=C.C=CC#N,Glass Transition Temperature,245.5,K,
+3,C=CC=C.C=CC#N,Glass Transition Temperature,270.0,K,
+4,C=CC=C.C=CC#N,Glass Transition Temperature,248.0,K,
+5,C=CC=C.C=CC#N,Glass Transition Temperature,248.0,K,
+6,C=CC=C.C=CC#N,Glass Transition Temperature,247.0,K,
+7,C=CC=C.C=CC#N,Glass Transition Temperature,241.0,K,
+8,C=CC=C.C=CC#N,Glass Transition Temperature,240.0,K,
+9,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,373.0,K,
+10,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,377.0,K,
+11,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,373.5,K,
+12,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,390.5,K,
+13,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,378.0,K,
+14,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,390.5,K,
+15,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,378.0,K,
+16,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,378.0,K,
+17,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,378.0,K,
+18,C=CC=C.C=CC#N.C=Cc1ccccc1,Glass Transition Temperature,378.0,K,
+19,CC(=C)C#N,Glass Transition Temperature,391.0,K,
+20,CC(=C)C#N,Glass Transition Temperature,393.0,K,
+21,CC(=C)C#N,Glass Transition Temperature,377.0,K,
+22,[K+].NC(=O)C=C.[O-]C(=O)C=C,Glass Transition Temperature,325.25,K,
+23,[K+].NC(=O)C=C.[O-]C(=O)C=C,Glass Transition Temperature,347.33333333,K,
+24,CCOC(=O)C(=C)C#N,Glass Transition Temperature,389.0,K,
+25,CCOC(=O)C(=C)C#N,Glass Transition Temperature,413.0,K,
+26,CCOC(=O)C(=C)C#N,Glass Transition Temperature,388.0,K,
+27,CCOC(=O)C(=C)C#N,Glass Transition Temperature,406.0,K,
+28,CC(C)COC(=O)C(=C)C#N,Glass Transition Temperature,403.0,K,
+29,CC(C)COC(=O)C(=C)C#N,Glass Transition Temperature,324.0,K,
+30,C=Cn1ccnc1,Glass Transition Temperature,411.0,K,
+31,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,211.5,K,
+32,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,221.0,K,
+33,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,221.0,K,
+34,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,323.0,K,
+35,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,383.0,K,
+36,C=CC=C.C=Cc1ccccc1,Glass Transition Temperature,375.0,K,
+37,CC(C)=C.CC(=C)C=C,Glass Transition Temperature,210.0,K,
+38,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,288.0,K,
+39,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,312.5,K,
+40,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,320.75,K,
+41,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,271.0,K,
+42,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,231.0,K,
+43,CC(=C)C=C.C=Cc1ccccc1,Glass Transition Temperature,237.5,K,
+44,ClC=C,Glass Transition Temperature,354.0,K,
+45,ClC=C,Glass Transition Temperature,362.0,K,
+46,ClC=C,Glass Transition Temperature,354.0,K,
+47,CC(O)COC(=O)C=C.CC(=O)OC=C.ClC=C,Glass Transition Temperature,336.0,K,
+48,CC(O)COC(=O)C=C.CC(=O)OC=C.ClC=C,Glass Transition Temperature,340.5,K,
+49,CC(O)COC(=O)C=C.CC(=O)OC=C.ClC=C,Glass Transition Temperature,326.0,K,
+50,CCF,Glass Transition Temperature,315.5,K,
+51,CCF,Glass Transition Temperature,253.0,K,
+52,CCF,Glass Transition Temperature,318.0,K,
+53,CCF,Glass Transition Temperature,255.5,K,
+54,FC(F)=C,Glass Transition Temperature,233.0,K,
+55,FC(F)=C(F)F.C=C,Glass Transition Temperature,383.0,K,
+56,FC(F)=C(F)Cl,Glass Transition Temperature,323.0,K,
+57,FC(F)=C(F)Cl,Glass Transition Temperature,358.0,K,
+58,FC(F)=C.FC(F)=C(F)F,Glass Transition Temperature,223.0,K,
+59,FC(F)=C.FC(F)=C(F)F,Glass Transition Temperature,226.0,K,
+60,CCc1ccccc1C=C.CNC.C=Cc2ccccc2.C=Cc3ccccc3C=C,Glass Transition Temperature,557.6666667000001,K,
+61,O=C1OCCCO1,Glass Transition Temperature,248.0,K,
+62,O=C1OCCCO1,Glass Transition Temperature,255.0,K,
+63,O=C1OCCCO1,Glass Transition Temperature,252.0,K,
+64,C1Cc2ccc(CCc3ccc1cc3)cc2,Glass Transition Temperature,363.0,K,
+65,C1Cc2ccc(CCc3ccc1cc3)cc2,Glass Transition Temperature,330.5,K,
+66,C1Cc2ccc(CCc3ccc1cc3)cc2,Glass Transition Temperature,319.5,K,
+67,C1Cc2ccc(CCc3ccc1cc3)cc2,Glass Transition Temperature,383.0,K,
+68,[K+].[O-]C(=O)C=C,Glass Transition Temperature,401.0,K,
+69,CCOC(=O)C=C,Glass Transition Temperature,249.0,K,
+70,CCOC(=O)C=C,Glass Transition Temperature,249.0,K,
+71,CCOC(=O)C=C,Glass Transition Temperature,248.0,K,
+72,OC=C,Glass Transition Temperature,358.0,K,
+73,OC=C,Glass Transition Temperature,331.0,K,
+74,OC=C,Glass Transition Temperature,358.0,K,
+75,OC=C,Glass Transition Temperature,353.0,K,
+76,OC=C,Glass Transition Temperature,323.0,K,
+77,CC(C)CC=C,Glass Transition Temperature,290.0,K,
+78,CC(C)CC=C,Glass Transition Temperature,311.0,K,
+79,CC(C)CC=C,Glass Transition Temperature,315.0,K,
+80,CC(C)CC=C,Glass Transition Temperature,307.0,K,
+81,CC(C)CC=C,Glass Transition Temperature,298.0,K,
+82,CC(C)CC=C,Glass Transition Temperature,315.0,K,
+83,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.CC(C)(c3cc(Br)c(O)c(Br)c3)c4cc(Br)c(O)c(Br)c4.ClC(Cl)=O,Glass Transition Temperature,458.0,K,
+84,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.CC(C)(c3cc(Br)c(O)c(Br)c3)c4cc(Br)c(O)c(Br)c4.ClC(Cl)=O,Glass Transition Temperature,480.0,K,
+85,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.CC(C)(c3cc(Br)c(O)c(Br)c3)c4cc(Br)c(O)c(Br)c4.ClC(Cl)=O,Glass Transition Temperature,485.0,K,
+86,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,418.0,K,
+87,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,411.0,K,
+88,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,409.0,K,
+89,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,407.0,K,
+90,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,406.0,K,
+91,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Glass Transition Temperature,406.0,K,
+92,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Glass Transition Temperature,443.0,K,
+93,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Glass Transition Temperature,457.0,K,
+94,C=Cc1ccccc1,Glass Transition Temperature,376.0,K,
+95,ClCC1(CCl)COC1,Glass Transition Temperature,219.0,K,
+96,CC1CO1.C=CCOCC2CO2,Glass Transition Temperature,211.0,K,
+97,C=C,Glass Transition Temperature,233.0,K,
+98,CCCCCCCCC=C,Glass Transition Temperature,243.5,K,
+99,CCCCCCCCC=C,Glass Transition Temperature,238.0,K,
+100,CCCCCCCCC=C,Glass Transition Temperature,232.0,K,
+101,COC(=O)c1ccc(cc1)C(=O)OC.OCCCCO,Glass Transition Temperature,371.0,K,
+102,COC(=O)c1ccc(cc1)C(=O)OC.OCCCCO,Glass Transition Temperature,317.0,K,
+103,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,243.0,K,
+104,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,214.0,K,
+105,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,208.0,K,
+106,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,241.0,K,
+107,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,225.0,K,
+108,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,220.0,K,
+109,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,230.0,K,
+110,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,223.5,K,
+111,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,248.0,K,
+112,OCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)c2ccc(cc2)C(O)=O,Glass Transition Temperature,323.0,K,
+113,C=CCC=C,Calculated Glass Transition Temperature,208,K,
+114,O=C(C(=C)C)NCc1ccccc1,Calculated Glass Transition Temperature,495,K,
+115,COC(=O)C(=C)C,Glass Transition Temperature,367 - 395,K,
+116,COC(=O)C(=C)C,Glass Transition Temperature,311 - 323,K,
+117,COC(=O)C(=C)C,Preferred Glass Transition Temperature,378,K,
+118,COC(=O)C(=C)C,Preferred Glass Transition Temperature,317,K,
+119,COC(=O)C(=C)C,Calculated Glass Transition Temperature,352 - 385,K,
+120,COC(=O)C(=C)C,Calculated Glass Transition Temperature,325,K,
+121,COC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,375,K,
+122,COC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,325,K,
+123,C=CC=C,Glass Transition Temperature,166 - 171,K,
+124,C=CC=C,Glass Transition Temperature,167 - 178,K,
+125,C=CC=C,Preferred Glass Transition Temperature,171,K,
+126,C=CC=C,Calculated Glass Transition Temperature,170 - 187,K,
+127,C=CC=C,Preferred Calculated Glass Transition Temperature,178,K,
+128,O=C1CCCCCCCN1,Glass Transition Temperature,323 - 324,K,
+129,O=C1CCCCCCCN1,Preferred Glass Transition Temperature,324,K,
+130,O=C1CCCCCCCN1,Calculated Glass Transition Temperature,313 - 325,K,
+131,O=C1CCCCCCCN1,Preferred Calculated Glass Transition Temperature,322,K,
+132,C=Cc1cc(F)ccc1F,Glass Transition Temperature,374,K,
+133,C=Cc1cc(F)ccc1F,Calculated Glass Transition Temperature,386 - 391,K,
+134,C=Cc1cc(F)ccc1F,Preferred Calculated Glass Transition Temperature,389,K,
+135,CCCOC(=O)C(=C)C,Glass Transition Temperature,308 - 332,K,
+136,CCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,319,K,
+137,CCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,311 - 329,K,
+138,CCCOC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,320,K,
+139,OC(=O)CCCCCCCCC(=O)O.OCCCCO,Glass Transition Temperature,211 - 216,K,
+140,OC(=O)CCCCCCCCC(=O)O.OCCCCO,Preferred Glass Transition Temperature,214,K,
+141,OC(=O)CCCCCCCCC(=O)O.OCCCCO,Calculated Glass Transition Temperature,202 - 229,K,
+142,OC(=O)CCCCCCCCC(=O)O.OCCCCO,Preferred Calculated Glass Transition Temperature,216,K,
+143,CCCCC=C,Glass Transition Temperature,223,K,
+144,CCCCC=C,Calculated Glass Transition Temperature,216 - 232,K,
+145,CCCCC=C,Preferred Calculated Glass Transition Temperature,226,K,
+146,COC(=O)C(=C)C#N,Glass Transition Temperature,433 - 438,K,
+147,COC(=O)C(=C)C#N,Preferred Glass Transition Temperature,436,K,
+148,COC(=O)C(=C)C#N,Calculated Glass Transition Temperature,425,K,
+149,OC(=O)CCC(=O)O.OCCCO,Glass Transition Temperature,232,K,
+150,OC(=O)CCC(=O)O.OCCCO,Calculated Glass Transition Temperature,241 - 249,K,
+151,OC(=O)CCC(=O)O.OCCCO,Preferred Calculated Glass Transition Temperature,245,K,
+152,COCC1CO1,Glass Transition Temperature,211,K,
+153,COCC1CO1,Calculated Glass Transition Temperature,210 - 222,K,
+154,COCC1CO1,Preferred Calculated Glass Transition Temperature,210,K,
+155,Oc1ccc(cc1)Cc1ccc(cc1)O.ClC(=O)Cl,Glass Transition Temperature,393 - 420,K,
+156,Oc1ccc(cc1)Cc1ccc(cc1)O.ClC(=O)Cl,Preferred Glass Transition Temperature,407,K,
+157,Oc1ccc(cc1)Cc1ccc(cc1)O.ClC(=O)Cl,Calculated Glass Transition Temperature,405 - 449,K,
+158,Oc1ccc(cc1)Cc1ccc(cc1)O.ClC(=O)Cl,Preferred Calculated Glass Transition Temperature,427,K,
+159,CCSC=C,Glass Transition Temperature,266,K,
+160,CCSC=C,Calculated Glass Transition Temperature,264 - 266,K,
+161,CCSC=C,Preferred Calculated Glass Transition Temperature,265,K,
+162,CC(=C)C(=O)Oc1ccccc1,Glass Transition Temperature,353 - 383,K,
+163,CC(=C)C(=O)Oc1ccccc1,Preferred Glass Transition Temperature,383,K,
+164,CC(=C)C(=O)Oc1ccccc1,Calculated Glass Transition Temperature,387,K,
+165,CCCCCCCC=C,Glass Transition Temperature,225,K,
+166,CCCCCCCC=C,Calculated Glass Transition Temperature,200 - 231,K,
+167,CCCCCCCC=C,Preferred Calculated Glass Transition Temperature,220,K,
+168,CCCCOC(=O)/C=C/C(=O)OCCCC,Calculated Glass Transition Temperature,228 - 274,K,
+169,CCCCOC(=O)/C=C/C(=O)OCCCC,Preferred Calculated Glass Transition Temperature,242,K,
+170,C=COC(=O)CC,Glass Transition Temperature,283,K,
+171,C=COC(=O)CC,Calculated Glass Transition Temperature,273 - 309,K,
+172,C=COC(=O)CC,Preferred Calculated Glass Transition Temperature,288,K,
+173,ClC(=C)Cl,Glass Transition Temperature,255 - 258,K,
+174,ClC(=C)Cl,Glass Transition Temperature,280 - 288,K,
+175,ClC(=C)Cl,Preferred Glass Transition Temperature,256,K,
+176,ClC(=C)Cl,Preferred Glass Transition Temperature,284,K,
+177,ClC(=C)Cl,Calculated Glass Transition Temperature,254,K,
+178,ClC(=C)Cl,Calculated Glass Transition Temperature,295,K,
+179,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,Glass Transition Temperature,290 - 353,K,
+180,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,Preferred Glass Transition Temperature,313,K,
+181,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,Calculated Glass Transition Temperature,313 - 325,K,
+182,OC(=O)c1ccc(cc1)C(=O)O.OCCCCO,Preferred Calculated Glass Transition Temperature,313,K,
+183,C=O,Glass Transition Temperature,188 - 243,K,
+184,C=O,Preferred Glass Transition Temperature,211,K,
+185,C=O,Calculated Glass Transition Temperature,207 - 226,K,
+186,C=O,Preferred Calculated Glass Transition Temperature,216,K,
+187,CC(=O)C(C)=C,Glass Transition Temperature,353 - 387,K,
+188,CC(=O)C(C)=C,Preferred Glass Transition Temperature,370,K,
+189,CC(=O)C(C)=C,Calculated Glass Transition Temperature,344,K,
+190,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Glass Transition Temperature,173,K,
+191,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Glass Transition Temperature,311 - 313,K,
+192,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,312,K,
+193,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,186,K,
+194,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,278 - 332,K,
+195,CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,3051,K,
+196,C=Cc1ccc(cc1)O,Glass Transition Temperature,428 - 431,K,
+197,C=Cc1ccc(cc1)O,Preferred Glass Transition Temperature,430,K,
+198,C=Cc1ccc(cc1)O,Calculated Glass Transition Temperature,443,K,
+199,C=Cc1ccc(cc1)O,Calculated Glass Transition Temperature,494,K,
+200,C1CCO1,Glass Transition Temperature,195 - 230,K,
+201,C1CCO1,Preferred Glass Transition Temperature,197,K,
+202,C1CCO1,Calculated Glass Transition Temperature,196 - 220,K,
+203,C1CCO1,Preferred Calculated Glass Transition Temperature,196,K,
+204,CCCCCCC=C,Glass Transition Temperature,208 - 228,K,
+205,CCCCCCC=C,Preferred Glass Transition Temperature,218,K,
+206,CCCCCCC=C,Calculated Glass Transition Temperature,203 - 225,K,
+207,CCCCCCC=C,Preferred Calculated Glass Transition Temperature,218,K,
+208,FC=C,Glass Transition Temperature,253,K,
+209,FC=C,Glass Transition Temperature,314 - 337,K,
+210,FC=C,Preferred Glass Transition Temperature,253,K,
+211,FC=C,Preferred Glass Transition Temperature,326,K,
+212,FC=C,Calculated Glass Transition Temperature,269,K,
+213,FC=C,Calculated Glass Transition Temperature,338,K,
+214,CSC=C,Glass Transition Temperature,272,K,
+215,CSC=C,Calculated Glass Transition Temperature,266 - 273,K,
+216,CSC=C,Preferred Calculated Glass Transition Temperature,270,K,
+217,CCCCC(COC(=O)C=C)CC,Glass Transition Temperature,218 - 223,K,
+218,CCCCC(COC(=O)C=C)CC,Preferred Glass Transition Temperature,221,K,
+219,CCCCC(COC(=O)C=C)CC,Calculated Glass Transition Temperature,222 - 229,K,
+220,CCCCC(COC(=O)C=C)CC,Preferred Calculated Glass Transition Temperature,222,K,
+221,CCCCSC=C,Glass Transition Temperature,253,K,
+222,CCCCSC=C,Calculated Glass Transition Temperature,254 - 265,K,
+223,CCCCSC=C,Preferred Calculated Glass Transition Temperature,254,K,
+224,C=CC(=O)OC1CCCCC1,Glass Transition Temperature,285 - 292,K,
+225,C=CC(=O)OC1CCCCC1,Preferred Glass Transition Temperature,289,K,
+226,C=CC(=O)OC1CCCCC1,Calculated Glass Transition Temperature,283 - 288,K,
+227,C=CC(=O)OC1CCCCC1,Preferred Calculated Glass Transition Temperature,286,K,
+228,CCCCCCCCNC(=O)C=C,Glass Transition Temperature,220,K,
+229,CCCCCCCCNC(=O)C=C,Calculated Glass Transition Temperature,228,K,
+230,CCCCCCCCNC(=O)C=C,Preferred Calculated Glass Transition Temperature,228,K,
+231,CCCCCCOCC1CO1,Glass Transition Temperature,188 - 190,K,
+232,CCCCCCOCC1CO1,Preferred Glass Transition Temperature,189,K,
+233,CCCCCCOCC1CO1,Calculated Glass Transition Temperature,184 - 207,K,
+234,CCCCCCOCC1CO1,Preferred Calculated Glass Transition Temperature,199,K,
+235,CC(=C)C(=O)OC(C)(C)C,Glass Transition Temperature,380 - 395,K,
+236,CC(=C)C(=O)OC(C)(C)C,Preferred Glass Transition Temperature,389,K,
+237,CC(=C)C(=O)OC(C)(C)C,Calculated Glass Transition Temperature,356 - 359,K,
+238,CC(=C)C(=O)OC(C)(C)C,Calculated Glass Transition Temperature,398,K,
+239,CC(=C)C(=O)OC(C)(C)C,Preferred Calculated Glass Transition Temperature,378,K,
+240,OC(=O)CCC(=O)O.OCCO,Glass Transition Temperature,262 - 272,K,
+241,OC(=O)CCC(=O)O.OCCO,Preferred Glass Transition Temperature,267,K,
+242,OC(=O)CCC(=O)O.OCCO,Calculated Glass Transition Temperature,248 - 276,K,
+243,OC(=O)CCC(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,267,K,
+244,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,346,K,
+245,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,380,K,
+246,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,304 - 316,K,
+247,C=CC(=O)OC(C)(C)C,Preferred Glass Transition Temperature,311,K,
+248,C=CC(=O)OC(C)(C)C,Calculated Glass Transition Temperature,295 - 332,K,
+249,C=CC(=O)OC(C)(C)C,Preferred Calculated Glass Transition Temperature,314,K,
+250,CC(=C)C#N,Glass Transition Temperature,383 - 393,K,
+251,CC(=C)C#N,Preferred Glass Transition Temperature,388,K,
+252,CC(=C)C#N,Calculated Glass Transition Temperature,383,K,
+253,OC(=O)c1ccc(cc1)CCCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Glass Transition Temperature,319 - 321,K,
+254,OC(=O)c1ccc(cc1)CCCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Preferred Glass Transition Temperature,320,K,
+255,OC(=O)c1ccc(cc1)CCCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Calculated Glass Transition Temperature,334,K,
+256,OC(=O)C=C,Glass Transition Temperature,348 - 399,K,
+257,OC(=O)C=C,Preferred Glass Transition Temperature,374,K,
+258,OC(=O)C=C,Calculated Glass Transition Temperature,359,K,
+259,CCCCCC(=O)OC=C,Calculated Glass Transition Temperature,232 - 240,K,
+260,CCCCCC(=O)OC=C,Preferred Calculated Glass Transition Temperature,236,K,
+261,OC(=O)c1ccccc1C(=O)O.OCCO,Glass Transition Temperature,290 - 304,K,
+262,OC(=O)c1ccccc1C(=O)O.OCCO,Preferred Glass Transition Temperature,297,K,
+263,OC(=O)c1ccccc1C(=O)O.OCCO,Calculated Glass Transition Temperature,303,K,
+264,CC(OC(=O)C=C)CC,Glass Transition Temperature,250 - 256,K,
+265,CC(OC(=O)C=C)CC,Preferred Glass Transition Temperature,253,K,
+266,CC(OC(=O)C=C)CC,Calculated Glass Transition Temperature,231 - 275,K,
+267,CC(OC(=O)C=C)CC,Preferred Calculated Glass Transition Temperature,250,K,
+268,CC(COC(=O)C(=C)C)O,Glass Transition Temperature,328 - 363,K,
+269,CC(COC(=O)C(=C)C)O,Preferred Glass Transition Temperature,349,K,
+270,CC(COC(=O)C(=C)C)O,Calculated Glass Transition Temperature,308 - 374,K,
+271,CC(COC(=O)C(=C)C)O,Preferred Calculated Glass Transition Temperature,341,K,
+272,CCCCOCC1CO1,Glass Transition Temperature,194,K,
+273,CCCCOCC1CO1,Calculated Glass Transition Temperature,191 - 210,K,
+274,CCCCOCC1CO1,Preferred Calculated Glass Transition Temperature,201,K,
+275,Brc1ccc(Br)cc1.Oc1ccccc1,Glass Transition Temperature,353 - 363,K,
+276,Brc1ccc(Br)cc1.Oc1ccccc1,Glass Transition Temperature,490,K,
+277,Brc1ccc(Br)cc1.Oc1ccccc1,Preferred Glass Transition Temperature,361,K,
+278,Brc1ccc(Br)cc1.Oc1ccccc1,Calculated Glass Transition Temperature,375 - 391,K,
+279,Brc1ccc(Br)cc1.Oc1ccccc1,Preferred Calculated Glass Transition Temperature,383,K,
+280,CCCCCCCCOC(=O)C(=C)C,Glass Transition Temperature,203 - 253,K,
+281,CCCCCCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,228,K,
+282,CCCCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,234,K,
+283,CC(=C)c1ccccc1,Glass Transition Temperature,435 - 455,K,
+284,CC(=C)c1ccccc1,Preferred Glass Transition Temperature,445,K,
+285,CC(=C)c1ccccc1,Calculated Glass Transition Temperature,401 - 469,K,
+286,CC(=C)c1ccccc1,Preferred Calculated Glass Transition Temperature,435,K,
+287,CCCOC(=O)/C=C/C(=O)OCCC,Glass Transition Temperature,258 - 260,K,
+288,CCCOC(=O)/C=C/C(=O)OCCC,Preferred Glass Transition Temperature,259,K,
+289,CCCOC(=O)/C=C/C(=O)OCCC,Calculated Glass Transition Temperature,251 - 294,K,
+290,CCCOC(=O)/C=C/C(=O)OCCC,Preferred Calculated Glass Transition Temperature,266,K,
+291,CCCCOC(=O)C=C,Glass Transition Temperature,218 - 224,K,
+292,CCCCOC(=O)C=C,Preferred Glass Transition Temperature,220,K,
+293,CCCCOC(=O)C=C,Calculated Glass Transition Temperature,229 - 233,K,
+294,CCCCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,229,K,
+295,Oc1c(C)cc(cc1C)C(c1cc(C)c(c(c1)C)O)(C)C.ClC(=O)Cl,Glass Transition Temperature,467,K,
+296,Oc1c(C)cc(cc1C)C(c1cc(C)c(c(c1)C)O)(C)C.ClC(=O)Cl,Calculated Glass Transition Temperature,447 - 471,K,
+297,Oc1c(C)cc(cc1C)C(c1cc(C)c(c(c1)C)O)(C)C.ClC(=O)Cl,Preferred Calculated Glass Transition Temperature,460,K,
+298,COC(=O)CC(=C)C(=O)OC,Glass Transition Temperature,368 - 377,K,
+299,COC(=O)CC(=C)C(=O)OC,Preferred Glass Transition Temperature,373,K,
+300,COC(=O)CC(=C)C(=O)OC,Calculated Glass Transition Temperature,361 - 371,K,
+301,COC(=O)CC(=C)C(=O)OC,Preferred Calculated Glass Transition Temperature,366,K,
+302,OC(=O)CCC(=O)O.OCCCCO,Glass Transition Temperature,233 - 242,K,
+303,OC(=O)CCC(=O)O.OCCCCO,Preferred Glass Transition Temperature,237,K,
+304,OC(=O)CCC(=O)O.OCCCCO,Calculated Glass Transition Temperature,231 - 255,K,
+305,OC(=O)CCC(=O)O.OCCCCO,Preferred Calculated Glass Transition Temperature,238,K,
+306,FC(=C)F,Glass Transition Temperature,212 - 286,K,
+307,FC(=C)F,Preferred Glass Transition Temperature,242,K,
+308,FC(=C)F,Calculated Glass Transition Temperature,206 - 278,K,
+309,FC(=C)F,Preferred Calculated Glass Transition Temperature,242,K,
+310,CCCCC(=O)OC=C,Calculated Glass Transition Temperature,245 - 253,K,
+311,CCCCC(=O)OC=C,Preferred Calculated Glass Transition Temperature,248,K,
+312,C=C(C)CC,Glass Transition Temperature,268,K,
+313,C=C(C)CC,Calculated Glass Transition Temperature,222 - 287,K,
+314,C=C(C)CC,Preferred Calculated Glass Transition Temperature,255,K,
+315,Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,Glass Transition Temperature,343 - 373,K,
+316,Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,Preferred Glass Transition Temperature,358,K,
+317,Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,Calculated Glass Transition Temperature,350 - 361,K,
+318,Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,Preferred Calculated Glass Transition Temperature,356,K,
+319,CC(=O)OC=C,Glass Transition Temperature,297 - 315,K,
+320,CC(=O)OC=C,Preferred Glass Transition Temperature,307,K,
+321,CC(=O)OC=C,Calculated Glass Transition Temperature,298 - 316,K,
+322,CC(=O)OC=C,Preferred Calculated Glass Transition Temperature,308,K,
+323,C1Cc2ccc(cc2)CCc2ccc1cc2,Glass Transition Temperature,333 - 353,K,
+324,C1Cc2ccc(cc2)CCc2ccc1cc2,Preferred Glass Transition Temperature,343,K,
+325,C1Cc2ccc(cc2)CCc2ccc1cc2,Calculated Glass Transition Temperature,316 - 354,K,
+326,C1Cc2ccc(cc2)CCc2ccc1cc2,Preferred Calculated Glass Transition Temperature,333,K,
+327,Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl,Glass Transition Temperature,513 - 553,K,
+328,Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl,Preferred Glass Transition Temperature,537,K,
+329,Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl,Calculated Glass Transition Temperature,486 - 533,K,
+330,Nc1cc(ccc1)N.ClC(=O)c1cc(ccc1)C(=O)Cl,Preferred Calculated Glass Transition Temperature,510,K,
+331,C=Cc1cccc(c1)C,Glass Transition Temperature,370,K,
+332,C=Cc1cccc(c1)C,Calculated Glass Transition Temperature,387 - 400,K,
+333,C=Cc1cccc(c1)C,Preferred Calculated Glass Transition Temperature,393,K,
+334,CCC=CC=C,Glass Transition Temperature,197,K,
+335,CCC=CC=C,Calculated Glass Transition Temperature,184 - 201,K,
+336,CCC=CC=C,Preferred Calculated Glass Transition Temperature,194,K,
+337,OC(=O)C(O)C,Glass Transition Temperature,326 - 337,K,
+338,OC(=O)C(O)C,Preferred Glass Transition Temperature,332,K,
+339,OC(=O)C(O)C,Calculated Glass Transition Temperature,285 - 342,K,
+340,OC(=O)C(O)C,Preferred Calculated Glass Transition Temperature,312,K,
+341,CCCCCCOC(=O)C=C,Glass Transition Temperature,192 - 216,K,
+342,CCCCCCOC(=O)C=C,Preferred Glass Transition Temperature,215,K,
+343,CCCCCCOC(=O)C=C,Calculated Glass Transition Temperature,214 - 227,K,
+344,CCCCCCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,219,K,
+345,CCCCCC=C,Glass Transition Temperature,220 - 242,K,
+346,CCCCCC=C,Preferred Glass Transition Temperature,231,K,
+347,CCCCCC=C,Calculated Glass Transition Temperature,227 - 228,K,
+348,CCCCCC=C,Preferred Calculated Glass Transition Temperature,227,K,
+349,C1CCCCOC1,Glass Transition Temperature,204,K,
+350,C1CCCCOC1,Calculated Glass Transition Temperature,187 - 218,K,
+351,C1CCCCOC1,Preferred Calculated Glass Transition Temperature,203,K,
+352,CC(=C)C(=O)OCCc1ccccc1,Glass Transition Temperature,299 - 329,K,
+353,CC(=C)C(=O)OCCc1ccccc1,Calculated Glass Transition Temperature,352,K,
+354,C1CNC1=O,Glass Transition Temperature,384,K,
+355,C1CNC1=O,Calculated Glass Transition Temperature,349 - 409,K,
+356,C1CNC1=O,Preferred Calculated Glass Transition Temperature,380,K,
+357,Brc1ccc(cc1)Br,Glass Transition Temperature,538,K,
+358,Brc1ccc(cc1)Br,Calculated Glass Transition Temperature,539 - 581,K,
+359,Brc1ccc(cc1)Br,Preferred Calculated Glass Transition Temperature,558,K,
+360,COC(=O)C=C,Glass Transition Temperature,278 - 304,K,
+361,COC(=O)C=C,Preferred Glass Transition Temperature,280,K,
+362,COC(=O)C=C,Calculated Glass Transition Temperature,269 - 293,K,
+363,COC(=O)C=C,Preferred Calculated Glass Transition Temperature,283,K,
+364,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,Glass Transition Temperature,580 - 620,K,
+365,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,Preferred Glass Transition Temperature,600,K,
+366,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,Calculated Glass Transition Temperature,588 - 601,K,
+367,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,Calculated Glass Transition Temperature,677,K,
+368,Nc1ccc(cc1)N.ClC(=O)c1ccc(cc1)C(=O)Cl,Preferred Calculated Glass Transition Temperature,595,K,
+369,C=CC(=O)Nc1ccccc1,Calculated Glass Transition Temperature,498,K,
+370,FC(F)C(F)(F)COC(=O)C(=C)C,Glass Transition Temperature,339 - 353,K,
+371,FC(F)C(F)(F)COC(=O)C(=C)C,Preferred Glass Transition Temperature,344,K,
+372,FC(F)C(F)(F)COC(=O)C(=C)C,Calculated Glass Transition Temperature,337 - 345,K,
+373,FC(F)C(F)(F)COC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,341,K,
+374,CC1CO1,Glass Transition Temperature,198 - 201,K,
+375,CC1CO1,Preferred Glass Transition Temperature,200,K,
+376,CC1CO1,Calculated Glass Transition Temperature,187 - 228,K,
+377,CC1CO1,Preferred Calculated Glass Transition Temperature,207,K,
+378,CC(=C)C,Glass Transition Temperature,195 - 208,K,
+379,CC(=C)C,Preferred Glass Transition Temperature,202,K,
+380,CC(=C)C,Calculated Glass Transition Temperature,202,K,
+381,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,Glass Transition Temperature,476 - 498,K,
+382,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,Preferred Glass Transition Temperature,489,K,
+383,Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl.Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)O,Calculated Glass Transition Temperature,505,K,
+384,C=Cc1ccccc1,Glass Transition Temperature,364 - 401,K,
+385,C=Cc1ccccc1,Preferred Glass Transition Temperature,373,K,
+386,C=Cc1ccccc1,Calculated Glass Transition Temperature,373 - 388,K,
+387,C=Cc1ccccc1,Preferred Calculated Glass Transition Temperature,379,K,
+388,C=Cc1ccc(cc1)Cl,Glass Transition Temperature,383 - 406,K,
+389,C=Cc1ccc(cc1)Cl,Preferred Glass Transition Temperature,398,K,
+390,C=Cc1ccc(cc1)Cl,Calculated Glass Transition Temperature,391 - 410,K,
+391,C=Cc1ccc(cc1)Cl,Preferred Calculated Glass Transition Temperature,401,K,
+392,FC(F)C(F)(F)COC(=O)C(=C),Glass Transition Temperature,247 - 251,K,
+393,FC(F)C(F)(F)COC(=O)C(=C),Preferred Glass Transition Temperature,249,K,
+394,FC(F)C(F)(F)COC(=O)C(=C),Calculated Glass Transition Temperature,232 - 268,K,
+395,FC(F)C(F)(F)COC(=O)C(=C),Preferred Calculated Glass Transition Temperature,250,K,
+396,OC(=O)CCCCCCCC(=O)O.CC(=O)OC(=O)C,Calculated Glass Transition Temperature,239 - 258,K,
+397,OC(=O)CCCCCCCC(=O)O.CC(=O)OC(=O)C,Preferred Calculated Glass Transition Temperature,247,K,
+398,CCCC=C,Glass Transition Temperature,221 - 287,K,
+399,CCCC=C,Preferred Glass Transition Temperature,238,K,
+400,CCCC=C,Calculated Glass Transition Temperature,222 - 238,K,
+401,CCCC=C,Preferred Calculated Glass Transition Temperature,229,K,
+402,CC(=C)C(=O)OCCCl,Glass Transition Temperature,365,K,
+403,CC(=C)C(=O)OCCCl,Calculated Glass Transition Temperature,342 - 369,K,
+404,CC(=C)C(=O)OCCCl,Preferred Calculated Glass Transition Temperature,355,K,
+405,C=CC(=O)NC(C)C,Glass Transition Temperature,358 - 415,K,
+406,C=CC(=O)NC(C)C,Preferred Glass Transition Temperature,403,K,
+407,C=CC(=O)NC(C)C,Calculated Glass Transition Temperature,382 - 423,K,
+408,C=CC(=O)NC(C)C,Preferred Calculated Glass Transition Temperature,402,K,
+409,ClCC1CO1,Glass Transition Temperature,251,K,
+410,ClCC1CO1,Calculated Glass Transition Temperature,256,K,
+411,C=CC(=O)NC(C)CC,Glass Transition Temperature,390,K,
+412,C=CC(=O)NC(C)CC,Calculated Glass Transition Temperature,357 - 393,K,
+413,C=CC(=O)NC(C)CC,Preferred Calculated Glass Transition Temperature,393,K,
+414,CC1CC(=O)O1,Glass Transition Temperature,268 - 288,K,
+415,CC1CC(=O)O1,Preferred Glass Transition Temperature,276,K,
+416,CC1CC(=O)O1,Calculated Glass Transition Temperature,272 - 286,K,
+417,CC1CC(=O)O1,Preferred Calculated Glass Transition Temperature,279,K,
+418,FC(=C(F)F)Cl,Glass Transition Temperature,318 - 423,K,
+419,FC(=C(F)F)Cl,Preferred Glass Transition Temperature,360,K,
+420,FC(=C(F)F)Cl,Calculated Glass Transition Temperature,307 - 458,K,
+421,FC(=C(F)F)Cl,Preferred Calculated Glass Transition Temperature,365,K,
+422,CC=CC=C,Glass Transition Temperature,200 - 215,K,
+423,CC=CC=C,Glass Transition Temperature,203 - 213,K,
+424,CC=CC=C,Glass Transition Temperature,199 - 204,K,
+425,CC=CC=C,Preferred Glass Transition Temperature,203,K,
+426,CC=CC=C,Calculated Glass Transition Temperature,180 - 202,K,
+427,CC=CC=C,Preferred Calculated Glass Transition Temperature,200,K,
+428,c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2,Glass Transition Temperature,428 - 450,K,
+429,c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2,Preferred Glass Transition Temperature,437,K,
+430,c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2,Calculated Glass Transition Temperature,428 - 452,K,
+431,c1cc(ccc1C(=O)Cl)C(=O)Cl.c1ccc(cc1)Oc2ccccc2,Preferred Calculated Glass Transition Temperature,440,K,
+432,C=CC1CCCCC1,Glass Transition Temperature,393 - 406,K,
+433,C=CC1CCCCC1,Preferred Glass Transition Temperature,400,K,
+434,C=CC1CCCCC1,Calculated Glass Transition Temperature,360 - 380,K,
+435,C=CC1CCCCC1,Preferred Calculated Glass Transition Temperature,370,K,
+436,C=Cc1ccc(cc1)C,Glass Transition Temperature,366 - 386,K,
+437,C=Cc1ccc(cc1)C,Preferred Glass Transition Temperature,380,K,
+438,C=Cc1ccc(cc1)C,Calculated Glass Transition Temperature,372 - 400,K,
+439,C=Cc1ccc(cc1)C,Preferred Calculated Glass Transition Temperature,380,K,
+440,CCCOC=C,Glass Transition Temperature,224,K,
+441,CCCOC=C,Calculated Glass Transition Temperature,218 - 223,K,
+442,CCCOC=C,Preferred Calculated Glass Transition Temperature,222,K,
+443,CC(C)(c1ccc(cc1)OCC2CO2)c3ccc(cc3)OCC4CO4,Glass Transition Temperature,373,K,
+444,CC(C)(c1ccc(cc1)OCC2CO2)c3ccc(cc3)OCC4CO4,Calculated Glass Transition Temperature,369 - 392,K,
+445,CC(C)(c1ccc(cc1)OCC2CO2)c3ccc(cc3)OCC4CO4,Preferred Calculated Glass Transition Temperature,381,K,
+446,O=C1CCCCCN1,Glass Transition Temperature,313 - 335,K,
+447,O=C1CCCCCN1,Preferred Glass Transition Temperature,324,K,
+448,O=C1CCCCCN1,Calculated Glass Transition Temperature,308 - 324,K,
+449,O=C1CCCCCN1,Preferred Calculated Glass Transition Temperature,324,K,
+450,C=C,Glass Transition Temperature,237 - 253,K,
+451,C=C,Glass Transition Temperature,190 - 196,K,
+452,C=C,Glass Transition Temperature,150 - 155,K,
+453,C=C,Preferred Glass Transition Temperature,245,K,
+454,C=C,Preferred Glass Transition Temperature,193,K,
+455,C=C,Preferred Glass Transition Temperature,153,K,
+456,C=C,Calculated Glass Transition Temperature,160 - 186,K,
+457,C=C,Calculated Glass Transition Temperature,239,K,
+458,C=C,Preferred Calculated Glass Transition Temperature,173,K,
+459,C=C,Preferred Calculated Glass Transition Temperature,239,K,
+460,C=CC#N,Glass Transition Temperature,370 - 398,K,
+461,C=CC#N,Preferred Glass Transition Temperature,383,K,
+462,C=CC#N,Calculated Glass Transition Temperature,355 - 418,K,
+463,C=CC#N,Preferred Calculated Glass Transition Temperature,387,K,
+464,CCOC(=O)/C=C/C(=O)OCC,Glass Transition Temperature,280 - 287,K,
+465,CCOC(=O)/C=C/C(=O)OCC,Preferred Glass Transition Temperature,284,K,
+466,CCOC(=O)/C=C/C(=O)OCC,Calculated Glass Transition Temperature,291 - 295,K,
+467,CCOC(=O)/C=C/C(=O)OCC,Preferred Calculated Glass Transition Temperature,293,K,
+468,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,Glass Transition Temperature,248 - 255,K,
+469,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,Preferred Glass Transition Temperature,255,K,
+470,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,Calculated Glass Transition Temperature,240 - 287,K,
+471,CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,Preferred Calculated Glass Transition Temperature,269,K,
+472,C=Cc1ccccc1Cl,Glass Transition Temperature,392 - 399,K,
+473,C=Cc1ccccc1Cl,Preferred Glass Transition Temperature,395,K,
+474,C=Cc1ccccc1Cl,Calculated Glass Transition Temperature,391 - 410,K,
+475,C=Cc1ccccc1Cl,Preferred Calculated Glass Transition Temperature,401,K,
+476,NCCCCCCCCCCC(=O)O,Glass Transition Temperature,315 - 319,K,
+477,NCCCCCCCCCCC(=O)O,Glass Transition Temperature,333 - 365,K,
+478,NCCCCCCCCCCC(=O)O,Preferred Glass Transition Temperature,317,K,
+479,NCCCCCCCCCCC(=O)O,Preferred Glass Transition Temperature,344,K,
+480,NCCCCCCCCCCC(=O)O,Calculated Glass Transition Temperature,303 - 315,K,
+481,NCCCCCCCCCCC(=O)O,Preferred Calculated Glass Transition Temperature,315,K,
+482,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,Glass Transition Temperature,356 - 451,K,
+483,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,Preferred Glass Transition Temperature,403,K,
+484,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,Calculated Glass Transition Temperature,390 - 392,K,
+485,CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,Preferred Calculated Glass Transition Temperature,391,K,
+486,CCCCOC(=O)C(=C)C,Glass Transition Temperature,286 - 328,K,
+487,CCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,294,K,
+488,CCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,288 - 298,K,
+489,CCCCOC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,293,K,
+490,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Glass Transition Temperature,473 - 493,K,
+491,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Preferred Glass Transition Temperature,482,K,
+492,Oc1ccc(cc1)c1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Calculated Glass Transition Temperature,482,K,
+493,C=CSc1ccccc1,Glass Transition Temperature,386,K,
+494,C=CSc1ccccc1,Calculated Glass Transition Temperature,398,K,
+495,C=Cc1ccccc1C,Glass Transition Temperature,409,K,
+496,C=Cc1ccccc1C,Calculated Glass Transition Temperature,387 - 400,K,
+497,C=Cc1ccccc1C,Preferred Calculated Glass Transition Temperature,394,K,
+498,CCCSC=C,Calculated Glass Transition Temperature,236 - 265,K,
+499,CCCSC=C,Preferred Calculated Glass Transition Temperature,253,K,
+500,O=C(C(=C)C)OC1CCCCC1,Glass Transition Temperature,349 - 406,K,
+501,O=C(C(=C)C)OC1CCCCC1,Preferred Glass Transition Temperature,374,K,
+502,O=C(C(=C)C)OC1CCCCC1,Calculated Glass Transition Temperature,367 - 373,K,
+503,O=C(C(=C)C)OC1CCCCC1,Preferred Calculated Glass Transition Temperature,370,K,
+504,OC(=O)CCCCCCCCC(=O)O.OCCCCCCO,Glass Transition Temperature,213,K,
+505,OC(=O)CCCCCCCCC(=O)O.OCCCCCCO,Calculated Glass Transition Temperature,196 - 227,K,
+506,OC(=O)CCCCCCCCC(=O)O.OCCCCCCO,Preferred Calculated Glass Transition Temperature,210,K,
+507,C1CCCO1,Glass Transition Temperature,185 - 194,K,
+508,C1CCCO1,Preferred Glass Transition Temperature,189,K,
+509,C1CCCO1,Calculated Glass Transition Temperature,192 - 208,K,
+510,C1CCCO1,Preferred Calculated Glass Transition Temperature,193,K,
+511,CCOC(=O)C(=C)C#N,Glass Transition Temperature,388 - 422,K,
+512,CCOC(=O)C(=C)C#N,Preferred Glass Transition Temperature,422,K,
+513,CCOC(=O)C(=C)C#N,Calculated Glass Transition Temperature,400 - 431,K,
+514,CCOC(=O)C(=C)C#N,Preferred Calculated Glass Transition Temperature,416,K,
+515,C=Cc1ccc(cc1)Br,Glass Transition Temperature,391 - 430,K,
+516,C=Cc1ccc(cc1)Br,Preferred Glass Transition Temperature,411,K,
+517,C=Cc1ccc(cc1)Br,Calculated Glass Transition Temperature,358 - 423,K,
+518,C=Cc1ccc(cc1)Br,Preferred Calculated Glass Transition Temperature,391,K,
+519,OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Glass Transition Temperature,462,K,
+520,OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Calculated Glass Transition Temperature,446 - 461,K,
+521,OC(=O)c1cc(ccc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Preferred Calculated Glass Transition Temperature,453,K,
+522,ClCCCl.[Na]S[Na],Glass Transition Temperature,223,K,
+523,ClCCCl.[Na]S[Na],Calculated Glass Transition Temperature,211 - 224,K,
+524,ClCCCl.[Na]S[Na],Preferred Calculated Glass Transition Temperature,223,K,
+525,O=C1CCCCCO1,Glass Transition Temperature,208 - 213,K,
+526,O=C1CCCCCO1,Preferred Glass Transition Temperature,208,K,
+527,O=C1CCCCCO1,Calculated Glass Transition Temperature,189 - 221,K,
+528,O=C1CCCCCO1,Preferred Calculated Glass Transition Temperature,205,K,
+529,CC=C.[C-]#[O+],Glass Transition Temperature,310 - 313,K,
+530,CC=C.[C-]#[O+],Preferred Glass Transition Temperature,312,K,
+531,CC=C.[C-]#[O+],Calculated Glass Transition Temperature,272 - 312,K,
+532,CC=C.[C-]#[O+],Preferred Calculated Glass Transition Temperature,312,K,
+533,COC=C,Glass Transition Temperature,228 - 260,K,
+534,COC=C,Preferred Glass Transition Temperature,245,K,
+535,COC=C,Calculated Glass Transition Temperature,255 - 257,K,
+536,COC=C,Preferred Calculated Glass Transition Temperature,256,K,
+537,OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Glass Transition Temperature,463 -  478,K,
+538,OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Preferred Glass Transition Temperature,472,K,
+539,OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Calculated Glass Transition Temperature,446 - 489,K,
+540,OC(=O)c1ccc(cc1)C(=O)O.Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,Preferred Calculated Glass Transition Temperature,462,K,
+541,C=CC(=O)NC(C)(C)C,Glass Transition Temperature,401,K,
+542,C=CC(=O)NC(C)(C)C,Calculated Glass Transition Temperature,402 - 433,K,
+543,C=CC(=O)NC(C)(C)C,Preferred Calculated Glass Transition Temperature,420,K,
+544,OC(=O)CCCCCCCCC(=O)O.OCCO,Glass Transition Temperature,243 - 245,K,
+545,OC(=O)CCCCCCCCC(=O)O.OCCO,Preferred Glass Transition Temperature,244,K,
+546,OC(=O)CCCCCCCCC(=O)O.OCCO,Calculated Glass Transition Temperature,221 - 243,K,
+547,OC(=O)CCCCCCCCC(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,237,K,
+548,C=CC(=O)OCc1ccccc1,Glass Transition Temperature,279 - 284,K,
+549,C=CC(=O)OCc1ccccc1,Preferred Glass Transition Temperature,282,K,
+550,C=CC(=O)OCc1ccccc1,Calculated Glass Transition Temperature,350 - 353,K,
+551,C=CC(=O)OCc1ccccc1,Preferred Calculated Glass Transition Temperature,352,K,
+552,CC(c1cc(Cl)c(c(c1)Cl)O)(c1cc(Cl)c(c(c1)Cl)O)C.ClC(=O)Cl,Glass Transition Temperature,493 - 504,K,
+553,CC(c1cc(Cl)c(c(c1)Cl)O)(c1cc(Cl)c(c(c1)Cl)O)C.ClC(=O)Cl,Preferred Glass Transition Temperature,500,K,
+554,CC(c1cc(Cl)c(c(c1)Cl)O)(c1cc(Cl)c(c(c1)Cl)O)C.ClC(=O)Cl,Calculated Glass Transition Temperature,461 - 496,K,
+555,CC(c1cc(Cl)c(c(c1)Cl)O)(c1cc(Cl)c(c(c1)Cl)O)C.ClC(=O)Cl,Preferred Calculated Glass Transition Temperature,496,K,
+556,CCOCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,297,K,
+557,OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO,Glass Transition Temperature,386 - 398,K,
+558,OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO,Preferred Glass Transition Temperature,392,K,
+559,OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO,Calculated Glass Transition Temperature,366 - 414,K,
+560,OC(=O)c1ccc2c(c1)ccc(c2)C(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,389,K,
+561,C=COC(=O)c1ccccc1,Glass Transition Temperature,341 - 347,K,
+562,C=COC(=O)c1ccccc1,Preferred Glass Transition Temperature,344,K,
+563,C=COC(=O)c1ccccc1,Calculated Glass Transition Temperature,343 - 361,K,
+564,C=COC(=O)c1ccccc1,Preferred Calculated Glass Transition Temperature,352,K,
+565,CC(=O)C=C,Glass Transition Temperature,301,K,
+566,CC(=O)C=C,Calculated Glass Transition Temperature,305,K,
+567,C=CC(=O)OCC#N,Glass Transition Temperature,296,K,
+568,C=CC(=O)OCC#N,Calculated Glass Transition Temperature,295,K,
+569,C=CC(C)(C)C,Glass Transition Temperature,337,K,
+570,C=CC(C)(C)C,Calculated Glass Transition Temperature,328 - 348,K,
+571,C=CC(C)(C)C,Preferred Calculated Glass Transition Temperature,340,K,
+572,ClC=C,Glass Transition Temperature,344 - 354,K,
+573,ClC=C,Glass Transition Temperature,370 - 380,K,
+574,ClC=C,Preferred Glass Transition Temperature,350,K,
+575,ClC=C,Preferred Glass Transition Temperature,375,K,
+576,ClC=C,Calculated Glass Transition Temperature,345 - 354,K,
+577,ClC=C,Preferred Calculated Glass Transition Temperature,350,K,
+578,OCCOCCO.O=C=NCCCCCCN=C=O,Glass Transition Temperature,272 - 290,K,
+579,OCCOCCO.O=C=NCCCCCCN=C=O,Preferred Glass Transition Temperature,281,K,
+580,OCCOCCO.O=C=NCCCCCCN=C=O,Calculated Glass Transition Temperature,265 - 284,K,
+581,OCCOCCO.O=C=NCCCCCCN=C=O,Preferred Calculated Glass Transition Temperature,275,K,
+582,CC(=O)NC(=O)C(=C)C,Calculated Glass Transition Temperature,445,K,
+583,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1,Glass Transition Temperature,353,K,
+584,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1,Calculated Glass Transition Temperature,344 - 364,K,
+585,O1C C1COc1ccc(cc1)Cc1ccc(cc1)OC C1O C1,Preferred Calculated Glass Transition Temperature,352,K,
+586,CC(=C)C(=O)OCCO,Glass Transition Temperature,359,K,
+587,CC(=C)C(=O)OCCO,Glass Transition Temperature,393,K,
+588,CC(=C)C(=O)OCCO,Calculated Glass Transition Temperature,350 - 408,K,
+589,CC(=C)C(=O)OCCO,Preferred Calculated Glass Transition Temperature,375,K,
+590,OC(=O)CCCCCCCCC(=O)O.NCCCCCCN,Glass Transition Temperature,283 - 343,K,
+591,OC(=O)CCCCCCCCC(=O)O.NCCCCCCN,Preferred Glass Transition Temperature,320,K,
+592,OC(=O)CCCCCCCCC(=O)O.NCCCCCCN,Calculated Glass Transition Temperature,295 - 323,K,
+593,OC(=O)CCCCCCCCC(=O)O.NCCCCCCN,Preferred Calculated Glass Transition Temperature,321,K,
+594,C=CC(=C)Cl,Glass Transition Temperature,227 - 253,K,
+595,C=CC(=C)Cl,Preferred Glass Transition Temperature,237,K,
+596,C=CC(=C)Cl,Calculated Glass Transition Temperature,244,K,
+597,C=Cc1ccccc1OC,Glass Transition Temperature,348,K,
+598,C=Cc1ccccc1OC,Calculated Glass Transition Temperature,342 - 372,K,
+599,C=Cc1ccccc1OC,Preferred Calculated Glass Transition Temperature,357,K,
+600,CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C,Glass Transition Temperature,308 - 314,K,
+601,CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C,Preferred Glass Transition Temperature,311,K,
+602,CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C,Calculated Glass Transition Temperature,273 - 321,K,
+603,CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,303,K,
+604,C=CC(C)C,Glass Transition Temperature,323,K,
+605,C=CC(C)C,Calculated Glass Transition Temperature,272 - 309,K,
+606,C=CC(C)C,Preferred Calculated Glass Transition Temperature,292,K,
+607,FC(=C(F)F)F,Glass Transition Temperature,388 - 399,K,
+608,FC(=C(F)F)F,Glass Transition Temperature,200 - 243,K,
+609,FC(=C(F)F)F,Preferred Glass Transition Temperature,392,K,
+610,FC(=C(F)F)F,Preferred Glass Transition Temperature,211,K,
+611,FC(=C(F)F)F,Calculated Glass Transition Temperature,384 - 385,K,
+612,FC(=C(F)F)F,Preferred Calculated Glass Transition Temperature,385,K,
+613,CCCOC(=O)C=C,Glass Transition Temperature,228 - 236,K,
+614,CCCOC(=O)C=C,Preferred Glass Transition Temperature,231,K,
+615,CCCOC(=O)C=C,Calculated Glass Transition Temperature,228 - 254,K,
+616,CCCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,234,K,
+617,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,Glass Transition Temperature,410,K,
+618,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,Calculated Glass Transition Temperature,394 - 409,K,
+619,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCN,Preferred Calculated Glass Transition Temperature,409,K,
+620,CCOC(=O)C(=C)C,Glass Transition Temperature,330 - 378,K,
+621,CCOC(=O)C(=C)C,Preferred Glass Transition Temperature,338,K,
+622,CCOC(=O)C(=C)C,Calculated Glass Transition Temperature,341,K,
+623,CCCCCCCCCCCCOC(=O)C(=C)C,Glass Transition Temperature,208 - 240,K,
+624,CCCCCCCCCCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,218,K,
+625,CCCCCCCCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,208 - 231,K,
+626,CCCCCCCCCCCCOC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,219,K,
+627,CCCCCCCCOC=C,Glass Transition Temperature,193 - 194,K,
+628,CCCCCCCCOC=C,Preferred Glass Transition Temperature,193,K,
+629,CCCCCCCCOC=C,Calculated Glass Transition Temperature,184 - 211,K,
+630,CCCCCCCCOC=C,Preferred Calculated Glass Transition Temperature,196,K,
+631,CCOC(=O)C=C,Glass Transition Temperature,248 - 251,K,
+632,CCOC(=O)C=C,Preferred Glass Transition Temperature,250,K,
+633,CCOC(=O)C=C,Calculated Glass Transition Temperature,225 - 260,K,
+634,CCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,254,K,
+635,OC(=O)c1ccc(cc1)C(=O)O.OCCCO,Glass Transition Temperature,315 - 341,K,
+636,OC(=O)c1ccc(cc1)C(=O)O.OCCCO,Preferred Glass Transition Temperature,327,K,
+637,OC(=O)c1ccc(cc1)C(=O)O.OCCCO,Calculated Glass Transition Temperature,324 - 331,K,
+638,OC(=O)c1ccc(cc1)C(=O)O.OCCCO,Preferred Calculated Glass Transition Temperature,330,K,
+639,COC(=O)/C=C/C(=O)OC,Glass Transition Temperature,367 - 378,K,
+640,COC(=O)/C=C/C(=O)OC,Preferred Glass Transition Temperature,373,K,
+641,COC(=O)/C=C/C(=O)OC,Calculated Glass Transition Temperature,368 - 379,K,
+642,COC(=O)/C=C/C(=O)OC,Preferred Calculated Glass Transition Temperature,374,K,
+643,OC(=O)c1cccc(c1)C(=O)O.OCCO,Glass Transition Temperature,324,K,
+644,OC(=O)c1cccc(c1)C(=O)O.OCCO,Calculated Glass Transition Temperature,334 - 342,K,
+645,OC(=O)c1cccc(c1)C(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,338,K,
+646,OC(=O)CCCCC(=O)O.OCCCCO,Glass Transition Temperature,199 - 205,K,
+647,OC(=O)CCCCC(=O)O.OCCCCO,Preferred Glass Transition Temperature,202,K,
+648,OC(=O)CCCCC(=O)O.OCCCCO,Calculated Glass Transition Temperature,204 - 227,K,
+649,OC(=O)CCCCC(=O)O.OCCCCO,Preferred Calculated Glass Transition Temperature,212,K,
+650,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,Glass Transition Temperature,319,K,
+651,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,Calculated Glass Transition Temperature,316 - 320,K,
+652,NCCCCCCN.OC(=O)CCCCCCCCCCC(=O)O,Preferred Calculated Glass Transition Temperature,318,K,
+653,"C[Si](c1ccccc1)(Cl)Cl, CO[Si](C)(c1ccccc1)OC",Glass Transition Temperature,240 - 250,K,
+654,"C[Si](c1ccccc1)(Cl)Cl, CO[Si](C)(c1ccccc1)OC",Preferred Glass Transition Temperature,245,K,
+655,CC(=C)C(=O)NC(C)(C)C,Glass Transition Temperature,433,K,
+656,CC(=C)C(=O)NC(C)(C)C,Calculated Glass Transition Temperature,422 - 453,K,
+657,CC(=C)C(=O)NC(C)(C)C,Preferred Calculated Glass Transition Temperature,437,K,
+658,C=CC(=O)c1ccccc1,Glass Transition Temperature,314 - 331,K,
+659,C=CC(=O)c1ccccc1,Preferred Glass Transition Temperature,323,K,
+660,C=CC(=O)c1ccccc1,Calculated Glass Transition Temperature,344,K,
+661,Oc1c(cccc1c1ccccc1)c1ccccc1,Glass Transition Temperature,493 - 500,K,
+662,Oc1c(cccc1c1ccccc1)c1ccccc1,Preferred Glass Transition Temperature,497,K,
+663,Oc1c(cccc1c1ccccc1)c1ccccc1,Calculated Glass Transition Temperature,489 - 500,K,
+664,Oc1c(cccc1c1ccccc1)c1ccccc1,Preferred Calculated Glass Transition Temperature,495,K,
+665,CC(C)OC(=O)C=C,Glass Transition Temperature,262 - 284,K,
+666,CC(C)OC(=O)C=C,Preferred Glass Transition Temperature,271,K,
+667,CC(C)OC(=O)C=C,Calculated Glass Transition Temperature,252 - 276,K,
+668,CC(C)OC(=O)C=C,Preferred Calculated Glass Transition Temperature,264,K,
+669,"C[Si](C)(Cl)Cl, CO[Si](C)(C)OC",Glass Transition Temperature,146 - 152,K,
+670,"C[Si](C)(Cl)Cl, CO[Si](C)(C)OC",Preferred Glass Transition Temperature,149,K,
+671,"C[Si](C)(Cl)Cl, CO[Si](C)(C)OC",Calculated Glass Transition Temperature,145 - 150,K,
+672,"C[Si](C)(Cl)Cl, CO[Si](C)(C)OC",Preferred Calculated Glass Transition Temperature,147.5,K,
+673,CCCCCCOC(=O)C(=C)C,Glass Transition Temperature,256 - 274,K,
+674,CCCCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,266,K,
+675,CCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,264,K,
+676,ClCC(C)Cl.[Na]S[Na],Glass Transition Temperature,221 - 236,K,
+677,ClCC(C)Cl.[Na]S[Na],Preferred Glass Transition Temperature,227,K,
+678,ClCC(C)Cl.[Na]S[Na],Calculated Glass Transition Temperature,217 - 225,K,
+679,ClCC(C)Cl.[Na]S[Na],Preferred Calculated Glass Transition Temperature,221,K,
+680,CCCCOC(=O)C(=C)C#N,Glass Transition Temperature,358 - 396,K,
+681,CCCCOC(=O)C(=C)C#N,Preferred Glass Transition Temperature,374,K,
+682,CCCCOC(=O)C(=C)C#N,Calculated Glass Transition Temperature,328 - 367,K,
+683,CCCCOC(=O)C(=C)C#N,Preferred Calculated Glass Transition Temperature,344,K,
+684,O=C1OCC(=O)OC1,Glass Transition Temperature,308 - 318,K,
+685,O=C1OCC(=O)OC1,Preferred Glass Transition Temperature,312,K,
+686,O=C1OCC(=O)OC1,Calculated Glass Transition Temperature,314,K,
+687,CCCCOC=C,Glass Transition Temperature,218 - 253,K,
+688,CCCCOC=C,Preferred Glass Transition Temperature,220,K,
+689,CCCCOC=C,Calculated Glass Transition Temperature,207 - 225,K,
+690,CCCCOC=C,Preferred Calculated Glass Transition Temperature,210,K,
+691,CCCCCCCCCCCCCCCCCC(=O)OC=C,Glass Transition Temperature,318,K,
+692,CCCCCCCCCCCCCCCCCC(=O)OC=C,Calculated Glass Transition Temperature,262 - 313,K,
+693,CCCCCCCCCCCCCCCCCC(=O)OC=C,Preferred Calculated Glass Transition Temperature,279,K,
+694,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,Glass Transition Temperature,386,K,
+695,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,Calculated Glass Transition Temperature,355 - 387,K,
+696,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCN,Preferred Calculated Glass Transition Temperature,387,K,
+697,[O-]C(=O)[O-].[Na+].[Na+].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Glass Transition Temperature,425 - 436,K,
+698,[O-]C(=O)[O-].[Na+].[Na+].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Preferred Glass Transition Temperature,431,K,
+699,[O-]C(=O)[O-].[Na+].[Na+].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Calculated Glass Transition Temperature,437,K,
+700,CCCCCCCCOC(=O)C=C,Glass Transition Temperature,208,K,
+701,CCCCCCCCOC(=O)C=C,Calculated Glass Transition Temperature,205 - 229,K,
+702,CCCCCCCCOC(=O)C=C,Preferred Calculated Glass Transition Temperature,216,K,
+703,NCCCCCCCCCCCC(=O)O,Glass Transition Temperature,310 - 316,K,
+704,NCCCCCCCCCCCC(=O)O,Preferred Glass Transition Temperature,313,K,
+705,NCCCCCCCCCCCC(=O)O,Calculated Glass Transition Temperature,297 - 314,K,
+706,NCCCCCCCCCCCC(=O)O,Preferred Calculated Glass Transition Temperature,313,K,
+707,CCCCCCCCCCOC(=O)C(=C)C,Glass Transition Temperature,203 - 218,K,
+708,CCCCCCCCCCOC(=O)C(=C)C,Preferred Glass Transition Temperature,211,K,
+709,CCCCCCCCCCOC(=O)C(=C)C,Calculated Glass Transition Temperature,200 - 238,K,
+710,CCCCCCCCCCOC(=O)C(=C)C,Preferred Calculated Glass Transition Temperature,219,K,
+711,OC(=O)c1ccc(cc1)C(=O)O.OCCO,Glass Transition Temperature,338 - 350,K,
+712,OC(=O)c1ccc(cc1)C(=O)O.OCCO,Preferred Glass Transition Temperature,344,K,
+713,OC(=O)c1ccc(cc1)C(=O)O.OCCO,Calculated Glass Transition Temperature,346 - 361,K,
+714,OC(=O)c1ccc(cc1)C(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,346,K,
+715,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,Glass Transition Temperature,363 - 365,K,
+716,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,Preferred Glass Transition Temperature,364,K,
+717,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,Calculated Glass Transition Temperature,356 - 377,K,
+718,OC(=O)c1ccc(cc1)C(=O)O.OCC1CCC(CC1)CO,Preferred Calculated Glass Transition Temperature,369,K,
+719,C=CC(=O)OCCC#N,Glass Transition Temperature,277,K,
+720,C=CC(=O)OCCC#N,Calculated Glass Transition Temperature,276,K,
+721,C=CC(=O)OCCC#N,Calculated Glass Transition Temperature,290,K,
+722,C=CC(=O)OCCC#N,Preferred Calculated Glass Transition Temperature,276,K,
+723,O=C=O.CC1CO1,Glass Transition Temperature,301 - 316,K,
+724,O=C=O.CC1CO1,Preferred Glass Transition Temperature,310,K,
+725,O=C=O.CC1CO1,Calculated Glass Transition Temperature,273 - 304,K,
+726,O=C=O.CC1CO1,Preferred Calculated Glass Transition Temperature,293,K,
+727,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,Glass Transition Temperature,376,K,
+728,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C.NCCCCCCCCN,Calculated Glass Transition Temperature,378,K,
+729,C=C.[C-]#[O+],Glass Transition Temperature,291,K,
+730,C=C.[C-]#[O+],Calculated Glass Transition Temperature,277 - 303,K,
+731,C=C.[C-]#[O+],Preferred Calculated Glass Transition Temperature,290,K,
+732,NCCCCCCN.OC(=O)CCCCC(=O)O,Glass Transition Temperature,318 - 330,K,
+733,NCCCCCCN.OC(=O)CCCCC(=O)O,Preferred Glass Transition Temperature,324,K,
+734,NCCCCCCN.OC(=O)CCCCC(=O)O,Calculated Glass Transition Temperature,324 - 335,K,
+735,NCCCCCCN.OC(=O)CCCCC(=O)O,Preferred Calculated Glass Transition Temperature,324,K,
+736,C=CC(=O)OCC(C)C,Glass Transition Temperature,230 - 249,K,
+737,C=CC(=O)OCC(C)C,Preferred Glass Transition Temperature,240,K,
+738,C=CC(=O)OCC(C)C,Calculated Glass Transition Temperature,231 - 281,K,
+739,C=CC(=O)OCC(C)C,Preferred Calculated Glass Transition Temperature,243,K,
+740,BrC=CC=C,Glass Transition Temperature,225 - 241,K,
+741,BrC=CC=C,Preferred Glass Transition Temperature,233,K,
+742,BrC=CC=C,Calculated Glass Transition Temperature,234 - 252,K,
+743,BrC=CC=C,Preferred Calculated Glass Transition Temperature,243,K,
+744,CCCCCCCCOC(=O)C(=C)C#N,Glass Transition Temperature,313 - 331,K,
+745,CCCCCCCCOC(=O)C(=C)C#N,Preferred Glass Transition Temperature,322,K,
+746,CCCCCCCCOC(=O)C(=C)C#N,Calculated Glass Transition Temperature,212 - 232,K,
+747,CCCCCCCCOC(=O)C(=C)C#N,Calculated Glass Transition Temperature,308,K,
+748,CCCCCCCCOC(=O)C(=C)C#N,Preferred Calculated Glass Transition Temperature,308,K,
+749,CCC(=O)C=C,Glass Transition Temperature,213,K,
+750,CCC(=O)C=C,Calculated Glass Transition Temperature,268,K,
+751,NCCCCCCCCCC(=O)O,Glass Transition Temperature,315 - 316,K,
+752,NCCCCCCCCCC(=O)O,Preferred Glass Transition Temperature,315,K,
+753,NCCCCCCCCCC(=O)O,Calculated Glass Transition Temperature,309 - 317,K,
+754,NCCCCCCCCCC(=O)O,Preferred Calculated Glass Transition Temperature,314,K,
+755,OC(=N)C=C,Glass Transition Temperature,426 - 461,K,
+756,OC(=N)C=C,Preferred Glass Transition Temperature,438,K,
+757,OC(=N)C=C,Calculated Glass Transition Temperature,436,K,
+758,O=C(C(=C)C)OCc1ccccc1,Glass Transition Temperature,327,K,
+759,O=C(C(=C)C)OCc1ccccc1,Calculated Glass Transition Temperature,353,K,
+760,OC(=O)c1ccc(cc1)CCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Glass Transition Temperature,312 - 319,K,
+761,OC(=O)c1ccc(cc1)CCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Preferred Glass Transition Temperature,316,K,
+762,OC(=O)c1ccc(cc1)CCCCc1ccc(cc1)C(=O)O.CC(=O)OC(=O)C,Calculated Glass Transition Temperature,322 - 343,K,
+763,CCCCCCCCC=C,Glass Transition Temperature,232,K,
+764,CCCCCCCCC=C,Calculated Glass Transition Temperature,221 - 233,K,
+765,CCCCCCCCC=C,Preferred Calculated Glass Transition Temperature,226,K,
+766,CC(=C)C(=O)O,Glass Transition Temperature,501,K,
+767,CC(=C)C(=O)O,Calculated Glass Transition Temperature,511,K,
+768,C=COC(C)C,Glass Transition Temperature,261 - 270,K,
+769,C=COC(C)C,Preferred Glass Transition Temperature,270,K,
+770,C=COC(C)C,Calculated Glass Transition Temperature,253 - 281,K,
+771,C=COC(C)C,Preferred Calculated Glass Transition Temperature,267,K,
+772,C1COCO1,Glass Transition Temperature,209,K,
+773,C1COCO1,Calculated Glass Transition Temperature,201 - 210,K,
+774,C1COCO1,Preferred Calculated Glass Transition Temperature,211,K,
+775,CCCOC(=O)C(=C)Cl,Glass Transition Temperature,344,K,
+776,CCCOC(=O)C(=C)Cl,Calculated Glass Transition Temperature,324 - 369,K,
+777,CCCOC(=O)C(=C)Cl,Preferred Calculated Glass Transition Temperature,346,K,
+778,C(OC(=O)C)C,Glass Transition Temperature,341 - 372,K,
+779,C(OC(=O)C)C,Preferred Glass Transition Temperature,353,K,
+780,C(OC(=O)C)C,Calculated Glass Transition Temperature,356 - 358,K,
+781,C(OC(=O)C)C,Preferred Calculated Glass Transition Temperature,357,K,
+782,BrC=C,Glass Transition Temperature,373,K,
+783,BrC=C,Calculated Glass Transition Temperature,377,K,
+784,CCOC(=O)C(=C)Cl,Glass Transition Temperature,366,K,
+785,CCOC(=O)C(=C)Cl,Calculated Glass Transition Temperature,360 - 361,K,
+786,CCOC(=O)C(=C)Cl,Preferred Calculated Glass Transition Temperature,360,K,
+787,CCCOC(=O)CC(=C)C(=O)OCCC,Glass Transition Temperature,304 - 307,K,
+788,CCCOC(=O)CC(=C)C(=O)OCCC,Preferred Glass Transition Temperature,306,K,
+789,CCCOC(=O)CC(=C)C(=O)OCCC,Calculated Glass Transition Temperature,303,K,
+790,CCCOC(=O)CC(=C)C(=O)OCCC,Preferred Calculated Glass Transition Temperature,303,K,
+791,C1C(CO1)(CCl)CCl,Glass Transition Temperature,265 - 278,K,
+792,C1C(CO1)(CCl)CCl,Preferred Glass Transition Temperature,272,K,
+793,C1C(CO1)(CCl)CCl,Calculated Glass Transition Temperature,252 - 315,K,
+794,C1C(CO1)(CCl)CCl,Preferred Calculated Glass Transition Temperature,283,K,
+795,CCOC=C,Glass Transition Temperature,213 - 254,K,
+796,CCOC=C,Preferred Glass Transition Temperature,232,K,
+797,CCOC=C,Calculated Glass Transition Temperature,233 - 237,K,
+798,CCOC=C,Preferred Calculated Glass Transition Temperature,235,K,
+799,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Glass Transition Temperature,458 - 470,K,
+800,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Preferred Glass Transition Temperature,459,K,
+801,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Calculated Glass Transition Temperature,452 - 467,K,
+802,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Preferred Calculated Glass Transition Temperature,460,K,
+803,CC=C,Glass Transition Temperature,258 - 270,K,
+804,CC=C,Preferred Glass Transition Temperature,264,K,
+805,CC=C,Calculated Glass Transition Temperature,239 - 263,K,
+806,CC=C,Preferred Calculated Glass Transition Temperature,261,K,
+807,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Glass Transition Temperature,405 - 431,K,
+808,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Preferred Glass Transition Temperature,421,K,
+809,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Calculated Glass Transition Temperature,416 - 421,K,
+810,[Na]Oc1ccc(cc1)O[Na].O=C(c1ccc(cc1)Cl)c1ccc(cc1)Cl,Preferred Calculated Glass Transition Temperature,419,K,
+811,OC(=O)CCCCCCCCC(=O)O.CC(=O)OC(=O)C,Calculated Glass Transition Temperature,256,K,
+812,C=COCC(C)C,Glass Transition Temperature,254 - 255,K,
+813,C=COCC(C)C,Preferred Glass Transition Temperature,255,K,
+814,C=COCC(C)C,Calculated Glass Transition Temperature,241 - 255,K,
+815,C=COCC(C)C,Preferred Calculated Glass Transition Temperature,248,K,
+816,OCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Glass Transition Temperature,412,K,
+817,OCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Calculated Glass Transition Temperature,407 - 421,K,
+818,OCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Preferred Calculated Glass Transition Temperature,414,K,
+819,CCC=C,Glass Transition Temperature,228 - 249,K,
+820,CCC=C,Preferred Glass Transition Temperature,239,K,
+821,CCC=C,Calculated Glass Transition Temperature,238 - 246,K,
+822,CCC=C,Preferred Calculated Glass Transition Temperature,242,K,
+823,O1CC1,Glass Transition Temperature,206 - 207,K,
+824,O1CC1,Glass Transition Temperature,243 - 246,K,
+825,O1CC1,Preferred Glass Transition Temperature,207,K,
+826,O1CC1,Preferred Glass Transition Temperature,245,K,
+827,O1CC1,Preferred Glass Transition Temperature,225,K,
+828,O1CC1,Calculated Glass Transition Temperature,200 - 204,K,
+829,O1CC1,Calculated Glass Transition Temperature,251,K,
+830,O1CC1,Preferred Calculated Glass Transition Temperature,202,K,
+831,O1CC1,Preferred Calculated Glass Transition Temperature,251,K,
+832,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Glass Transition Temperature,465 - 493,K,
+833,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Preferred Glass Transition Temperature,479,K,
+834,Oc1ccc(cc1)O.Clc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Cl,Calculated Glass Transition Temperature,487,K,
+835,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Glass Transition Temperature,420 - 447,K,
+836,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Preferred Glass Transition Temperature,430,K,
+837,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Calculated Glass Transition Temperature,422 - 435,K,
+838,CC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Preferred Calculated Glass Transition Temperature,429,K,
+839,OCCOCCOCCOCCO.O=C=NCCCCCCN=C=O,Glass Transition Temperature,258,K,
+840,OCCOCCOCCOCCO.O=C=NCCCCCCN=C=O,Calculated Glass Transition Temperature,252 - 271,K,
+841,OCCOCCOCCOCCO.O=C=NCCCCCCN=C=O,Preferred Calculated Glass Transition Temperature,262,K,
+842,"CC[Si](CC)(Cl)Cl, CC[Si](CC)(OC)OC",Glass Transition Temperature,135 - 140,K,
+843,"CC[Si](CC)(Cl)Cl, CC[Si](CC)(OC)OC",Preferred Glass Transition Temperature,137,K,
+844,"CC[Si](CC)(Cl)Cl, CC[Si](CC)(OC)OC",Calculated Glass Transition Temperature,140,K,
+845,C=CCC(C)C,Glass Transition Temperature,297 - 333,K,
+846,C=CCC(C)C,Preferred Glass Transition Temperature,302,K,
+847,C=CCC(C)C,Calculated Glass Transition Temperature,263 - 302,K,
+848,C=CCC(C)C,Preferred Calculated Glass Transition Temperature,279,K,
+849,CCC(OC(=O)C(=C)C)C,Glass Transition Temperature,333,K,
+850,CCC(OC(=O)C(=C)C)C,Calculated Glass Transition Temperature,321 - 344,K,
+851,CCC(OC(=O)C(=C)C)C,Preferred Calculated Glass Transition Temperature,329,K,
+852,CCCC(=O)OC=C,Calculated Glass Transition Temperature,263 - 278,K,
+853,CCCC(=O)OC=C,Preferred Calculated Glass Transition Temperature,271,K,
+854,Clc1ccc(cc1)Cl.[Na]S[Na],Glass Transition Temperature,353 - 383,K,
+855,Clc1ccc(cc1)Cl.[Na]S[Na],Preferred Glass Transition Temperature,363,K,
+856,Clc1ccc(cc1)Cl.[Na]S[Na],Calculated Glass Transition Temperature,363 - 369,K,
+857,Clc1ccc(cc1)Cl.[Na]S[Na],Preferred Calculated Glass Transition Temperature,366,K,
+858,C=COC=O,Glass Transition Temperature,304 - 315,K,
+859,C=COC=O,Preferred Glass Transition Temperature,307,K,
+860,C=COC=O,Calculated Glass Transition Temperature,285 - 301,K,
+861,C=COC=O,Preferred Calculated Glass Transition Temperature,293,K,
+862,Oc1c(C)cccc1(C),Glass Transition Temperature,462 - 498,K,
+863,Oc1c(C)cccc1(C),Glass Transition Temperature,423 - 440,K,
+864,Oc1c(C)cccc1(C),Preferred Glass Transition Temperature,483,K,
+865,Oc1c(C)cccc1(C),Calculated Glass Transition Temperature,443 - 483,K,
+866,Oc1c(C)cccc1(C),Preferred Calculated Glass Transition Temperature,465,K,
+867,C=Cc1ccc(cc1)F,Glass Transition Temperature,368 - 384,K,
+868,C=Cc1ccc(cc1)F,Preferred Glass Transition Temperature,376,K,
+869,C=Cc1ccc(cc1)F,Calculated Glass Transition Temperature,386 - 402,K,
+870,C=Cc1ccc(cc1)F,Preferred Calculated Glass Transition Temperature,394,K,
+871,C=CC=C,Glass Transition Temperature,245 - 293,K,
+872,C=CC=C,Preferred Glass Transition Temperature,268,K,
+873,C=CC=C,Calculated Glass Transition Temperature,268 - 273,K,
+874,C=CC=C,Preferred Calculated Glass Transition Temperature,271,K,
+875,C=CC(=O)Oc1ccc(cc1)Cl,Glass Transition Temperature,331,K,
+876,C=CC(=O)Oc1ccc(cc1)Cl,Calculated Glass Transition Temperature,334,K,
+877,Oc1ccc(cc1)Sc1ccc(cc1)O.ClC(=O)Cl,Glass Transition Temperature,383 - 388,K,
+878,Oc1ccc(cc1)Sc1ccc(cc1)O.ClC(=O)Cl,Preferred Glass Transition Temperature,386,K,
+879,Oc1ccc(cc1)Sc1ccc(cc1)O.ClC(=O)Cl,Calculated Glass Transition Temperature,381,K,
+880,C=Cc1ccc(cc1)C(C)(C)C,Glass Transition Temperature,399 - 422,K,
+881,C=Cc1ccc(cc1)C(C)(C)C,Preferred Glass Transition Temperature,402,K,
+882,C=Cc1ccc(cc1)C(C)(C)C,Calculated Glass Transition Temperature,389 - 431,K,
+883,C=Cc1ccc(cc1)C(C)(C)C,Preferred Calculated Glass Transition Temperature,406,K,
+884,CC(COC(=O)C(=C)C)C,Glass Transition Temperature,326,K,
+885,CC(COC(=O)C(=C)C)C,Glass Transition Temperature,337,K,
+886,CC(COC(=O)C(=C)C)C,Calculated Glass Transition Temperature,321 - 322,K,
+887,CC(COC(=O)C(=C)C)C,Calculated Glass Transition Temperature,335 - 336,K,
+888,CC(COC(=O)C(=C)C)C,Preferred Calculated Glass Transition Temperature,328,K,
+889,CCC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Glass Transition Temperature,407 - 422,K,
+890,CCC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Preferred Glass Transition Temperature,415,K,
+891,CCC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Calculated Glass Transition Temperature,398 - 430,K,
+892,CCC(c1ccc(cc1)O)(c1ccc(cc1)O)C.ClC(=O)Cl,Preferred Calculated Glass Transition Temperature,414,K,
+893,O=C=O.C1CO1,Glass Transition Temperature,283 - 301,K,
+894,O=C=O.C1CO1,Preferred Glass Transition Temperature,290,K,
+895,O=C=O.C1CO1,Calculated Glass Transition Temperature,270 - 309,K,
+896,O=C=O.C1CO1,Preferred Calculated Glass Transition Temperature,286,K,
+897,C=CN1CCCC1=O,Glass Transition Temperature,438 - 448,K,
+898,C=CN1CCCC1=O,Preferred Glass Transition Temperature,443,K,
+899,C=CN1CCCC1=O,Calculated Glass Transition Temperature,455,K,
+900,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,Glass Transition Temperature,290 - 307,K,
+901,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,Preferred Glass Transition Temperature,297,K,
+902,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,Calculated Glass Transition Temperature,308 - 316,K,
+903,OC(=O)c1cccc(c1)C(=O)O.OCCCCO,Preferred Calculated Glass Transition Temperature,312,K,
+904,CCCCOC(=O)CC(=C)C(=O)OCCCC,Glass Transition Temperature,285,K,
+905,CCCCOC(=O)CC(=C)C(=O)OCCCC,Calculated Glass Transition Temperature,286 - 297,K,
+906,CCCCOC(=O)CC(=C)C(=O)OCCCC,Preferred Calculated Glass Transition Temperature,286,K,
+907,CC(OC(=O)C(=C)C)C,Glass Transition Temperature,354 - 358,K,
+908,CC(OC(=O)C(=C)C)C,Preferred Glass Transition Temperature,356,K,
+909,CC(OC(=O)C(=C)C)C,Calculated Glass Transition Temperature,329 - 364,K,
+910,CC(OC(=O)C(=C)C)C,Preferred Calculated Glass Transition Temperature,362,K,
+911,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,Glass Transition Temperature,415,K,
+912,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,Calculated Glass Transition Temperature,412 - 426,K,
+913,NCCCCCCN.ClC(=O)c1ccc(cc1)C(=O)Cl,Preferred Calculated Glass Transition Temperature,415,K,
+914,OC(=O)CCCCC(=O)O.OCCO,Glass Transition Temperature,203 - 233,K,
+915,OC(=O)CCCCC(=O)O.OCCO,Preferred Glass Transition Temperature,230,K,
+916,OC(=O)CCCCC(=O)O.OCCO,Calculated Glass Transition Temperature,228 - 236,K,
+917,OC(=O)CCCCC(=O)O.OCCO,Preferred Calculated Glass Transition Temperature,234,K,
+918,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Glass Transition Temperature,342 - 382,K,
+919,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Preferred Glass Transition Temperature,363,K,
+920,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Calculated Glass Transition Temperature,323,K,
+921,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Calculated Glass Transition Temperature,369,K,
+922,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Preferred Calculated Glass Transition Temperature,369,K,
+923,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Glass Transition Temperature,342 - 382,K,
+924,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Preferred Glass Transition Temperature,363,K,
+925,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Calculated Glass Transition Temperature,323,K,
+926,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Calculated Glass Transition Temperature,369,K,
+927,OCCCCO.O=C=Nc1ccc(cc1)Cc1ccc(cc1)N=C=O,Preferred Calculated Glass Transition Temperature,369,K,
+928,CC(O).O=CCCC,Calculated Glass Transition Temperature,335 - 351,K,
+929,CC(O).O=CCCC,Preferred Calculated Glass Transition Temperature,344,K,
+930,CC(O).O=C,Calculated Glass Transition Temperature,325 - 381,K,
+931,CC(O).O=C,Preferred Calculated Glass Transition Temperature,381,K,
+932,C=CC(=O)O,Glass Transition Temperature,379,K,
+933,C=CC(=O)O,Glass Transition Temperature,348,K,
+934,C=CC(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,426,K,
+935,C/C=C/C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,507,K,
+936,C/C=C/C=C/C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,388,K,
+937,C=CC(=O)OCc1ccccc1,Glass Transition Temperature,279,K,
+938,C=CC(=O)Oc1ccc(-c2ccccc2)cc1,Glass Transition Temperature,383,K,
+939,C=CC(=O)Oc1ccc(C(=O)OCCCC)cc1,Glass Transition Temperature,286,K,
+940,C=CC(=O)OCCCC,Glass Transition Temperature,219,K,Mechanical method
+941,C=CC(=O)OCCCC,Glass Transition Temperature,224,K,
+942,C=CC(=O)OC(C)CC,Glass Transition Temperature,251,K,conventional
+943,C=CC(=O)OC(C)CC,Glass Transition Temperature,253,K,conventional
+944,C=CC(=O)OC(C)CC,Glass Transition Temperature,253,K,syndiotactic
+945,C=CC(=O)OC(C)CC,Glass Transition Temperature,250,K,isotactic
+946,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,380,K,Conflicting data
+947,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,346,K,
+948,C=CC(=O)OC(C)(C)C,Glass Transition Temperature,304,K,
+949,C=CC(=O)Oc1ccccc1C(C)(C)C,Glass Transition Temperature,345,K,
+950,C=CC(=O)Oc1ccc(C(C)(C)C)cc1,Glass Transition Temperature,344,K,
+951,C=CC(=O)[O-].[Cs+],Glass Transition Temperature,447,K,Extrapolated from DSC data on water plasticized samples
+952,C=CC(=O)Oc1ccccc1Cl,Glass Transition Temperature,326,K,
+953,C=CC(=O)Oc1ccc(Cl)cc1,Glass Transition Temperature,331,K,
+954,C=CC(=O)Oc1ccc(Cl)cc1Cl,Glass Transition Temperature,333,K,
+955,C=CC(=O)OCc1ccc(C#N)cc1,Glass Transition Temperature,317,K,
+956,C=CC(=O)OCC(C#N)CC,Glass Transition Temperature,384.0 - 396.0,K,"Dilatomer, 10deg/min HR, DTA, f(polymerization)"
+957,C=CC(=O)OCC(C)(C)C#N,Glass Transition Temperature,324,K,"Dilatomer, 10deg/min HR"
+958,C=CC(=O)OCCCCC#N,Glass Transition Temperature,233.0 - 238.0,K,No experimental details
+959,C=CC(=O)OCCC#N,Glass Transition Temperature,277,K,
+960,C=CC(=O)OCCC#N,Glass Transition Temperature,388,K,"Dilatomer, 10deg/min HR"
+961,C=CC(=O)OCC(C#N)CCCCC,Glass Transition Temperature,389,K,DTA
+962,C=CC(=O)OCC(C#N)CCCC,Glass Transition Temperature,358,K,"Dilatomer, 10deg/min HR"
+963,C=CC(=O)OCC#N,Glass Transition Temperature,433,K,"Dilatomer, 10deg/min HR, DTA, f(polymerization)"
+964,C=CC(=O)OCCOCCC#N,Glass Transition Temperature,250,K,No experimental details
+965,C=CC(=O)Oc1ccc(C#N)cc1,Glass Transition Temperature,363,K,
+966,C=CC(=O)OCCSCC#N,Glass Transition Temperature,249,K,
+967,C=CC(=O)OCCSCCCC#N,Glass Transition Temperature,215,K,
+968,C=CC(=O)OCCCSCCC#N,Glass Transition Temperature,215,K,
+969,C=CC(=O)OCCCCCCSCC#N,Glass Transition Temperature,214,K,
+970,C=CC(=O)OCCSCCC#N,Glass Transition Temperature,223,K,
+971,C=CC(=O)OC1CCCCCCCCCCC1,Glass Transition Temperature,310,K,"DSC, onset, HR, 32deg/min, quenched"
+972,C=CC(=O)OC1CCCCC1,Glass Transition Temperature,292,K,conventional
+973,C=CC(=O)OC1CCCCC1,Glass Transition Temperature,289,K,syndiotactic
+974,C=CC(=O)OC1CCCCC1,Glass Transition Temperature,285,K,isotactic
+975,C=CC(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,Glass Transition Temperature,379,K,DSC heating rate; data corrected (sci)
+976,C=CC(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,Glass Transition Temperature,378,K,
+977,C/C=C/C(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,Glass Transition Temperature,432,K,
+978,C=CC(=O)Oc1cccc(N(C)C)c1,Glass Transition Temperature,320,K,
+979,C=CC(=O)OC(C)CC(C)C,Glass Transition Temperature,258,K,Brittle point
+980,C=CC(=O)OCCCCCCCCCCCC,Glass Transition Temperature,270,K,Brittle point
+981,C=CC(=O)Oc1ccccc1C(=O)OCC,Glass Transition Temperature,303,K,
+982,C=CC(=O)Oc1cccc(C(=O)OCC)c1,Glass Transition Temperature,297,K,
+983,C=CC(=O)Oc1ccc(C(=O)OCC)cc1,Glass Transition Temperature,310,K,
+984,C=CC(=O)OCCOCC,Glass Transition Temperature,223,K,
+985,C=CC(=O)OCCCOCC,Glass Transition Temperature,218,K,
+986,C=CC(=O)OCC,Glass Transition Temperature,249,K,conventional
+987,C=CC(=O)OCC,Glass Transition Temperature,251,K,conventional
+988,C=CC(=O)OCC,Glass Transition Temperature,249,K,syndiotactic
+989,C=CC(=O)OCC,Glass Transition Temperature,248,K,isotactic
+990,C=CC(=O)OCC(CC)CC,Glass Transition Temperature,223,K,Brittle point
+991,C=CC(=O)OCC(CC)CCCC,Glass Transition Temperature,223,K,Brittle point
+992,C=CC(=O)OC[c-]1cccc1.[Fe+2].c1cc[cH-]c1,Glass Transition Temperature,470.0 - 483.0,K,DSC heating rate
+993,C=CC(=O)OCF,Glass Transition Temperature,288,K,Estimated Tg
+994,C=CC(=O)OCc1ccco1,Glass Transition Temperature,321,K,
+995,C=CC(=O)OCCOCC(F)(F)C(F)(F)C(F)(F)F,Glass Transition Temperature,228,K,
+996,C=CC(=O)OCC(F)(F)C(F)(F)OC(F)(F)F,Glass Transition Temperature,218,K,
+997,C=CC(=O)OC(F)(C(F)(F)F)C(F)(F)F,Glass Transition Temperature,278.0 - 283.0,K,No details on sample or measurement
+998,C=CC(=O)OCCCCCCC,Glass Transition Temperature,213,K,Brittle point
+999,C=CC(=O)OC(C)CCCCC,Glass Transition Temperature,235,K,Brittle point
+1000,C=CC(=O)OCCCCCCCCCCCCCCCC,Glass Transition Temperature,308,K,Brittle point
+1001,C=CC(=O)OCC(F)(F)C(F)C(F)(F)F,Glass Transition Temperature,251,K,
+1002,C=CC(=O)OCCCCCC,Glass Transition Temperature,216,K,Brittle point
+1003,C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,Glass Transition Temperature,367,K,conventional
+1004,C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,Glass Transition Temperature,369,K,syndiotactic
+1005,C=CC(=O)OC1C[C@@H]2CC[C@@]1(C)C2(C)C,Glass Transition Temperature,363,K,isotactic
+1006,C=CC(=O)OCC(C)C,Glass Transition Temperature,249,K,Brittle point
+1007,C=CC(=O)OCC(C)C,Glass Transition Temperature,230,K,
+1008,C=CC(=O)OC(C)C,Glass Transition Temperature,267.0 - 270.0,K,
+1009,C=CC(=O)[O-].C=CC(=O)[O-].[Mg+2],Glass Transition Temperature,673,K,Estimated from copolymer data
+1010,C=CC(=O)OCCC(C)OC,Glass Transition Temperature,217,K,
+1011,C=CC(=O)Oc1ccccc1C(=O)OC,Glass Transition Temperature,319,K,
+1012,C=CC(=O)Oc1cccc(C(=O)OC)c1,Glass Transition Temperature,311,K,
+1013,C=CC(=O)Oc1ccc(C(=O)OC)cc1,Glass Transition Temperature,340,K,
+1014,C=CC(=O)OCCOC,Glass Transition Temperature,223,K,
+1015,C=CC(=O)Oc1ccc(OC)cc1,Glass Transition Temperature,324,K,
+1016,C=CC(=O)OCCCOC,Glass Transition Temperature,198,K,
+1017,C=CC(=O)OC,Glass Transition Temperature,283,K,conventional
+1018,C=CC(=O)OC,Glass Transition Temperature,284,K,"Dilatomer, conventional"
+1019,C=CC(=O)OC,Glass Transition Temperature,290,K,conventional
+1020,C=CC(=O)OC,Glass Transition Temperature,282,K,conventional
+1021,C=CC(=O)OC,Glass Transition Temperature,278,K,head to tail
+1022,C=CC(=O)OC,Glass Transition Temperature,304,K,head to head
+1023,C=CC(=O)OCC(C)CC,Glass Transition Temperature,241,K,Brittle point
+1024,C=CC(=O)OCCC(C)C,Glass Transition Temperature,228,K,Brittle point
+1025,C=CC(=O)OC(CCC(CC)CCCC)CC(C)C,Glass Transition Temperature,253,K,Brittle point
+1026,C=CC(=O)OCC(C)CCC,Glass Transition Temperature,235,K,Brittle point
+1027,C=CC(=O)Oc1ccc2ccccc2c1,Glass Transition Temperature,358,K,
+1028,C=CC(=O)OCC(C)(C)C,Glass Transition Temperature,295,K,
+1029,C=CC(=O)OCCCCCCCCC,Glass Transition Temperature,215,K,Brittle point
+1030,C=CC(=O)OCCCCCCCCC,Glass Transition Temperature,184,K,
+1031,C=CC(=O)OCCCCCCCC,Glass Transition Temperature,208,K,Brittle point
+1032,C=CC(=O)OC(C)CCCCCC,Glass Transition Temperature,228,K,Brittle point
+1033,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,Glass Transition Temperature,238,K,
+1034,C=CC(=O)OC(Br)(Br)c1ccc(Br)c(Br)c1Br,Glass Transition Temperature,453,K,
+1035,C=CC(=O)Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Glass Transition Temperature,420,K,
+1036,C=CC(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,Glass Transition Temperature,256,K,Crystalline
+1037,C=CC(=O)OCC(F)(F)C(F)(F)F,Glass Transition Temperature,247,K,
+1038,C=CC(=O)OCCCCC,Glass Transition Temperature,216,K,
+1039,C=CC(=O)OC(CC)CC,Glass Transition Temperature,267,K,
+1040,C=CC(=O)OCCc1ccccc1,Glass Transition Temperature,270,K,
+1041,C=CC(=O)Oc1ccccc1,Glass Transition Temperature,330,K,
+1042,C=CC(=O)[O-].[K+],Glass Transition Temperature,467,K,Extrapolated from data on water plasticized samples
+1043,C=CC(=O)OCCC,Glass Transition Temperature,236,K,Brittle point
+1044,C=CC(=O)OCCC,Glass Transition Temperature,228,K,
+1045,C=CC(=O)[O-].[Na+],Glass Transition Temperature,503,K,Estimated from copolymer data
+1046,C=CC(=O)OCCCCCCCCCCCCCC,Glass Transition Temperature,297,K,Brittle point; probably 1st order transition
+1047,C=CC(=O)OCCOCCOC(F)(F)C(F)F,Glass Transition Temperature,233,K,
+1048,C=CC(=O)OCCOC(F)(F)C(F)F,Glass Transition Temperature,251,K,
+1049,C=CC(=O)OCCSC,Glass Transition Temperature,213,K,
+1050,C=CC(=O)OCCCSCC,Glass Transition Temperature,197,K,
+1051,C=CC(=O)OCCCCSC,Glass Transition Temperature,203,K,
+1052,C=CC(=O)OCCSCC,Glass Transition Temperature,202,K,
+1053,C=CC(=O)OCCCSC,Glass Transition Temperature,208,K,
+1054,C=CC(=O)Oc1cccc(C)c1,Glass Transition Temperature,298,K,
+1055,C=CC(=O)Oc1ccccc1C,Glass Transition Temperature,325,K,
+1056,C=CC(=O)Oc1ccc(C)cc1,Glass Transition Temperature,316,K,
+1057,C=CC(=O)OCC(F)(F)F,Glass Transition Temperature,263,K,
+1058,C=CC(=O)OCCOCC(F)(F)F,Glass Transition Temperature,235,K,
+1059,C=CC(=O)OC1CC(C)CC(C)(C)C1,Glass Transition Temperature,288,K,
+1060,C=CC(=O)[O-].C=CC(=O)[O-].[Zn+2],Glass Transition Temperature,694,K,
+1061,C=CC(N)=O,Glass Transition Temperature,438,K,No experimental details
+1062,C=CC(=O)NCCCC,Glass Transition Temperature,319,K,Mechanical method
+1063,C=CC(=O)NC(C)CC,Glass Transition Temperature,390,K,No experimental details
+1064,C=CC(=O)NC(C)(C)C,Glass Transition Temperature,401,K,No experimental details
+1065,C=CC(=O)N(CCCC)CCCC,Glass Transition Temperature,333,K,"Softening point, amorphous"
+1066,C=CC(=O)N(C(C)C)C(C)C,Glass Transition Temperature,393,K,"Softening point, almost amorphous"
+1067,C=CC(=O)N(C)C,Glass Transition Temperature,362,K,
+1068,C=CC(=O)NCCCCCCCCCCCC,Glass Transition Temperature,198.0 - 320.0,K,"Conflicting data, 198K more probable in amorphous sample"
+1069,C=C(CCCCCCCC(C)C)C(N)=O,Glass Transition Temperature,313,K,No experimental details
+1070,C=C(CCCC(C)C)C(N)=O,Glass Transition Temperature,344,K,No experimental details
+1071,C=C(CCCCCCC(C)C)C(N)=O,Glass Transition Temperature,325,K,No experimental details
+1072,C=C(CCCCCC(C)C)C(N)=O,Glass Transition Temperature,339,K,No experimental details
+1073,C=CC(=O)NC(C)C,Glass Transition Temperature,358.0 - 403.0,K,Conflicting data
+1074,C=CC(=O)NC(C)CCC,Glass Transition Temperature,380,K,No experimental details
+1075,C=CC(=O)N(C)c1ccccc1,Glass Transition Temperature,453,K,"Softening point, amorphous"
+1076,C=CC(=O)NCCCCCCCCCCCCCCCCCC,Glass Transition Temperature,162,K,Mechanical method
+1077,C=CC(=O)NCCCCCCCC,Glass Transition Temperature,220,K,
+1078,C=C(C(N)=O)N1CCCCC1,Glass Transition Temperature,381,K,
+1079,C=C(C)C(=O)O.C=CC#N,Glass Transition Temperature,383,K,
+1080,C=C(C)C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,414,K,DSC heating rate
+1081,C=C(C)C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,456,K,
+1082,C=C(C)C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,456,K,
+1083,C=C(C)C(=O)OCc1ccccc1,Glass Transition Temperature,327,K,
+1084,C=C(C)C(=O)OCCBr,Glass Transition Temperature,325,K,
+1085,C=C(C)C(=O)OCCNC(C)(C)C,Glass Transition Temperature,306,K,
+1086,C=C(C)C(=O)OC1CCC(C(C)(C)C)CC1,Glass Transition Temperature,356,K,"DSC, f(HR)"
+1087,C=C(C)C(=O)OC1CCC(C(C)(C)C)CC1,Glass Transition Temperature,403.0 - 451.0,K,
+1088,C=C(C)C(=O)OCCCC,Glass Transition Temperature,293,K,~286 to 308K
+1089,C=C(C)C(=O)OCCCC,Glass Transition Temperature,300,K,
+1090,C=C(C)C(=O)OCCCC,Glass Transition Temperature,307,K,
+1091,C=C(C)C(=O)OCCCC,Glass Transition Temperature,328,K,298K elsewhere
+1092,C=C(C)C(=O)OCCCC,Glass Transition Temperature,297,K,
+1093,C=C(C)C(=O)OCCCC,Glass Transition Temperature,294,K,
+1094,C=C(C)C(=O)OCCCC,Glass Transition Temperature,299,K,
+1095,C=C(C)C(=O)OCCCC,Glass Transition Temperature,249,K,isotactic
+1096,C=C(C)C(=O)OCCCC,Glass Transition Temperature,328,K,syndiotactic
+1097,C=C(C)C(=O)OC(C)CC,Glass Transition Temperature,333,K,
+1098,C=C(C)C(=O)OC(C)(C)C,Glass Transition Temperature,391,K,"Maximum value, atactic"
+1099,C=C(C)C(=O)OC(C)(C)C,Glass Transition Temperature,395,K,
+1100,C=C(C)C(=O)OC(C)(C)C,Glass Transition Temperature,380,K,
+1101,C=C(C)C(=O)OC(C)(C)C,Glass Transition Temperature,387,K,"Maximum value, syndiotactic"
+1102,C=C(C)C(=O)OC(C)(C)C,Glass Transition Temperature,280,K,isotactic
+1103,C=C(C)C(=O)Oc1ccc(C(C)(C)C)cc1,Glass Transition Temperature,371,K,"DSC, f(HR)"
+1104,C=C(C)C(=O)OCCCl,Glass Transition Temperature,365,K,Likely to be slightly high
+1105,C=C(C)C(=O)OCCC#N,Glass Transition Temperature,364,K,
+1106,C=C(C)C(=O)Oc1ccc(CC#N)cc1,Glass Transition Temperature,401,K,
+1107,C=C(C)C(=O)Oc1ccc(C#N)cc1,Glass Transition Temperature,428,K,
+1108,C=C(C)C(=O)OC1CCC1,Glass Transition Temperature,351,K,
+1109,C=C(C)C(=O)OC1CCCCCCCCC1,Glass Transition Temperature,331,K,
+1110,C=C(C)C(=O)OC1CCCCCCCCCCC1,Glass Transition Temperature,329,K,
+1111,C=C(C)C(=O)OC1CCCCC1,Glass Transition Temperature,356,K,atactic
+1112,C=C(C)C(=O)OC1CCCCC1,Glass Transition Temperature,377,K,
+1113,C=C(C)C(=O)OC1CCCCC1,Glass Transition Temperature,406,K,
+1114,C=C(C)C(=O)OC1CCCCCCC1,Glass Transition Temperature,346,K,
+1115,C=C(C)C(=O)OCC1CCCCCCC1,Glass Transition Temperature,326,K,
+1116,C=C(C)C(=O)OC1CCCC1,Glass Transition Temperature,348,K,
+1117,C=C(C)C(=O)OCCCCCCCCCC,Glass Transition Temperature,203,K,
+1118,C=C(C)C(=O)OCCN(CC)CC,Glass Transition Temperature,289.0 - 297.0,K,
+1119,C=C(C)C(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,Glass Transition Temperature,469,K,Temperature reported as corrected
+1120,C=C(C)C(=O)OC12CC3CC(C)(CC(C)(C3)C1)C2,Glass Transition Temperature,467,K,
+1121,C=C(C)C(=O)OCCN(C)C,Glass Transition Temperature,292,K,
+1122,C=C(C)C(=O)OCCC(C)(C)C,Glass Transition Temperature,318,K,Vicat softening point 332K
+1123,C=C(C)C(=O)OCCC(C)(C)C,Glass Transition Temperature,318,K,
+1124,C=C(C)C(=O)OC(C)C(C)(C)C,Glass Transition Temperature,381,K,Vicat softening poing 396K
+1125,C=C(C)C(=O)OC(C)C(C)(C)C,Glass Transition Temperature,381,K,
+1126,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,Glass Transition Temperature,286,K,Mechanical method
+1127,C=C(C)C(=O)OCCCCCCCCCCCC,Glass Transition Temperature,208,K,Conflicting data
+1128,C=C(C)C(=O)OCC(CC)CCCC,Glass Transition Temperature,263,K,Brittle point
+1129,C=C(C)C(=O)OCC,Glass Transition Temperature,338,K,"Data covers range 320-343K, atactic"
+1130,C=C(C)C(=O)OCC,Glass Transition Temperature,339,K,atactic
+1131,C=C(C)C(=O)OCC,Glass Transition Temperature,352,K,atactic
+1132,C=C(C)C(=O)OCC,Glass Transition Temperature,362,K,atactic
+1133,C=C(C)C(=O)OCC,Glass Transition Temperature,331,K,atactic
+1134,C=C(C)C(=O)OCC,Glass Transition Temperature,330,K,atactic
+1135,C=C(C)C(=O)OCC,Glass Transition Temperature,344,K,atactic
+1136,C=C(C)C(=O)OCC,Glass Transition Temperature,359,K,"with 25% wt. of chromaphore I-doped polymer, atactic"
+1137,C=C(C)C(=O)OCC,Glass Transition Temperature,378,K,"with 25% wt. of chromaphore II-doped polymer, atactic"
+1138,C=C(C)C(=O)OCC,Glass Transition Temperature,348,K,atactic
+1139,C=C(C)C(=O)OCC,Glass Transition Temperature,347,K,"DSC, atactic"
+1140,C=C(C)C(=O)OCC,Glass Transition Temperature,285,K,isotactic
+1141,C=C(C)C(=O)OCC,Glass Transition Temperature,339,K,syndiotactic
+1142,C=C(C)C(=O)OCCS(=O)CC,Glass Transition Temperature,298,K,
+1143,C=C(C)C(=O)OCC1CO1,Glass Transition Temperature,347,K,
+1144,C=C(C)C(=O)OCC1CO1,Glass Transition Temperature,336,K,
+1145,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)F,Glass Transition Temperature,330,K,
+1146,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,Glass Transition Temperature,258,K,Mechanical method
+1147,C=C(C)C(=O)OCCCCCCCCCCCCCCCC,Glass Transition Temperature,288,K,"Brittle point, sample probably crystalline-may be Tm"
+1148,C=C(C)C(=O)OCCCCCC,Glass Transition Temperature,268,K,
+1149,C=C(C)C(=O)OCCCCCC,Glass Transition Temperature,273,K,
+1150,C=C(C)C(=O)OCCCCCC,Glass Transition Temperature,270,K,
+1151,C=C(C)C(=O)OCCCCCC,Glass Transition Temperature,274,K,
+1152,C=C(C)C(=O)OCCO,Glass Transition Temperature,358,K,
+1153,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,Glass Transition Temperature,383,K,
+1154,C=C(C)C(=O)OC1CC2CCC1(C)C2(C)C,Glass Transition Temperature,423,K,
+1155,C=C(C)C(=O)OCC(C)C,Glass Transition Temperature,326,K,random
+1156,C=C(C)C(=O)OCC(C)C,Glass Transition Temperature,281,K,isotactic
+1157,C=C(C)C(=O)OCC(C)C,Glass Transition Temperature,326,K,"80% syndiotactic, 20% isotactic"
+1158,C=C(C)C(=O)OCC(C)C,Glass Transition Temperature,326,K,
+1159,C=C(C)C(=O)OCC(C)C,Glass Transition Temperature,337,K,
+1160,C=C(C)C(=O)OC(C)C,Glass Transition Temperature,354,K,
+1161,C=C(C)C(=O)OC(C)C,Glass Transition Temperature,358,K,
+1162,C=C(C)C(=O)OC(C)C,Glass Transition Temperature,300,K,isotactic
+1163,C=C(C)C(=O)OC(C)C,Glass Transition Temperature,358,K,syndiotactic
+1164,C=C(C)C(=O)[O-].C=C(C)C(=O)[O-].[Mg+2],Glass Transition Temperature,763,K,Xp value
+1165,C=C(C)C(=O)O,Glass Transition Temperature,501,K,Xp data from plasticized samples
+1166,C=C(C)C(=O)Oc1ccc(C(=O)OC)cc1,Glass Transition Temperature,379,K,
+1167,C=C(C)C(=O)[O-],Glass Transition Temperature,273,K,
+1168,C=C(C)C(=O)OC,Glass Transition Temperature,378,K,
+1169,C=C(C)C(=O)OC,Glass Transition Temperature,379,K,
+1170,C=C(C)C(=O)OC,Glass Transition Temperature,400,K,
+1171,C=C(C)C(=O)OC,Glass Transition Temperature,387,K,
+1172,C=C(C)C(=O)OC,Glass Transition Temperature,391,K,
+1173,C=C(C)C(=O)OC,Glass Transition Temperature,384,K,DSC
+1174,C=C(C)C(=O)OC,Glass Transition Temperature,373,K,
+1175,C=C(C)C(=O)OC,Glass Transition Temperature,390,K,
+1176,C=C(C)C(=O)OC,Glass Transition Temperature,367,K,
+1177,C=C(C)C(=O)OC,Glass Transition Temperature,382,K,DSC
+1178,C=C(C)C(=O)OC,Glass Transition Temperature,423,K,
+1179,C=C(C)C(=O)OC,Glass Transition Temperature,395,K,
+1180,C=C(C)C(=O)OC,Glass Transition Temperature,378,K,atactic
+1181,C=C(C)C(=O)OC,Glass Transition Temperature,379,K,atactic
+1182,C=C(C)C(=O)OC,Glass Transition Temperature,380,K,atactic
+1183,C=C(C)C(=O)OC,Glass Transition Temperature,311,K,isotactic
+1184,C=C(C)C(=O)OC,Glass Transition Temperature,323,K,isotactic
+1185,C=C(C)C(=O)OC,Glass Transition Temperature,325,K,isotactic
+1186,C=C(C)C(=O)OC,Glass Transition Temperature,319,K,isotactic
+1187,C=C(C)C(=O)OC,Glass Transition Temperature,373,K,isotactic
+1188,C=C(C)C(=O)OC,Glass Transition Temperature,378,K,syndiotactic
+1189,C=C(C)C(=O)OC,Glass Transition Temperature,414,K,syndiotactic
+1190,C=C(C)C(=O)OC,Glass Transition Temperature,403,K,syndiotactic
+1191,C=C(C)C(=O)OC,Glass Transition Temperature,372,K,"DSC, rapid cooling, 10deg/min HR, onset point, Mn1¥, heterotactic"
+1192,C=C(C)C(=O)OC,Glass Transition Temperature,363,K,plasticized with 5% dibutylphthalate
+1193,C=C(C)C(=O)OC,Glass Transition Temperature,355,K,plasticized with 10% dibutylphthalate
+1194,C=C(C)C(=O)OC,Glass Transition Temperature,373,K,plasticized with 25% dibutylphthalate
+1195,C=C(C)C(=O)OC,Glass Transition Temperature,200.0 - 398.0,K,"DS, with bis(2-ethylhexyl phthalate)"
+1196,C=C(C)C(=O)OC,Glass Transition Temperature,252.0 - 373.0,K,"PCS, with bis(2-ethylhexyl phthalate)"
+1197,C=C(C)C(=O)OCCCCCCCCCCCCCCCCCC,Glass Transition Temperature,173,K,
+1198,C=C(C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,Glass Transition Temperature,309,K,Mechanical method
+1199,C=C(C)C(=O)OCCCCCCCC,Glass Transition Temperature,203.0 - 253.0,K,Conflicting data
+1200,C=C(C)C(=O)OCCCCCCCC,Glass Transition Temperature,253,K,
+1201,C=C(C)C(=O)OCCOC,Glass Transition Temperature,289,K,
+1202,C=C(C)C(=O)OCCCCC,Glass Transition Temperature,268,K,Brittle point
+1203,C=C(C)C(=O)OCC(C)(C)C,Glass Transition Temperature,299.0 - 312.0,K,"DSC, f(HR)"
+1204,C=C(C)C(=O)OCC(C)(C)C,Glass Transition Temperature,299,K,
+1205,C=C(C)C(=O)OCCc1ccccc1,Glass Transition Temperature,299,K,
+1206,C=C(C)C(=O)Oc1ccccc1,Glass Transition Temperature,383,K,
+1207,C=C(C)C(=O)Oc1ccccc1,Glass Transition Temperature,407,K,
+1208,C=C(C)C(=O)OCCC,Glass Transition Temperature,308,K,"Conflicting data, 308-345K reported"
+1209,C=C(C)C(=O)OCCC,Glass Transition Temperature,308,K,
+1210,C=C(C)C(=O)OCCC,Glass Transition Temperature,332,K,
+1211,C=C(C)C(=O)OCCC,Glass Transition Temperature,319,K,
+1212,C=C(C)C(=O)[O-].[Na+],Glass Transition Temperature,583,K,Xp value
+1213,C=C(C)C(=O)OCCCCCCCCCCCCCC,Glass Transition Temperature,201.0 - 264.0,K,Conflicting data
+1214,C=C(C)C(=O)OC(C)C(F)(F)F,Glass Transition Temperature,354,K,Vicat softening temperature
+1215,C=C(C)C(=O)OC1CC(C)CC(C)(C)C1,Glass Transition Temperature,398,K,
+1216,C=C(C)C(=O)OCCC(C)CC(C)(C)C,Glass Transition Temperature,274,K,
+1217,C=C(C)C(=O)O[Si](C)(C)C,Glass Transition Temperature,341,K,"Heating rate: 15K/min, isotactic"
+1218,C=C(C)C(=O)O[Si](C)(C)C,Glass Transition Temperature,400,K,"Weak Tg for syndiotactic polymer,syndiotactic"
+1219,C=C(C)C(=O)Oc1cccc(C)c1C,Glass Transition Temperature,398,K,
+1220,C=C(C)C(=O)Oc1c(C)cccc1C,Glass Transition Temperature,440,K,
+1221,CCCCOC(=O)c1ccc(C=C(C)C(N)=O)cc1,Glass Transition Temperature,401,K,Softening point
+1222,C=C(C)C(=O)NC(C)(C)C,Glass Transition Temperature,433,K,No experimental details
+1223,CC(=Cc1ccc(C(=O)O)cc1)C(N)=O,Glass Transition Temperature,473,K,Softening point
+1224,CCOC(=O)c1ccc(C=C(C)C(N)=O)cc1,Glass Transition Temperature,441,K,Softening point
+1225,COC(=O)c1ccc(C=C(C)C(N)=O)cc1,Glass Transition Temperature,453,K,Softening point
+1226,CCCCOC(=O)C=C(C)C(=O)OCCCC,Glass Transition Temperature,298,K,
+1227,C=C(Cl)C(=O)OCCCC,Glass Transition Temperature,330,K,Vicat softening point
+1228,C=C(Cl)C(=O)OC(C)CC,Glass Transition Temperature,347,K,Vicat softening point
+1229,C=C(C#N)C(=O)OCCCC,Glass Transition Temperature,358,K,
+1230,C=C(Cl)C(=O)OC1CCCCC1,Glass Transition Temperature,387,K,Vicat softening point
+1231,C=C(Cl)C(=O)OCC,Glass Transition Temperature,366,K,Vicat softening point
+1232,C=C(Cl)C(=O)OCC,Glass Transition Temperature,308,K,"Calculated for infinite Mn; heating rate: 20K/min, 10% isotactic"
+1233,C=C(Cl)C(=O)OCC,Glass Transition Temperature,404,K,"Calculated for infinite Mn; heating rate: 20K/min, 100% syndiotactic"
+1234,CCOC(=O)C=C(C)C(=O)OCC,Glass Transition Temperature,325,K,Intrinsic vicosity only 0.24dL/g
+1235,C=C(CC)C(=O)OCC,Glass Transition Temperature,300,K,
+1236,CCOC(=O)C(C)=CF,Glass Transition Temperature,316,K,
+1237,CCCCCCOC(=O)C=C(C)C(=O)OCCCCCC,Glass Transition Temperature,269,K,Intrinsic vicosity only 0.24dL/g
+1238,C=C(Cl)C(=O)OCC(C)C,Glass Transition Temperature,363,K,
+1239,C=C(Cl)C(=O)OC(C)C,Glass Transition Temperature,363,K,Vicat softening point
+1240,C=C(Cl)C(=O)OC,Glass Transition Temperature,413,K,Vicat softening point
+1241,C=C(F)C(=O)OC,Glass Transition Temperature,404,K,No details on samples or measurement
+1242,COC(=O)C(C)=CF,Glass Transition Temperature,357,K,No experimental details
+1243,C=C(C(=O)OC)c1ccccc1,Glass Transition Temperature,391,K,atactic
+1244,C=C(C(=O)OC)c1ccccc1,Glass Transition Temperature,397,K,isotactic
+1245,C=C(Cl)C(=O)OCCC,Glass Transition Temperature,344,K,Vicat softening point
+1246,C=CCCCC,Glass Transition Temperature,223,K,
+1247,C=CC(C)(C)C,Glass Transition Temperature,337,K,"Softening point, highly crystalline sample"
+1248,C=CC1CCCCC1,Glass Transition Temperature,393,K,atactic
+1249,C=CC1CCCCC1,Glass Transition Temperature,406,K,"Dynamic method, isotactic"
+1250,C=CC1CCCCC1,Glass Transition Temperature,313,K,Mechanical method
+1251,C=CCCCC1CCCCC1,Glass Transition Temperature,248,K,"Softening point, comparative data reported"
+1252,C=CC1CCCC1,Glass Transition Temperature,348,K,Dynamic method
+1253,C=CCCCCCCCCCC,Glass Transition Temperature,237,K,
+1254,C=CCCC(C)(C)C,Glass Transition Temperature,326,K,Softening point
+1255,C=C(C)C,Glass Transition Temperature,200,K,
+1256,C=C(C)C,Glass Transition Temperature,205,K,Volumetric measurements
+1257,C=C(C)C,Glass Transition Temperature,195,K,
+1258,C=C(C)C,Glass Transition Temperature,202,K,
+1259,C=C(C)C,Glass Transition Temperature,170.0 - 370.0,K,
+1260,C=C(C)C,Glass Transition Temperature,203,K,
+1261,C=C(C)C,Glass Transition Temperature,199,K,
+1262,C=CCCCC(C)(C)C,Glass Transition Temperature,313,K,"Softening point, crystalline sample"
+1263,C=CCCCCCCCCCCCC,Glass Transition Temperature,241,K,
+1264,C=C,Glass Transition Temperature,195,K,
+1265,C=C,Glass Transition Temperature,275,K,
+1266,C=C,Glass Transition Temperature,190,K,
+1267,C=C,Glass Transition Temperature,148,K,Conflicting interpretations of data; branch point transition at 252K
+1268,C=C,Glass Transition Temperature,148,K,"DSC,10/deg/min HR"
+1269,C=C,Glass Transition Temperature,222.0 - 250.0,K,WLF fit of volume relaxation
+1270,C=C,Glass Transition Temperature,163,K,-C-
+1271,C=C,Glass Transition Temperature,248,K,-C- and -C-C-
+1272,C=C,Glass Transition Temperature,155,K,[Poly(methylene)]
+1273,C=CCC,Glass Transition Temperature,235.0 - 250.0,K,Calorimeter
+1274,C=CCC,Glass Transition Temperature,249,K,Wide spread in reported values
+1275,C=CCC,Glass Transition Temperature,522,K,
+1276,C=CCCCCCCC,Glass Transition Temperature,226,K,Dynamic method
+1277,C=CCCCC,Glass Transition Temperature,215,K,Calorimeter
+1278,C=C(CCCCCC)CCCCCCCCCC,Glass Transition Temperature,328,K,"Dynamic method, stereoregular sample; may be first-order transition"
+1279,C=CCCCCCC,Glass Transition Temperature,208.0 - 228.0,K,Conflicting data
+1280,C=CCC(C)C,Glass Transition Temperature,302,K,Reported values range from 297 to 333K
+1281,C=CCC(C)C,Glass Transition Temperature,313,K,
+1282,C=CCC(C)C,Glass Transition Temperature,300,K,
+1283,C=CCC(C)C,Glass Transition Temperature,302,K,
+1284,C=CCC(C)C,Glass Transition Temperature,573,K,
+1285,C=CCCCC(C)C,Glass Transition Temperature,239,K,Softening point
+1286,C=CCCC(C)C,Glass Transition Temperature,259,K,Softening point
+1287,C=CC(C)C,Glass Transition Temperature,323,K,"Dynamic method, atactic"
+1288,C=CC(C)C,Glass Transition Temperature,367,K,"Dilatometry; suggested transition crystal/crystal type, isotactic"
+1289,C=CCC(C)(C)C,Glass Transition Temperature,332,K,"Softening point, crystalline sample"
+1290,C=CCCCCCCCCC,Glass Transition Temperature,236,K,
+1291,C=CCCCCCCCC,Glass Transition Temperature,232,K,
+1292,C=CCCC,Glass Transition Temperature,238,K,
+1293,C=CCCC,Glass Transition Temperature,511,K,
+1294,C=CCCCCC,Glass Transition Temperature,242,K,Dynamic method
+1295,C=CC,Glass Transition Temperature,238,K,atactic
+1296,C=CC,Glass Transition Temperature,260,K,"Conflicting data; most values reported range 258 to 270K, atactic"
+1297,C=CC,Glass Transition Temperature,266,K,"DSC, onset, f(MW), atactic"
+1298,C=CC,Glass Transition Temperature,253,K,atactic
+1299,C=CC,Glass Transition Temperature,267,K,"Light scattering under terminal mode, atactic"
+1300,C=CC,Glass Transition Temperature,170.0 - 370.0,K,atactic
+1301,C=CC,Glass Transition Temperature,243,K,atactic
+1302,C=CC,Glass Transition Temperature,263,K,atactic
+1303,C=CC,Glass Transition Temperature,265,K,"Most values range 238 to 260K, isotactic"
+1304,C=CC,Glass Transition Temperature,272,K,"DSC, onset, quenched, f(MW), isotactic"
+1305,C=CC,Glass Transition Temperature,265,K,"Most values range 263 to 267K, syndiotactic (c)"
+1306,C=CCCC,Glass Transition Temperature,233,K,Conflicting data
+1307,C=CCCCCCCCCCCCCCC,Glass Transition Temperature,246,K,
+1308,C=C=CC,Glass Transition Temperature,293,K,
+1309,C=C=CC,Glass Transition Temperature,258,K,
+1310,C=C=CC,Glass Transition Temperature,273,K,ionically-terminated
+1311,C=CC=C,Glass Transition Temperature,170.0 - 370.0,K,cis
+1312,C=CC(=C)Cl,Glass Transition Temperature,227,K,
+1313,C1=C[C@H]2[C@H]3C=C[C@H](C3)[C@H]2C1,Glass Transition Temperature,370,K,
+1314,C1=C[C@@H]2[C@H]3C=C[C@H](C3)[C@@H]2C1,Glass Transition Temperature,339,K,
+1315,C=CC(=C)C,Glass Transition Temperature,200,K,cis
+1316,C=CC(=C)C,Glass Transition Temperature,203,K,cis
+1317,C=CC(=C)C,Glass Transition Temperature,204,K,cis
+1318,C=CC(=C)C,Glass Transition Temperature,266,K,trans
+1319,C=CC(=C)C,Glass Transition Temperature,206.0 - 218.0,K,"DSC, Mdpt, f(HR,TH), trans"
+1320,C=CC(=C)C,Glass Transition Temperature,207,K,"DSC, onset, 20deg/min HR, trans"
+1321,C=CC(=C)C,Glass Transition Temperature,215,K,trans
+1322,C=CC(=C)C,Glass Transition Temperature,215,K,protonated
+1323,C=CC(=C)C,Glass Transition Temperature,311,K,
+1324,C1=CC2CCC1C2,Glass Transition Temperature,304,K,
+1325,C1=CC2CCC1C2,Glass Transition Temperature,337.0 - 313.0,K,With increase in spacer length
+1326,C[Si](C)(C)C1CC2C=CC1C2,Glass Transition Temperature,386,K,
+1327,C=CC=C,Glass Transition Temperature,269,K,"Published values range from 245 to 283K, atactic"
+1328,C=CC=C,Glass Transition Temperature,304.0 - 294.0,K,"With increase in spacer length, atactic"
+1329,C=CC=C,Glass Transition Temperature,258,K,"DSC, atactic"
+1330,C=CC=C,Glass Transition Temperature,249,K,atactic
+1331,C=CC=C,Glass Transition Temperature,261,K,"Volumetric measurements, atactic"
+1332,C=CC=C,Glass Transition Temperature,276,K,atactic
+1333,C=CC=C,Glass Transition Temperature,171,K,cis
+1334,C=CC=C,Glass Transition Temperature,186,K,deuterated
+1335,C=CC=C,Glass Transition Temperature,205,K,diol
+1336,C=CC=C,Glass Transition Temperature,199,K,diol (crosslinked)
+1337,C=CC=C,Glass Transition Temperature,211,K,"diol 50%, Poly(propylene oxide) diol 50%"
+1338,C=CC=C,Glass Transition Temperature,213,K,"diol 80%, Poly(propylene oxide) diol 20%"
+1339,C=CC=C,Glass Transition Temperature,250,K,"DSC, high"
+1340,C=CC=C,Glass Transition Temperature,258,K,"DSC, high"
+1341,C=CC=C,Glass Transition Temperature,264,K,"DSC, high"
+1342,C=CC=C,Glass Transition Temperature,274,K,"DSC, high"
+1343,C=CC=C,Glass Transition Temperature,268,K,"DSC, low"
+1344,C=CC=C,Glass Transition Temperature,261,K,"DSC, low"
+1345,C=CC=C,Glass Transition Temperature,182,K,protonated
+1346,C=CC=C,Glass Transition Temperature,272,K,PVE-0
+1347,C=CC=C,Glass Transition Temperature,276,K,PVE-5
+1348,C=CC=C,Glass Transition Temperature,279,K,PVE-11
+1349,C=CC=C,Glass Transition Temperature,282,K,PVE-22
+1350,C=CC=C,Glass Transition Temperature,285,K,PVE-44
+1351,C=CC=C,Glass Transition Temperature,287,K,PVE-66
+1352,C=CC=C,Glass Transition Temperature,215,K,"PVE-66, trans"
+1353,C=Cc1ccc(C(C)=O)cc1,Glass Transition Temperature,389,K,Mechanical method
+1354,C=Cc1ccc(C(=O)c2ccc(OC)cc2)cc1,Glass Transition Temperature,376,K,Mechanical method
+1355,C=Cc1ccc(C(=O)c2ccccc2)cc1,Glass Transition Temperature,371,K,Mechanical method
+1356,C=Cc1cc(Br)ccc1OCCCC,Glass Transition Temperature,320,K,Mechanical method
+1357,C=Cc1cc(Br)ccc1OCC,Glass Transition Temperature,353,K,Mechanical method
+1358,C=Cc1cc(Br)ccc1OCCC(C)C,Glass Transition Temperature,310,K,Mechanical method; low viscosity
+1359,C=Cc1cc(Br)ccc1OC(C)C,Glass Transition Temperature,308,K,Mechanical method
+1360,C=Cc1cc(Br)ccc1OC,Glass Transition Temperature,359,K,Mechanical method
+1361,C=Cc1cc(Br)ccc1OCCCCC,Glass Transition Temperature,322,K,Mechanical method; low viscosity
+1362,C=Cc1cc(Br)ccc1OCCC,Glass Transition Temperature,327,K,Mechanical method; low viscosity
+1363,C=Cc1ccc(Br)cc1,Glass Transition Temperature,391,K,
+1364,C=Cc1ccc(Br)cc1,Glass Transition Temperature,414.0 - 430.0,K,"DSC, Mdpt, f(TH)"
+1365,C=Cc1ccccc1C(=O)OCCCC,Glass Transition Temperature,339,K,Mechanical method
+1366,C=Cc1ccc(C(=O)OCCCC)cc1,Glass Transition Temperature,349,K,Mechanical method
+1367,CCCCOCCOCC=Cc1ccccc1,Glass Transition Temperature,235,K,
+1368,C=Cc1ccccc1COCCCC,Glass Transition Temperature,340,K,Mechanical method
+1369,C=Cc1ccc(COCCCC)cc1,Glass Transition Temperature,283,K,
+1370,C=Cc1ccc(OCCCC)cc1,Glass Transition Temperature,320,K,Mechanical method
+1371,C=Cc1cc(C(C)(C)C)ccc1C,Glass Transition Temperature,360,K,
+1372,C=Cc1ccc(CCCC)cc1,Glass Transition Temperature,279,K,
+1373,C=Cc1ccc(C(C)CC)cc1,Glass Transition Temperature,359,K,Softening point
+1374,CC(C)(C)C=Cc1ccccc1,Glass Transition Temperature,422,K,
+1375,C=Cc1ccc(C(C)(C)C)cc1,Glass Transition Temperature,399.0 - 404.0,K,"DSC, Mdpt, X. 1deg/min, f(CR)"
+1376,C=Cc1ccc(C(=O)CCC)cc1,Glass Transition Temperature,347,K,Mechanical method
+1377,C=Cc1ccccc1C(=O)O,Glass Transition Temperature,450,K,Mechanical method
+1378,C=Cc1ccc(C(=O)O)cc1,Glass Transition Temperature,386,K,Mechanical method
+1379,C=Cc1ccc(Cl)c(F)c1,Glass Transition Temperature,395,K,
+1380,C=Cc1ccc(Cl)cc1C,Glass Transition Temperature,418,K,
+1381,C=Cc1ccc(Cl)c(C)c1,Glass Transition Temperature,387,K,
+1382,C=Cc1ccccc1Cl,Glass Transition Temperature,392,K,
+1383,C=Cc1cccc(Cl)c1,Glass Transition Temperature,363,K,
+1384,C=Cc1ccc(Cl)cc1,Glass Transition Temperature,383,K,
+1385,C=Cc1ccc(Cl)cc1,Glass Transition Temperature,388.0 - 401.0,K,"DSC, Mdpt, f(TH)"
+1386,C=Cc1ccc(Cl)cc1,Glass Transition Temperature,298,K,
+1387,C=Cc1ccc(C#N)cc1,Glass Transition Temperature,393,K,"Sample thought to be crosslink rel=""stylesheet"" type=""text/css"" href=""/o/wdpp/wdpp_showref.jsp?contrib=39&titleid=775&group=1&refs=746"" target=""_self"">746"
+1388,C=Cc1ccc(CCCCCCCCCC)cc1,Glass Transition Temperature,208,K,
+1389,C=Cc1ccc(Cl)cc1Cl,Glass Transition Temperature,406,K,
+1390,C=Cc1cc(Cl)ccc1Cl,Glass Transition Temperature,379,K,
+1391,C=Cc1c(Cl)cccc1Cl,Glass Transition Temperature,440,K,
+1392,C=Cc1ccc(Cl)c(Cl)c1,Glass Transition Temperature,401,K,
+1393,C=Cc1ccc(C(=O)N(CC)CC)cc1,Glass Transition Temperature,375,K,Mechanical method
+1394,C=Cc1cc(F)ccc1F,Glass Transition Temperature,374,K,Softening point
+1395,C=Cc1ccc(C(C)C)cc1C(C)C,Glass Transition Temperature,435,K,Softening point
+1396,C=Cc1cc(C(C)C)ccc1C(C)C,Glass Transition Temperature,441,K,Softening point
+1397,C=Cc1ccccc1C(=O)N(C)C,Glass Transition Temperature,463,K,Mechanical method; low viscosity
+1398,C=Cc1ccc(C(=O)N(C)C)cc1,Glass Transition Temperature,398,K,Mechanical method
+1399,C=Cc1ccc(C)cc1C,Glass Transition Temperature,385,K,
+1400,C=Cc1cc(C)ccc1C,Glass Transition Temperature,416,K,DTA heating rate
+1401,C=Cc1ccc(C)c(C)c1,Glass Transition Temperature,384,K,DTA heating rate
+1402,C=Cc1cc(C)cc(C)c1,Glass Transition Temperature,377,K,
+1403,C=Cc1ccc(CCCCCCCCCCCC)cc1,Glass Transition Temperature,221,K,
+1404,C=Cc1ccccc1C(=O)OCC,Glass Transition Temperature,391,K,Mechanical method
+1405,C=Cc1ccc(C(=O)OCC)cc1,Glass Transition Temperature,367,K,Mechanical method
+1406,C=Cc1ccccc1COCC,Glass Transition Temperature,347,K,Mechanical method; low viscosity
+1407,C=Cc1ccc(OCC)cc1,Glass Transition Temperature,359,K,Mechanical method
+1408,C=Cc1ccccc1CC,Glass Transition Temperature,376,K,Softening point
+1409,C=Cc1cccc(CC)c1,Glass Transition Temperature,303,K,Softening point
+1410,C=Cc1ccc(CC)cc1,Glass Transition Temperature,300,K,Conflicting data
+1411,C=Cc1cc(C)ccc1F,Glass Transition Temperature,384,K,Mechanical method
+1412,C=Cc1ccc(F)cc1,Glass Transition Temperature,368,K,
+1413,C=Cc1ccc(CCCCCCCCCCCCCCCC)cc1,Glass Transition Temperature,278,K,
+1414,C=Cc1ccc(C(=O)CCCCC)cc1,Glass Transition Temperature,339,K,Mechanical method
+1415,C=Cc1ccccc1C(=O)OCCCCCC,Glass Transition Temperature,318,K,Mechanical method
+1416,C=Cc1ccc(C(=O)OCCCCCC)cc1,Glass Transition Temperature,339,K,Mechanical method
+1417,C=Cc1ccc(COCCCCCC)cc1,Glass Transition Temperature,253,K,Dynamic method
+1418,C=Cc1ccc(CCCCCC)cc1,Glass Transition Temperature,246,K,
+1419,C=Cc1ccccc1CO,Glass Transition Temperature,433,K,
+1420,C=Cc1cccc(CO)c1,Glass Transition Temperature,398,K,Dynamic method
+1421,C=Cc1ccc(CO)cc1,Glass Transition Temperature,413,K,
+1422,C=Cc1ccc(O)cc1,Glass Transition Temperature,433,K,
+1423,C=Cc1ccc(I)cc1,Glass Transition Temperature,429,K,
+1424,C=Cc1ccccc1C(=O)OCC(C)C,Glass Transition Temperature,400,K,Mechanical method
+1425,C=Cc1ccc(C(=O)OCC(C)C)cc1,Glass Transition Temperature,363,K,Mechanical method
+1426,C=Cc1ccccc1C(=O)OCCC(C)C,Glass Transition Temperature,341,K,Mechanical method
+1427,C=Cc1ccccc1COCCC(C)C,Glass Transition Temperature,351,K,Mechanical method; low viscosity
+1428,C=Cc1ccc(OCCC(C)C)cc1,Glass Transition Temperature,330,K,Mechanical method
+1429,C=Cc1ccccc1C(=O)OC(C)C,Glass Transition Temperature,419,K,Mechanical method
+1430,C=Cc1ccc(C(=O)OC(C)C)cc1,Glass Transition Temperature,368,K,Mechanical method
+1431,C=Cc1ccccc1COC(C)C,Glass Transition Temperature,361,K,Mechanical method; low viscosity
+1432,C=Cc1ccc(C(C)C)cc1,Glass Transition Temperature,306,K,Softening point
+1433,C=Cc1ccccc1C(=O)OC,Glass Transition Temperature,403,K,Mechanical method; low viscosity
+1434,C=Cc1ccc(C(=O)OC)cc1,Glass Transition Temperature,386,K,Mechanical method
+1435,C=Cc1ccccc1COC,Glass Transition Temperature,362,K,Mechanical method; low viscosity
+1436,C=Cc1ccc(COC)cc1,Glass Transition Temperature,350,K,Dynamic method
+1437,C=Cc1ccc(OC)cc1C,Glass Transition Temperature,358,K,Softening point
+1438,C=Cc1ccccc1OC,Glass Transition Temperature,348,K,Softening point
+1439,C=Cc1ccc(OC)cc1,Glass Transition Temperature,362,K,Mechanical method
+1440,C=Cc1ccccc1C(=O)NC,Glass Transition Temperature,462,K,Mechanical method
+1441,C=C(C)c1ccccc1,Glass Transition Temperature,293,K,"DSC, onset, 20deg/min HR"
+1442,C=C(C)c1ccccc1,Glass Transition Temperature,371.0 - 375.0,K,"DSC, Mdpt, 20deg/min HR, f(TH)"
+1443,C=C(C)c1ccccc1,Glass Transition Temperature,453,K,
+1444,C=C(C)c1ccccc1,Glass Transition Temperature,443,K,
+1445,C=C(C)c1ccccc1,Glass Transition Temperature,455,K,DSC
+1446,C=Cc1ccccc1C,Glass Transition Temperature,409,K,
+1447,C=Cc1cccc(C)c1,Glass Transition Temperature,370,K,DTA heating rate
+1448,C=Cc1ccc(C)cc1,Glass Transition Temperature,366,K,Conflicting data
+1449,C=Cc1ccc(C)cc1,Glass Transition Temperature,382,K,
+1450,C=Cc1ccc(OC)cc1,Glass Transition Temperature,386,K,"DSC, Mdpt, 320deg/min CR, 1 deg/min HR, f(TH, HR, Mn)"
+1451,C=Cc1ccc(C(=O)N2CCOCC2)cc1,Glass Transition Temperature,400,K,Mechanical method
+1452,C=Cc1ccc(CCCCCCCCCCCCCCCCCCC)cc1,Glass Transition Temperature,305,K,
+1453,C=Cc1ccc(CCCCCCCCC)cc1,Glass Transition Temperature,220,K,
+1454,C=Cc1ccc(CCCCCCCCCCCCCCCCCC)cc1,Glass Transition Temperature,305,K,
+1455,C=Cc1ccc(C(=O)CCCCCCC)cc1,Glass Transition Temperature,323,K,Mechanical method
+1456,C=Cc1ccccc1OCCCCCCCC,Glass Transition Temperature,286,K,
+1457,C=Cc1ccc(CCCCCCCC)cc1,Glass Transition Temperature,228,K,
+1458,C=Cc1c(F)c(F)c(F)c(F)c1F,Glass Transition Temperature,378,K,Heating rate: 5-20K/min
+1459,C=Cc1ccccc1C(=O)OCCCCC,Glass Transition Temperature,365,K,Mechanical method
+1460,C=Cc1ccccc1COCCCCC,Glass Transition Temperature,320,K,Mechanical method
+1461,FC(F)=C(F)c1c(F)c(F)c(F)c(F)c1F,Glass Transition Temperature,467,K,Heating rate: 5-20K/min
+1462,C=Cc1ccccc1COCCc1ccccc1,Glass Transition Temperature,336,K,Mechanical method; low viscosity
+1463,C=Cc1ccccc1C(=O)Oc1ccccc1,Glass Transition Temperature,397,K,Mechanical method; low viscosity
+1464,C=Cc1ccc(Oc2ccccc2)cc1,Glass Transition Temperature,373,K,Softening point
+1465,C=Cc1ccc(C(=O)Cc2ccccc2)cc1,Glass Transition Temperature,351,K,Mechanical method
+1466,C=Cc1ccccc1C(=O)Nc1ccccc1,Glass Transition Temperature,464,K,Mechanical method; low viscosity
+1467,C=Cc1ccc(-c2ccccc2)cc1,Glass Transition Temperature,434,K,Extrapolated to zero rate
+1468,C=Cc1ccc(C(=O)N2CCCCC2)cc1,Glass Transition Temperature,387,K,Mechanical method
+1469,C=Cc1ccc(C(=O)CC)cc1,Glass Transition Temperature,375,K,Mechanical method
+1470,C=Cc1ccccc1C(=O)OCCC,Glass Transition Temperature,381,K,Mechanical method
+1471,C=Cc1ccc(C(=O)OCCC)cc1,Glass Transition Temperature,365,K,Mechanical method
+1472,C=Cc1ccccc1COCCC,Glass Transition Temperature,370,K,Mechanical method; low viscosity
+1473,C=Cc1ccc(COCCC)cc1,Glass Transition Temperature,295,K,Dynamic method
+1474,C=Cc1ccc(OCCC)cc1,Glass Transition Temperature,343,K,Mechanical method
+1475,C=Cc1ccc(S(=O)(=O)OCCC)cc1,Glass Transition Temperature,490,K,DTA heating rate
+1476,C=Cc1ccccc1,Glass Transition Temperature,356,K,alkylated
+1477,C=Cc1ccccc1,Glass Transition Temperature,373,K,amorphous
+1478,C=Cc1ccccc1,Glass Transition Temperature,373,K,crosslinked
+1479,C=Cc1ccccc1,Glass Transition Temperature,378,K,deuterated PS
+1480,C=Cc1ccccc1,Glass Transition Temperature,373,K,isotactic and atactic
+1481,C=Cc1ccccc1,Glass Transition Temperature,368,K,"Dilatometer, 2.5deg/min CR, isotactic and atactic"
+1482,C=Cc1ccccc1,Glass Transition Temperature,371,K,"DSC, onset, HR 32deg/min, quenched, isotactic and atactic"
+1483,C=Cc1ccccc1,Glass Transition Temperature,371,K,"DTA, DSC, onset, 1deg/min HR, f(HR), isotactic and atactic"
+1484,C=Cc1ccccc1,Glass Transition Temperature,371.0 - 377.0,K,"DSC, penetration, onset MP, zero HR, isotactic and atactic"
+1485,C=Cc1ccccc1,Glass Transition Temperature,373,K,"DSC, Intg, OHR, 10deg/min CR, isotactic and atactic"
+1486,C=Cc1ccccc1,Glass Transition Temperature,376,K,"DSC, Mdpt, 1deg/min X HR, TH, f(MW), isotactic and atactic"
+1487,C=Cc1ccccc1,Glass Transition Temperature,377,K,"DSC, onset, 20deg/min HR after similar cool, f(MW), isotactic and atactic"
+1488,C=Cc1ccccc1,Glass Transition Temperature,382,K,"DSC, onset, 20deg/min HR, isotactic and atactic"
+1489,C=Cc1ccccc1,Glass Transition Temperature,364,K,isotactic and atactic
+1490,C=Cc1ccccc1,Glass Transition Temperature,374,K,"GPC, isotactic and atactic"
+1491,C=Cc1ccccc1,Glass Transition Temperature,377,K,"PCS, isotactic and atactic"
+1492,C=Cc1ccccc1,Glass Transition Temperature,378,K,"NR and SE, isotactic and atactic"
+1493,C=Cc1ccccc1,Glass Transition Temperature,380,K,isotactic and atactic
+1494,C=Cc1ccccc1,Glass Transition Temperature,374,K,isotactic and atactic
+1495,C=Cc1ccccc1,Glass Transition Temperature,400,K,isotactic and atactic
+1496,C=Cc1ccccc1,Glass Transition Temperature,401,K,"DSC, isotactic and atactic"
+1497,C=Cc1ccccc1,Glass Transition Temperature,170.0 - 370.0,K,isotactic and atactic
+1498,C=Cc1ccccc1,Glass Transition Temperature,365,K,p-cyanobenzyl
+1499,C=Cc1ccccc1,Glass Transition Temperature,370,K,p-cyanobiphenyl
+1500,C=Cc1ccccc1,Glass Transition Temperature,433.0 - 463.0,K,sulfonated syndiotactic
+1501,C=Cc1ccc(CCCCCCCCCCCCCC)cc1,Glass Transition Temperature,237,K,
+1502,C=Cc1ccc(C(=O)c2ccc(C)cc2)cc1,Glass Transition Temperature,372,K,Mechanical method
+1503,C=Cc1cccc(B(O[Si](C)(C)C)O[Si](C)(C)C)c1,Glass Transition Temperature,308,K,Refractive index
+1504,C=Cc1ccc(B(O[Si](C)(C)C)O[Si](C)(C)C)cc1,Glass Transition Temperature,357,K,Refractive index
+1505,C=Cc1cc(C)c(C)cc1C,Glass Transition Temperature,409,K,Softening point
+1506,C=Cc1c(C)cc(C)cc1C,Glass Transition Temperature,435,K,Softening point
+1507,C=Cc1ccc(C([Sn](C)(C)C)[Sn](C)(C)C)cc1,Glass Transition Temperature,413,K,
+1508,C=Cc1ccc(C(=O)CCCC)cc1,Glass Transition Temperature,343,K,Mechanical method
+1509,C=C(F)C(C)=O,Glass Transition Temperature,415,K,
+1510,C=CC(=O)c1ccccc1,Glass Transition Temperature,314,K,Conflicting data
+1511,C=CC(=O)c1ccc(Br)c(OC)c1,Glass Transition Temperature,317,K,Mechanical data
+1512,C=CC(=O)c1ccc(C(C)(C)C)cc1,Glass Transition Temperature,377,K,
+1513,C=CC(=O)c1ccc(Cl)cc1,Glass Transition Temperature,310,K,Conflicting data
+1514,C=CC(=O)c1ccc(C)c(C)c1,Glass Transition Temperature,315,K,Mechanical data
+1515,C=CC(=O)c1ccc(CC)cc1,Glass Transition Temperature,325,K,
+1516,C=CC(=O)c1ccc(C(C)C)cc1,Glass Transition Temperature,336,K,
+1517,C=CC(=O)c1ccc(OC)cc1,Glass Transition Temperature,319,K,Mechanical data
+1518,C=CC(=O)c1ccc(CCC)cc1,Glass Transition Temperature,317,K,
+1519,C=CC(=O)c1ccc(C)cc1,Glass Transition Temperature,344,K,
+1520,C=CO,Glass Transition Temperature,358,K,Dynamic method
+1521,C=CO,Glass Transition Temperature,308,K,
+1522,C=CO,Glass Transition Temperature,350,K,
+1523,C=COC(=O)c1ccc(OC(C)=O)cc1,Glass Transition Temperature,349,K,
+1524,C=COC(C)=O,Glass Transition Temperature,305,K,
+1525,C=COC(C)=O,Glass Transition Temperature,302,K,
+1526,C=COC(C)=O,Glass Transition Temperature,590,K,
+1527,C=COC(C)=O,Glass Transition Temperature,315,K,
+1528,C=COC(C)=O,Glass Transition Temperature,304,K,
+1529,C=COC(C)=O,Glass Transition Temperature,303,K,
+1530,C=COC(C)=O,Glass Transition Temperature,311,K,
+1531,C=COC(C)=O,Glass Transition Temperature,313,K,DSC
+1532,C=COC(=O)CCCC(=O)c1ccccc1,Glass Transition Temperature,318,K,DTA heating rate
+1533,C=COC(=O)c1ccccc1,Glass Transition Temperature,344,K,
+1534,C=COC(=O)c1cccc(Br)c1,Glass Transition Temperature,331,K,
+1535,C=COC(=O)c1ccc(Br)cc1,Glass Transition Temperature,365,K,
+1536,C=COC(=O)c1ccc(C(C)(C)C)cc1,Glass Transition Temperature,374,K,
+1537,C=COC(=O)c1ccc(OC(=O)CCC)cc1,Glass Transition Temperature,334,K,
+1538,O=C(OC=CCl)c1ccccc1,Glass Transition Temperature,335,K,
+1539,C=COC(=O)c1cccc(Cl)c1,Glass Transition Temperature,338,K,
+1540,C=COC(=O)c1ccc(Cl)cc1,Glass Transition Temperature,357,K,
+1541,C=COC(=O)C1CCCCC1,Glass Transition Temperature,349,K,"Mechanical method, heating rate: 30K/h"
+1542,C=COC(=O)CC1CCCCC1,Glass Transition Temperature,298,K,"Mechanical method, heating rate: 30K/h"
+1543,C=COC(=O)CCCC1CCCCC1,Glass Transition Temperature,263,K,"Mechanical method, heating rate: 30K/h"
+1544,C=COC(=O)C1CCCC1,Glass Transition Temperature,309,K,"Mechanical method, heating rate: 30K/h"
+1545,C=COC(=O)CC1CCCC1,Glass Transition Temperature,270,K,"Mechanical method, heating rate: 30K/h"
+1546,C=COC(=O)CC(C)(C)c1ccccc1,Glass Transition Temperature,293,K,"Mechanical method, heating rate: 30K/h"
+1547,C=COC(=O)c1ccc(OCC)cc1,Glass Transition Temperature,343,K,
+1548,C=COC(=O)c1ccc(CC)cc1,Glass Transition Temperature,326,K,
+1549,C=COC=O,Glass Transition Temperature,310,K,~60% syndiotactic diads
+1550,C=COC=O,Glass Transition Temperature,306,K,50% syndiotactic diads
+1551,CC(O)CC(=O)[O-],Glass Transition Temperature,277,K,
+1552,CC(O)CC(=O)[O-],Glass Transition Temperature,278,K,
+1553,CC(O)CC(=O)[O-],Glass Transition Temperature,223,K,
+1554,C=COC(=O)c1ccncc1,Glass Transition Temperature,372,K,From polyvinyl alcohol
+1555,C=COC(=O)c1ccc(C(C)C)cc1,Glass Transition Temperature,342,K,
+1556,C=COC(=O)c1cccnc1,Glass Transition Temperature,360,K,From polyvinyl alcohol
+1557,C=COC(=O)CC,Glass Transition Temperature,283,K,Mechanical method
+1558,C=COCCCCCCCCCCCOC1(C#N)C=CC(c2ccccc2C(=O)[O-])=CC1,Glass Transition Temperature,310,K,
+1559,C=COCCCC,Glass Transition Temperature,218,K,
+1560,C=COCCCC,Glass Transition Temperature,217,K,
+1561,C=COC(C)CC,Glass Transition Temperature,253,K,
+1562,C=COC(C)(C)C,Glass Transition Temperature,361,K,
+1563,C=CSCCCC,Glass Transition Temperature,253,K,
+1564,FC(F)=C(F)Cl,Glass Transition Temperature,325,K,
+1565,C=COC1CCCCC1,Glass Transition Temperature,354,K,Softening point
+1566,C=COCCCCCCCCCC,Glass Transition Temperature,183.0 - 211.0,K,"Conflicting data, independent DSC data supports higher value"
+1567,C=COCC(C)(C)CC,Glass Transition Temperature,282,K,Mechanical method
+1568,FC(F)=COC(F)(F)F,Glass Transition Temperature,263.0 - 273.0,K,Estimated from copolymer data
+1569,FC=C(F)OC(F)(F)F,Glass Transition Temperature,263.0 - 273.0,K,Estimated from copolymer data
+1570,C=COCC,Glass Transition Temperature,230,K,
+1571,C=COCC,Glass Transition Temperature,240,K,
+1572,C=CSCC,Glass Transition Temperature,266,K,Viscosity only 0.2dl/g
+1573,c1coc(C2CO2)c1,Glass Transition Temperature,288,K,
+1574,C=COCCCCCC,Glass Transition Temperature,199,K,
+1575,C=COCC(C)C,Glass Transition Temperature,254,K,
+1576,C=COC(C)C,Glass Transition Temperature,270,K,
+1577,C=COC(C)C,Glass Transition Temperature,261,K,
+1578,C=COC,Glass Transition Temperature,242,K,
+1579,C=COC,Glass Transition Temperature,246,K,GPC
+1580,C=COC,Glass Transition Temperature,228,K,
+1581,C=COC,Glass Transition Temperature,245,K,
+1582,C=COC,Glass Transition Temperature,248,K,
+1583,C=COC,Glass Transition Temperature,251,K,
+1584,C=COC,Glass Transition Temperature,191,K,
+1585,C=COC,Glass Transition Temperature,199,K,
+1586,C=COC,Glass Transition Temperature,247,K,
+1587,C=C(C)OC,Glass Transition Temperature,340,K,
+1588,C=CSC,Glass Transition Temperature,272,K,
+1589,C=COCC(C)(C)C,Glass Transition Temperature,424,K,Softening point
+1590,C=COCCCCCCCC,Glass Transition Temperature,194,K,
+1591,C=COCCCCC,Glass Transition Temperature,207,K,
+1592,C=COCCC,Glass Transition Temperature,224,K,
+1593,FC(F)=C(F)OCC(F)(F)F,Glass Transition Temperature,308,K,DTA heating rate
+1594,C=Cc1ccc(O)cc1,Glass Transition Temperature,429,K,
+1595,C=Cc1ccc(O)cc1,Glass Transition Temperature,428,K,
+1596,C=C(C#N)OC(C)=O,Glass Transition Temperature,420,K,Heating rate: 8K/min
+1597,C=CC#N,Glass Transition Temperature,398,K,"Dielectric, 1 Hz, f(Hz)"
+1598,C=CC#N,Glass Transition Temperature,370,K,
+1599,C=CC#N,Glass Transition Temperature,355,K,
+1600,FC(F)=C(F)Cl,Glass Transition Temperature,325,K,"By ""static"" methods"
+1601,FC(F)=C(F)Cl,Glass Transition Temperature,373,K,By mechanical methods even at low frequencies
+1602,C=C(Cl)Cl,Glass Transition Temperature,255,K,
+1603,FC=C(Cl)Cl,Glass Transition Temperature,320,K,[h] only 0.035dl/g
+1604,FC(Cl)=C(F)Cl,Glass Transition Temperature,350,K,"Heating rate: 5-20K/min, high pressure, radiation synthesis"
+1605,C=C(F)F,Glass Transition Temperature,233,K,
+1606,C=C(F)F,Glass Transition Temperature,223,K,
+1607,C=C(F)F,Glass Transition Temperature,235,K,DSC
+1608,FC=CF,Glass Transition Temperature,371,K,DTA heating rate
+1609,FC=CF,Glass Transition Temperature,200,K,
+1610,C=C,Glass Transition Temperature,281,K,48 wt.% Cl
+1611,FC(F)=C(F)C(F)(F)F,Glass Transition Temperature,425,K,Heating rate: 5-20K/min
+1612,C=CCCI,Glass Transition Temperature,343,K,Dynamic method
+1613,C=CCCCCCCCCCI,Glass Transition Temperature,267,K,Dynamic method
+1614,C=CCCCI,Glass Transition Temperature,303,K,Dynamic method
+1615,C=C(C)C#N,Glass Transition Temperature,393,K,
+1616,FC(F)=C(F)F,Glass Transition Temperature,390,K,
+1617,FC(F)=C(F)F,Glass Transition Temperature,160,K,"Much data, some conflicting"
+1618,C=C(F)C(F)(F)F,Glass Transition Temperature,315,K,"Heating rate: 5-20K/min, high pressure, radiation synthesis"
+1619,FC=C(F)F,Glass Transition Temperature,304,K,"Quoted value, DTA?"
+1620,C=CC(F)(F)F,Glass Transition Temperature,300,K,
+1621,C=CO[Cl+2]([O-])[O-],Glass Transition Temperature,347,K,
+1622,C=CCl,Glass Transition Temperature,354,K,Increasing syndiotactic content increases Tg to 371K
+1623,C=CCl,Glass Transition Temperature,366,K,"Dekryptonation, f(MW)"
+1624,C=CCl,Glass Transition Temperature,371,K,"DSC, 20deg/min HR, Mn infinity, onset, varied annealing"
+1625,C=CCl,Glass Transition Temperature,359,K,
+1626,C=CCl,Glass Transition Temperature,357,K,
+1627,C=CCl,Glass Transition Temperature,363,K,
+1628,C=CCl,Glass Transition Temperature,342,K,
+1629,C=CCl,Glass Transition Temperature,353,K,
+1630,C=CCl,Glass Transition Temperature,347,K,
+1631,C=CCl,Glass Transition Temperature,361,K,
+1632,C=CCl,Glass Transition Temperature,408,K,"67 wt.% Cl, chlorinated"
+1633,C=CCl,Glass Transition Temperature,313,K,"Semi-IPNs, with Poly(butyl methacrylate) (30/70)"
+1634,C=CCl,Glass Transition Temperature,315,K,"Blend, with Poly(butyl methacrylate) (50/50)"
+1635,C=CCl,Glass Transition Temperature,323,K,"Semi-IPNs, with Poly(butyl methacrylate) (50/50)"
+1636,C=CCl,Glass Transition Temperature,343,K,"Semi-IPNs, with Poly(ethyl methacrylate) (30/70)"
+1637,C=CCl,Glass Transition Temperature,325,K,"Blend, with Poly(ethyl methacrylate) (50/50)"
+1638,C=CCl,Glass Transition Temperature,343,K,"Semi-IPNs, with Poly(ethyl methacrylate) (50/50)"
+1639,C=CCl,Glass Transition Temperature,370,K,"Semi-IPNs, with Poly(methyl methacrylate) (30/70)"
+1640,C=CCl,Glass Transition Temperature,363,K,"Blend, with Poly(methyl methacrylate) (50/50)"
+1641,C=CCl,Glass Transition Temperature,366,K,"Semi-IPNs, with Poly(methyl methacrylate) (50/50)"
+1642,C=CCl,Glass Transition Temperature,364,K,with Poly(methyl methacrylate) (80/20)
+1643,C=CCl,Glass Transition Temperature,348,K,DSC
+1644,C=CCl,Glass Transition Temperature,352,K,DMA
+1645,C=CF,Glass Transition Temperature,314,K,Mechanical method
+1646,C=CC1CC1(C(=O)OC12CC3CC(CC(C3)C1)C2)C(=O)OC12CC3CC(CC(C3)C1)C2,Glass Transition Temperature,307,K,
+1647,C=CCc1ccccc1,Glass Transition Temperature,333,K,
+1648,C=Cn1c2ccccc2c2ccccc21,Glass Transition Temperature,500,K,"DSC, 10deg/min HR, X to infinite MW"
+1649,C=Cn1c2ccccc2c2ccccc21,Glass Transition Temperature,500,K,
+1650,C=Cn1c2ccccc2c2ccccc21,Glass Transition Temperature,357,K,Conflicting values reported
+1651,C=CC1OC(=O)NC1(C)C,Glass Transition Temperature,365,K,DTA heating rate; low viscosity
+1652,C=Cc1nc(C)nc(C)n1,Glass Transition Temperature,350,K,
+1653,C=CP(=O)(c1ccccc1)c1ccccc1,Glass Transition Temperature,453,K,
+1654,CCC(O)CC(=O)O,Glass Transition Temperature,257,K,
+1655,CCC(O)CC(=O)O,Glass Transition Temperature,262,K,
+1656,C=Cn1cc2ccccc2n1,Glass Transition Temperature,331,K,"Two values for different preparations, heating rate: 20K/min"
+1657,CC(C)c1ccccc1,Glass Transition Temperature,126,K,
+1658,C1=Cc2ccccc2C1,Glass Transition Temperature,473,K,
+1659,CCCC(C)CC,Glass Transition Temperature,90,K,
+1660,CCC(C)CC,Glass Transition Temperature,80,K,
+1661,CCCC(C)C,Glass Transition Temperature,76,K,
+1662,C=Cc1cccc2ccccc12,Glass Transition Temperature,432,K,Values range from 323 to 453K
+1663,C=Cc1ccc2ccccc2c1,Glass Transition Temperature,424,K,Extrapolated to zero heating rate
+1664,C=CCCc1ccccc1,Glass Transition Temperature,283,K,Crystalline sample
+1665,C=CCCCc1ccccc1,Glass Transition Temperature,245,K,Softening point
+1666,C=CC1CC1(C(=O)Oc1ccccc1)C(=O)Oc1ccccc1,Glass Transition Temperature,349.0 - 357.0,K,
+1667,C#Cc1ccccc1,Glass Transition Temperature,393,K,Crystalline
+1668,C=CN1C(=O)c2ccccc2C1=O,Glass Transition Temperature,497,K,No experimental details
+1669,C=Cc1ccccn1,Glass Transition Temperature,377,K,
+1670,C=Cc1ccncc1,Glass Transition Temperature,415,K,
+1671,C=Cc1ccncc1,Glass Transition Temperature,433,K,Molar concentration 5%
+1672,C=Cc1ccncc1,Glass Transition Temperature,456,K,Molar concentration 10%
+1673,C=CN1CCCC1,Glass Transition Temperature,327,K,
+1674,C=CN1CCCC1,Glass Transition Temperature,359,K,
+1675,C=CN1CCCC1,Glass Transition Temperature,448,K,"DSC, onset, Xp to dry"
+1676,c1ccc(-c2ccccc2-c2ccccc2)cc1,Glass Transition Temperature,233,K,
+1677,c1ccc(-c2ccccc2-c2ccccc2)cc1,Glass Transition Temperature,243,K,
+1678,C=CCc1cccc(C)c1,Glass Transition Temperature,313,K,Crystalline sample
+1679,C=CCc1ccccc1C,Glass Transition Temperature,353,K,Crystalline sample
+1680,C=CCc1ccc(C)cc1,Glass Transition Temperature,338,K,Crystalline sample
+1681,CC(=O)Oc1c(Br)cc(Br)cc1Br,Glass Transition Temperature,423,K,
+1682,C=C[Ge](C)(C)C,Glass Transition Temperature,463,K,Mechanical method

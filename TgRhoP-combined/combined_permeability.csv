@@ -1,0 +1,758 @@
+,Smiles,Property,Temperature (C),Value,Units,Notes
+0,C=CC=C.C=CC#N.C=Cc1ccccc1,Gas Permeablity-CO2,,4.13,cm3 mm/(m2 day atm),
+1,C=CC=C.C=CC#N.C=Cc1ccccc1,Gas Permeablity-N2,,11.8,cm3 mm/(m2 day atm),
+2,C=CC=C.C=CC#N.C=Cc1ccccc1,Gas Permeablity-O2,,90.5,cm3 mm/(m2 day atm),
+3,C\C=C\C,Gas Permeablity,,1260,cm3 mm/(m2 day atm),
+4,C\C=C\C,Gas Permeablity,,2696,cm3 mm/(m2 day atm),
+5,C\C=C\C,Gas Permeablity-CO2,,9104,cm3 mm/(m2 day atm),
+6,C\C=C\C,Gas Permeablity-H2,,2766,cm3 mm/(m2 day atm),
+7,C\C=C\C,Gas Permeablity-He,,2145,cm3 mm/(m2 day atm),
+8,C\C=C\C,Gas Permeablity-N2,,424,cm3 mm/(m2 day atm),
+9,C\C=C\C,Gas Permeablity-O2,,1252,cm3 mm/(m2 day atm),
+10,C=CC=C.C=Cc1ccccc1,Gas Permeablity,,34.8,cm3 mm/(m2 day atm),
+11,C=CC=C.C=Cc1ccccc1,Gas Permeablity,,2048,cm3 mm/(m2 day atm),
+12,C=CC=C.C=Cc1ccccc1,Gas Permeablity,,4346,cm3 mm/(m2 day atm),
+13,CC(C)=C.CC(=C)C=C,Gas Permeablity,,36.4,cm3 mm/(m2 day atm),
+14,CC(C)=C.CC(=C)C=C,Gas Permeablity-N2,,21.6,cm3 mm/(m2 day atm),
+15,ClC=C,Gas Permeablity,,25.4,cm3 mm/(m2 day atm),
+16,ClC=C,Gas Permeablity,,324,cm3 mm/(m2 day atm),
+17,ClC=C,Gas Permeablity,,1.66,cm3 mm/(m2 day atm),
+18,ClC=C,Gas Permeablity-CH4,,1.84,cm3 mm/(m2 day atm),
+19,ClC=C,Gas Permeablity-CO2,,10.5,cm3 mm/(m2 day atm),
+20,ClC=C,Gas Permeablity-H2,,113.8,cm3 mm/(m2 day atm),
+21,ClC=C,Gas Permeablity-H2O,,18034,cm3 mm/(m2 day atm),
+22,ClC=C,Gas Permeablity-He,,131,cm3 mm/(m2 day atm),
+23,ClC=C,Gas Permeablity-N2,,0.78,cm3 mm/(m2 day atm),
+24,ClC=C,Gas Permeablity-O2,,2.98,cm3 mm/(m2 day atm),
+25,ClC=C,Gas Permeablity,,12.825,cm3 mm/(m2 day atm),
+26,ClC=C,Gas Permeablity-H2,,179.3,cm3 mm/(m2 day atm),
+27,ClC=C,Gas Permeablity-H2O,,16.41,cm3 mm/(m2 day atm),
+28,ClC=C,Gas Permeablity-H2O,,72.2,cm3 mm/(m2 day atm),
+29,FC(F)=C(F)F.C=C,Gas Permeablity-O2,,7000,cm3 mm/(m2 day atm),
+30,FC(F)=C(F)Cl.C=C,Gas Permeablity,,0.00128,cm3 mm/(m2 day atm),
+31,OC=C,Gas Permeablity-CO2,,67.8,cm3 mm/(m2 day atm),
+32,OC=C,Gas Permeablity-H2O,,39.4,cm3 mm/(m2 day atm),
+33,OC=C,Gas Permeablity-H2O,,21.4,cm3 mm/(m2 day atm),
+34,OC=C,Gas Permeablity-H2O,,428.6,cm3 mm/(m2 day atm),
+35,OC=C,Gas Permeablity-H2O,,600,cm3 mm/(m2 day atm),
+36,OC=C,Gas Permeablity-N2,,2.85,cm3 mm/(m2 day atm),
+37,CC(C)CC=C,Gas Permeablity-CH4,,10.79,cm3 mm/(m2 day atm),
+38,CC(C)CC=C,Gas Permeablity-CO2,,92.6,cm3 mm/(m2 day atm),
+39,CC(C)CC=C,Gas Permeablity-H2,,136,cm3 mm/(m2 day atm),
+40,CC(C)CC=C,Gas Permeablity-He,,101,cm3 mm/(m2 day atm),
+41,CC(C)CC=C,Gas Permeablity-N2,,8.4,cm3 mm/(m2 day atm),
+42,CC(C)CC=C,Gas Permeablity-O2,,32.3,cm3 mm/(m2 day atm),
+43,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CH4,,23.6,cm3 mm/(m2 day atm),
+44,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CH4,,16.9,cm3 mm/(m2 day atm),
+45,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CH4,,13.6,cm3 mm/(m2 day atm),
+46,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CO2,,446.5,cm3 mm/(m2 day atm),
+47,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CO2,,464,cm3 mm/(m2 day atm),
+48,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CO2,,393.5,cm3 mm/(m2 day atm),
+49,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CO2,,394,cm3 mm/(m2 day atm),
+50,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-CO2,,495.5,cm3 mm/(m2 day atm),
+51,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-He,,892.9,cm3 mm/(m2 day atm),
+52,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-He,,866.7,cm3 mm/(m2 day atm),
+53,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-N2,,25.4,cm3 mm/(m2 day atm),
+54,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-N2,,19,cm3 mm/(m2 day atm),
+55,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-N2,,21,cm3 mm/(m2 day atm),
+56,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-O2,,105,cm3 mm/(m2 day atm),
+57,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-O2,,90.6,cm3 mm/(m2 day atm),
+58,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.OC(O)=O,Gas Permeablity-O2,,97.4,cm3 mm/(m2 day atm),
+59,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Gas Permeablity-CO2,,595,cm3 mm/(m2 day atm),
+60,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Gas Permeablity-H2,,963,cm3 mm/(m2 day atm),
+61,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Gas Permeablity-N2,,25.4,cm3 mm/(m2 day atm),
+62,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2.ClC(Cl)=O.ClC(=O)c3ccc(cc3)C(Cl)=O.ClC(=O)c4cccc(c4)C(Cl)=O,Gas Permeablity-O2,,122,cm3 mm/(m2 day atm),
+63,CC(O)COC(C)CO,Gas Permeablity,,0.003,cm3 mm/(m2 day atm),
+64,CC(O)COC(C)CO,Gas Permeablity,,0.0014,cm3 mm/(m2 day atm),
+65,CC(O)COC(C)CO,Gas Permeablity,,0.004,cm3 mm/(m2 day atm),
+66,CC(O)COC(C)CO,Gas Permeablity,,0.0062,cm3 mm/(m2 day atm),
+67,CC(O)COC(C)CO,Gas Permeablity-H2,,0.0036,cm3 mm/(m2 day atm),
+68,CC(O)COC(C)CO,Gas Permeablity-H2,,0.009,cm3 mm/(m2 day atm),
+69,CC(O)COC(C)CO,Gas Permeablity-H2,,0.014,cm3 mm/(m2 day atm),
+70,CC(O)COC(C)CO,Gas Permeablity-H2,,0.022,cm3 mm/(m2 day atm),
+71,CCC=C.CC=C.C=C,Gas Permeablity-N2,,229.85,cm3 mm/(m2 day atm),
+72,CCC=C.CC=C.C=C,Gas Permeablity-O2,,902.95,cm3 mm/(m2 day atm),
+73,C=C,Gas Permeablity,,113.8,cm3 mm/(m2 day atm),
+74,C=C,Gas Permeablity,,13.13,cm3 mm/(m2 day atm),
+75,C=C,Gas Permeablity,,700,cm3 mm/(m2 day atm),
+76,C=C,Gas Permeablity,,76.2,cm3 mm/(m2 day atm),
+77,C=C,Gas Permeablity-CH4,,25.4,cm3 mm/(m2 day atm),
+78,C=C,Gas Permeablity-CO2,,23.6,cm3 mm/(m2 day atm),
+79,C=C,Gas Permeablity-H2O,,788,cm3 mm/(m2 day atm),
+80,C=C,Gas Permeablity-He,,75.3,cm3 mm/(m2 day atm),
+81,C=C,Gas Permeablity-N2,,9.63,cm3 mm/(m2 day atm),
+82,C=C,Gas Permeablity-O2,,26.3,cm3 mm/(m2 day atm),
+83,C=C,Gas Permeablity,,184,cm3 mm/(m2 day atm),
+84,C=C,Gas Permeablity,,350,cm3 mm/(m2 day atm),
+85,C=C,Gas Permeablity,,96.3,cm3 mm/(m2 day atm),
+86,C=C,Gas Permeablity,,42,cm3 mm/(m2 day atm),
+87,C=C,Gas Permeablity,,446,cm3 mm/(m2 day atm),
+88,C=C,Gas Permeablity,,1838,cm3 mm/(m2 day atm),
+89,C=C,Gas Permeablity-CH4,,192.6,cm3 mm/(m2 day atm),
+90,C=C,Gas Permeablity-CO2,,1063,cm3 mm/(m2 day atm),
+91,C=C,Gas Permeablity-H2,,647,cm3 mm/(m2 day atm),
+92,C=C,Gas Permeablity-H2,,767,cm3 mm/(m2 day atm),
+93,C=C,Gas Permeablity-H2O,,5953,cm3 mm/(m2 day atm),
+94,C=C,Gas Permeablity-He,,3294,cm3 mm/(m2 day atm),
+95,C=C,Gas Permeablity-N2,,70.8,cm3 mm/(m2 day atm),
+96,C=C,Gas Permeablity-O2,,197,cm3 mm/(m2 day atm),
+97,C=C,Gas Permeablity-CO2,,721.5,cm3 mm/(m2 day atm),
+98,C=C,Gas Permeablity-CO2,,588.5,cm3 mm/(m2 day atm),
+99,C=C,Gas Permeablity-CO2,,251,cm3 mm/(m2 day atm),
+100,C=C,Gas Permeablity-H2,,770,cm3 mm/(m2 day atm),
+101,C=C,Gas Permeablity-N2,,59.1,cm3 mm/(m2 day atm),
+102,C=C,Gas Permeablity-N2,,623.6,cm3 mm/(m2 day atm),
+103,C=C,Gas Permeablity-N2,,19.715,cm3 mm/(m2 day atm),
+104,C=C,Gas Permeablity-O2,,166.15,cm3 mm/(m2 day atm),
+105,C=C,Gas Permeablity-O2,,129.5,cm3 mm/(m2 day atm),
+106,C=C,Gas Permeablity-O2,,59.1,cm3 mm/(m2 day atm),
+107,COC(=O)c1ccc(cc1)C(=O)OC.OCCCCO,Gas Permeablity-CO2,,5.91,cm3 mm/(m2 day atm),
+108,COC(=O)c1ccc(cc1)C(=O)OC.OCCCCO,Gas Permeablity-H2O,,1.18,cm3 mm/(m2 day atm),
+109,COC(=O)c1ccc(cc1)C(=O)OC.OCCCCO,Gas Permeablity-O2,,1.57,cm3 mm/(m2 day atm),
+110,Nc1ccc(Oc2ccc(N)cc2)cc1.O=C3OC(=O)c4cc5C(=O)OC(=O)c5cc34,Gas Permeablity-CO2,,6840,cm3 mm/(m2 day atm),
+111,Nc1ccc(Oc2ccc(N)cc2)cc1.O=C3OC(=O)c4cc5C(=O)OC(=O)c5cc34,Gas Permeablity-H2O,,54,cm3 mm/(m2 day atm),
+112,Nc1ccc(Oc2ccc(N)cc2)cc1.O=C3OC(=O)c4cc5C(=O)OC(=O)c5cc34,Gas Permeablity-He,,63000,cm3 mm/(m2 day atm),
+113,Nc1ccc(Oc2ccc(N)cc2)cc1.O=C3OC(=O)c4cc5C(=O)OC(=O)c5cc34,Gas Permeablity-N2,,910,cm3 mm/(m2 day atm),
+114,Nc1ccc(Oc2ccc(N)cc2)cc1.O=C3OC(=O)c4cc5C(=O)OC(=O)c5cc34,Gas Permeablity-O2,,3800,cm3 mm/(m2 day atm),
+115,C=C,Gas Permeability-C2H4O,30,6031.83672,cm3 mm/(m2 day atm),LLDPE
+116,C=C,Gas Permeability-H2,25,647.83152,cm3 mm/(m2 day atm),
+117,C=C,Gas Permeability-D2,25,577.79568,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+118,C=C,Gas Permeability-He,25,323.91576,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+119,C=C,Gas Permeability-O2,25,192.59856,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+120,C=C,Gas Permeability-Ar,25,183.84408,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+121,C=C,Gas Permeability-Ne,25,42.021504,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+122,C=C,Gas Permeability-Kr,25,188.22132,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+123,C=C,Gas Permeability-Xe,25,351.054648,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+124,C=C,Gas Permeability-CO2,25,831.6756,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+125,C=C,Gas Permeability-CO,25,96.29928,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+126,C=C,Gas Permeability-N2,25,63.907704,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+127,C=C,Gas Permeability-CH4,25,192.59856,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+128,C=C,Gas Permeability-C2H6,25,446.47848,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+129,C=C,Gas Permeability-C3H4,25,2801.4336,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+130,C=C,Gas Permeability-C3H6,25,962.9928,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+131,C=C,Gas Permeability-C3H8,25,621.56808,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+132,C=C,Gas Permeability-SF6,25,11.380824,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+133,C=C,Gas Permeability-H2S,20,2363.7096,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+134,C=C,Gas Permeability-NH3,20,1838.4408,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+135,C=C,Gas Permeability-CH3Br,20,9629.928,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+136,C=C,Gas Permeability-C2H4O,30,6565.86,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+137,C=C,Gas Permeability-H2O,25,5953.0464,cm3 mm/(m2 day atm),"Density=0.914g/cm3, LDPE"
+138,C=C,Gas Permeability-He,25,75.288528,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+139,C=C,Gas Permeability-O2,25,26.26344,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+140,C=C,Gas Permeability-Ar,25,113.80824,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+141,C=C,Gas Permeability-CO2,25,23.637096,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+142,C=C,Gas Permeability-CO,25,13.13172,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+143,C=C,Gas Permeability-N2,25,9.629928,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+144,C=C,Gas Permeability-CH4,25,25.387992,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+145,C=C,Gas Permeability-C2H6,25,38.519712,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+146,C=C,Gas Permeability-C3H4,25,262.6344,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+147,C=C,Gas Permeability-C3H6,25,76.163976,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+148,C=C,Gas Permeability-C3H8,25,35.3680992,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+149,C=C,Gas Permeability-SF6,25,0.55153224,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+150,C=C,Gas Permeability-H2S,20,569.0412,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+151,C=C,Gas Permeability-NH3,20,700.3584,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+152,C=C,Gas Permeability-H2O,25,787.9032,cm3 mm/(m2 day atm),"Density=0.964g/cm3, HDPE"
+153,C=C,Gas Permeability-C2H4O,30,1873.45872,cm3 mm/(m2 day atm),HDPE
+154,C=C,Gas Permeability-He,25,116.434584,cm3 mm/(m2 day atm),"Hizex 7000F, isotropic  density=0.943g/cm3"
+155,C=C,Gas Permeability-He,25,127.815408,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=8, density=0.958g/cm3"
+156,C=C,Gas Permeability-He,25,126.064512,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=9, density=0.957g/cm3"
+157,C=C,Gas Permeability-He,25,77.477148,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=10, density=0.958g/cm3"
+158,C=C,Gas Permeability-He,25,35.6307336,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=12, density=0.960g/cm3"
+159,C=C,Gas Permeability-He,25,24.3374544,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=14.5, density=0.962g/cm3"
+160,C=C,Gas Permeability-He,25,11.2932792,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=20.5, density=0.966g/cm3"
+161,C=C,Gas Permeability-N2,25,17.50896,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=1.0, density=0.945g/cm3"
+162,C=C,Gas Permeability-O2,25,66.534048,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=1.0, density=0.945g/cm3"
+163,C=C,Gas Permeability-CO2,25,280.14336,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=1.0, density=0.945g/cm3"
+164,C=C,Gas Permeability-He,25,96.29928,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=6.6, density=0.954g/cm3"
+165,C=C,Gas Permeability-N2,25,9.629928,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=6.4"
+166,C=C,Gas Permeability-O2,25,29.765232,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=6.4"
+167,C=C,Gas Permeability-CO2,25,122.56272,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=6.4"
+168,C=C,Gas Permeability-He,25,32.391576,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=11.8, density=0.959g/cm3"
+169,C=C,Gas Permeability-O2,25,6.4783152,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=11.8, density=0.959g/cm3"
+170,C=C,Gas Permeability-CO2,25,24.512544,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=11.8, density=0.959g/cm3"
+171,C=C,Gas Permeability-He,25,26.26344,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=12.0 density=0.959g/cm3"
+172,C=C,Gas Permeability-O2,25,8.75448,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=12.0 density=0.959g/cm3"
+173,C=C,Gas Permeability-He,25,10.505376,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=17.6"
+174,C=C,Gas Permeability-O2,25,1.0505376,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=17.6"
+175,C=C,Gas Permeability-CO2,25,3.939516,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=17.6"
+176,C=C,Gas Permeability-He,25,9.629928,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=20.2"
+177,C=C,Gas Permeability-O2,25,13.13172,cm3 mm/(m2 day atm),"Hizex 7000F, draw  ratio=20.2"
+178,C=CC,Gas Permeability-He,20,24.512544,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+179,C=CC,Gas Permeability-H2,20,2713.8888,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+180,C=CC,Gas Permeability-N2,30,28.889784,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+181,C=CC,Gas Permeability-O2,30,148.82616,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+182,C=CC,Gas Permeability-CO2,30,604.05912,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+183,C=CC,Gas Permeability-H2O,30,4464.7848,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+184,C=CC,Gas Permeability-CH3Br,30,1313.172,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+185,C=CC,Gas Permeability-H2S,20,210.10752,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+186,C=CC,Gas Permeability-NH3,20,604.05912,cm3 mm/(m2 day atm),"Density=0.907g/cm3, crystallinity=50%"
+187,C=CC,Gas Permeability-H2O,23,1383.20784,cm3 mm/(m2 day atm),"Trespaphan GND,  density=0.8871g/cm3, crystallinity=43%"
+188,C=CC,Gas Permeability-He,33,927.97488,cm3 mm/(m2 day atm),"Trespaphan GND,  density=0.8871g/cm3, crystallinity=43%"
+189,C=CC,Gas Permeability-O2,33,147.075264,cm3 mm/(m2 day atm),"Trespaphan GND,  density=0.8871g/cm3, crystallinity=43%"
+190,C=CC,Gas Permeability-N2,33,37.1189952,cm3 mm/(m2 day atm),"Trespaphan GND,  density=0.8871g/cm3, crystallinity=43%"
+191,C=CC,Gas Permeability-CO2,33,475.368264,cm3 mm/(m2 day atm),"Trespaphan GND,  density=0.8871g/cm3, crystallinity=43%"
+192,C=CC,Gas Permeability-He,33,786.152304,cm3 mm/(m2 day atm),"Density  0.8931g/cm3, crystallinity 50%"
+193,C=CC,Gas Permeability-O2,33,129.566304,cm3 mm/(m2 day atm),"Density  0.8931g/cm3, crystallinity 50%"
+194,C=CC,Gas Permeability-N2,33,31.078404,cm3 mm/(m2 day atm),"Density  0.8931g/cm3, crystallinity 50%"
+195,C=CC,Gas Permeability-CO2,33,406.207872,cm3 mm/(m2 day atm),"Density  0.8931g/cm3, crystallinity 50%"
+196,C=CC,Gas Permeability-He,33,674.09496,cm3 mm/(m2 day atm),"Density  0.8998g/cm3, crystallinity 58%"
+197,C=CC,Gas Permeability-O2,33,112.057344,cm3 mm/(m2 day atm),"Density  0.8998g/cm3, crystallinity 58%"
+198,C=CC,Gas Permeability-N2,33,26.7887088,cm3 mm/(m2 day atm),"Density  0.8998g/cm3, crystallinity 58%"
+199,C=CC,Gas Permeability-CO2,33,354.55644,cm3 mm/(m2 day atm),"Density  0.8998g/cm3, crystallinity 58%"
+200,C=CC,Gas Permeability-He,33,760.764312,cm3 mm/(m2 day atm),"Density  0.9016g/cm3, crystallinity 60%"
+201,C=CC,Gas Permeability-O2,33,155.829744,cm3 mm/(m2 day atm),"Density  0.9016g/cm3, crystallinity 60%"
+202,C=CC,Gas Permeability-N2,33,43.2471312,cm3 mm/(m2 day atm),"Density  0.9016g/cm3, crystallinity 60%"
+203,C=CC,Gas Permeability-C2H4O,30,78.79032,cm3 mm/(m2 day atm),"Density  0.9016g/cm3, crystallinity 60%"
+204,C=Cc1ccccc1,Gas Permeability-O2,25,166.33512,cm3 mm/(m2 day atm),
+205,C=Cc1ccccc1,Gas Permeability-H2O,25,118185.48,cm3 mm/(m2 day atm),
+206,C=Cc1ccccc1,Gas Permeability-He,25,1225.6272,cm3 mm/(m2 day atm),Biaxially oriented
+207,C=Cc1ccccc1,Gas Permeability-H2,25,1488.2616,cm3 mm/(m2 day atm),Biaxially oriented
+208,C=Cc1ccccc1,Gas Permeability-O2,25,175.0896,cm3 mm/(m2 day atm),Biaxially oriented
+209,C=Cc1ccccc1,Gas Permeability-N2,25,51.651432,cm3 mm/(m2 day atm),Biaxially oriented
+210,C=Cc1ccccc1,Gas Permeability-CO2,25,691.60392,cm3 mm/(m2 day atm),Biaxially oriented
+211,C=Cc1ccccc1,Gas Permeability-H2O,25,73537.632,cm3 mm/(m2 day atm),Biaxially oriented
+212,C=Cc1ccccc1,Gas Permeability-H2O,23,62769.6216,cm3 mm/(m2 day atm),Biaxially oriented
+213,C=Cc1ccccc1,Gas Permeability-CO2,25,525.2688,cm3 mm/(m2 day atm),"Ultradrawn, draw  ratio=1.0"
+214,C=Cc1ccccc1,Gas Permeability-CO2,25,380.81988,cm3 mm/(m2 day atm),"Ultradrawn, draw  ratio=1.8"
+215,C=Cc1ccccc1,Gas Permeability-CO2,25,190.847664,cm3 mm/(m2 day atm),"Ultradrawn, draw  ratio=3.1"
+216,C=Cc1ccccc1,Gas Permeability-CO2,25,98.925624,cm3 mm/(m2 day atm),"Ultradrawn, draw  ratio=4.4"
+217,C=Cc1ccccc1,Gas Permeability-CO2,25,65.6586,cm3 mm/(m2 day atm),"Ultradrawn, draw  ratio=5.0"
+218,C=C(C)C(=O)OC,Gas Permeability-H2,35,243.374544,cm3 mm/(m2 day atm),
+219,C=C(C)C(=O)OC,Gas Permeability-He,35,499.00536,cm3 mm/(m2 day atm),
+220,C=C(C)C(=O)OC,Gas Permeability-Ar,35,1.38320784,cm3 mm/(m2 day atm),
+221,C=C(C)C(=O)OC,Gas Permeability-N2,35,538.40052,cm3 mm/(m2 day atm),
+222,C=C(C)C(=O)OC,Gas Permeability-O2,34,10.1551968,cm3 mm/(m2 day atm),
+223,C=C(C)C(=O)OC,Gas Permeability-O2,35,5.71667544,cm3 mm/(m2 day atm),
+224,C=C(C)C(=O)OC,Gas Permeability-CO2,35,203.979384,cm3 mm/(m2 day atm),
+225,C=C(C)C(=O)OC,Gas Permeability-CH4,35,0.230242824,cm3 mm/(m2 day atm),
+226,C=C(C)C(=O)OC,Gas Permeability-H2O,23,42021.504,cm3 mm/(m2 day atm),
+227,C=C(C)C(=O)OC,Gas Permeability-O2,34,395.702496,cm3 mm/(m2 day atm),Blend 50/40/10
+228,C=C(C)C(=O)OC,Gas Permeability-CO2,35,38.081988,cm3 mm/(m2 day atm),Blend 80/20
+229,C=C(C)C(=O)OC,Gas Permeability-CO2,35,82.1170224,cm3 mm/(m2 day atm),Blend 50/50
+230,C=C(C)C(=O)OC,Gas Permeability-CO2,35,138.320784,cm3 mm/(m2 day atm),Blend 20/80
+231,C=CC(=O)OC,Gas Permeability-He,35,695.98116,cm3 mm/(m2 day atm),Blend 100/0
+232,C=CC(=O)OC,Gas Permeability-Ar,35,33.5296584,cm3 mm/(m2 day atm),Blend 100/0
+233,C=CC(=O)OC,Gas Permeability-N2,35,12.256272,cm3 mm/(m2 day atm),Blend 100/0
+234,C=CC(=O)OC,Gas Permeability-CH4,35,15.4078848,cm3 mm/(m2 day atm),Blend 100/0
+235,C=CC(=O)OC,Gas Permeability-He,35,593.553744,cm3 mm/(m2 day atm),Blend 75/25
+236,C=CC(=O)OC,Gas Permeability-Ar,35,35.893368,cm3 mm/(m2 day atm),Blend 75/25
+237,C=CC(=O)OC,Gas Permeability-N2,35,12.6064512,cm3 mm/(m2 day atm),Blend 75/25
+238,C=CC(=O)OC,Gas Permeability-CH4,35,19.3474008,cm3 mm/(m2 day atm),Blend 75/25
+239,C=CC(=O)OC,Gas Permeability-He,35,489.375432,cm3 mm/(m2 day atm),Blend 50/50
+240,C=CC(=O)OC,Gas Permeability-Ar,35,38.7823464,cm3 mm/(m2 day atm),Blend 50/50
+241,C=CC(=O)OC,Gas Permeability-N2,35,13.9196232,cm3 mm/(m2 day atm),Blend 50/50
+242,C=CC(=O)OC,Gas Permeability-CH4,35,26.4385296,cm3 mm/(m2 day atm),Blend 50/50
+243,C=CC(=O)OC,Gas Permeability-He,35,403.581528,cm3 mm/(m2 day atm),Blend 25/75
+244,C=CC(=O)OC,Gas Permeability-Ar,35,43.334676,cm3 mm/(m2 day atm),Blend 25/75
+245,C=CC(=O)OC,Gas Permeability-N2,35,15.5829744,cm3 mm/(m2 day atm),Blend 25/75
+246,C=CC(=O)OC,Gas Permeability-CH4,35,35.9809128,cm3 mm/(m2 day atm),Blend 25/75
+247,C=CC(=O)OC,Gas Permeability-He,35,316.912176,cm3 mm/(m2 day atm),Blend 0/100
+248,C=CC(=O)OC,Gas Permeability-Ar,35,46.6613784,cm3 mm/(m2 day atm),Blend 0/100
+249,C=CC(=O)OC,Gas Permeability-N2,35,15.758064,cm3 mm/(m2 day atm),Blend 0/100
+250,C=CC(=O)OC,Gas Permeability-CH4,35,43.1595864,cm3 mm/(m2 day atm),Blend 0/100
+251,C=C(C)C(=O)OCC,Gas Permeability-He,25,453.482064,cm3 mm/(m2 day atm),
+252,C=C(C)C(=O)OCC,Gas Permeability-Ne,25,199.602144,cm3 mm/(m2 day atm),
+253,C=C(C)C(=O)OCC,Gas Permeability-O2,25,77.8273272,cm3 mm/(m2 day atm),
+254,C=C(C)C(=O)OCC,Gas Permeability-Ar,25,37.9068984,cm3 mm/(m2 day atm),
+255,C=C(C)C(=O)OCC,Gas Permeability-N2,25,14.882616,cm3 mm/(m2 day atm),
+256,C=C(C)C(=O)OCC,Gas Permeability-CO2,25,331.794792,cm3 mm/(m2 day atm),
+257,C=C(C)C(=O)OCC,Gas Permeability-Kr,25,25.1253576,cm3 mm/(m2 day atm),
+258,C=C(C)C(=O)OCC,Gas Permeability-H2S,25,252.129024,cm3 mm/(m2 day atm),
+259,C=C(C)C(=O)OCC,Gas Permeability-SF6,25,1.11181896,cm3 mm/(m2 day atm),
+260,C=C(C)C(=O)OCC,Gas Permeability-H2O,25,208356.624,cm3 mm/(m2 day atm),
+261,C=C(C)C(=O)OCC,Gas Permeability-H2O,65,252129.024,cm3 mm/(m2 day atm),
+262,C=C(C)C(=O)OCCO,Gas Permeability-O2,34,238.121856,cm3 mm/(m2 day atm),Highly crosslinked
+263,C=C(C)C(=O)OCCO,Gas Permeability-O2,34,475.368264,cm3 mm/(m2 day atm),Highly crosslinked
+264,C=CC#N,Gas Permeability-O2,25,0.01313172,cm3 mm/(m2 day atm),
+265,C=CC#N,Gas Permeability-CO2,25,0.05252688,cm3 mm/(m2 day atm),
+266,C=CC#N,Gas Permeability-H2O,25,20135.304,cm3 mm/(m2 day atm),
+267,C=CC#N,Gas Permeability-O2,25,0.35893368,cm3 mm/(m2 day atm),Barex
+268,C=CC#N,Gas Permeability-O2,38,1.2256272,cm3 mm/(m2 day atm),Barex
+269,C=CC#N,Gas Permeability-CO2,25,1.0505376,cm3 mm/(m2 day atm),Barex
+270,C=CC#N,Gas Permeability-CO2,38,1.9259856,cm3 mm/(m2 day atm),Barex
+271,C=CC#N,Gas Permeability-H2O,25,42896.952,cm3 mm/(m2 day atm),Barex
+272,C=CC#N,Gas Permeability-H2O,38,45523.296,cm3 mm/(m2 day atm),Barex
+273,C=C(C)C#N,Gas Permeability-O2,25,0.07879032,cm3 mm/(m2 day atm),79/15/6
+274,C=C(C)C#N,Gas Permeability-CO2,25,0.21010752,cm3 mm/(m2 day atm),79/15/6
+275,C=C(C)C#N,Gas Permeability-H2O,25,27138.888,cm3 mm/(m2 day atm),79/15/6
+276,C=C(C)C#N,Gas Permeability-O2,25,0.22761648,cm3 mm/(m2 day atm),Lopac
+277,C=C(C)C#N,Gas Permeability-O2,38,0.46398744,cm3 mm/(m2 day atm),Lopac
+278,C=C(C)C#N,Gas Permeability-CO2,25,0.70911288,cm3 mm/(m2 day atm),Lopac
+279,C=C(C)C#N,Gas Permeability-CO2,38,1.4007168,cm3 mm/(m2 day atm),Lopac
+280,C=C(C)C#N,Gas Permeability-H2O,25,22761.648,cm3 mm/(m2 day atm),Lopac
+281,C=C(C)C#N,Gas Permeability-H2O,38,23637.096,cm3 mm/(m2 day atm),Lopac
+282,C=COC(C)=O,Gas Permeability-He,10,433.34676,cm3 mm/(m2 day atm),
+283,C=COC(C)=O,Gas Permeability-He,30,826.422912,cm3 mm/(m2 day atm),
+284,C=COC(C)=O,Gas Permeability-H2,10,261.758952,cm3 mm/(m2 day atm),
+285,C=COC(C)=O,Gas Permeability-H2,30,598.806432,cm3 mm/(m2 day atm),
+286,C=COC(C)=O,Gas Permeability-Ne,10,73.3625424,cm3 mm/(m2 day atm),
+287,C=COC(C)=O,Gas Permeability-Ne,30,172.463256,cm3 mm/(m2 day atm),
+288,C=COC(C)=O,Gas Permeability-O2,10,11.9060928,cm3 mm/(m2 day atm),
+289,C=COC(C)=O,Gas Permeability-O2,30,32.1289416,cm3 mm/(m2 day atm),
+290,C=COC(C)=O,Gas Permeability-Ar,10,4.98129912,cm3 mm/(m2 day atm),
+291,C=COC(C)=O,Gas Permeability-Ar,30,12.5189064,cm3 mm/(m2 day atm),
+292,C=COC(C)=O,Gas Permeability-Kr,10,1.50577056,cm3 mm/(m2 day atm),
+293,C=COC(C)=O,Gas Permeability-Kr,30,5.09510736,cm3 mm/(m2 day atm),
+294,C=COC(C)=O,Gas Permeability-CH4,25,2.07481176,cm3 mm/(m2 day atm),
+295,C=COC(C)=O,Gas Permeability-CO2,35,133.068096,cm3 mm/(m2 day atm),
+296,C=CO,Gas Permeability-He,20,0.0656586,cm3 mm/(m2 day atm),
+297,C=CO,Gas Permeability-H2,25,0.588301056,cm3 mm/(m2 day atm),
+298,C=CO,Gas Permeability-D2,100,1.17310032,cm3 mm/(m2 day atm),
+299,C=CO,Gas Permeability-N2,14,0.00875448,cm3 mm/(m2 day atm),
+300,C=CO,Gas Permeability-N2,14,21.7111104,cm3 mm/(m2 day atm),
+301,C=CO,Gas Permeability-O2,25,0.58217292,cm3 mm/(m2 day atm),
+302,C=CO,Gas Permeability-O2,23,0.00437724,cm3 mm/(m2 day atm),
+303,C=CO,Gas Permeability-CO2,25,0.808913952,cm3 mm/(m2 day atm),
+304,C=CO,Gas Permeability-CO2,25,5690.412,cm3 mm/(m2 day atm),
+305,C=CO,Gas Permeability-H2S,25,0.45523296,cm3 mm/(m2 day atm),
+306,C=CO,Gas Permeability-C2H4O,0,0.1313172,cm3 mm/(m2 day atm),
+307,C=CO,Gas Permeability-H2O,25,459.6102,cm3 mm/(m2 day atm),
+308,C=COC(=O)c1ccccc1,Gas Permeability-H2,25,573.41844,cm3 mm/(m2 day atm),
+309,C=COC(=O)c1ccccc1,Gas Permeability-H2,70,1602.06984,cm3 mm/(m2 day atm),
+310,C=COC(=O)c1ccccc1,Gas Permeability-He,25,583.923816,cm3 mm/(m2 day atm),
+311,C=COC(=O)c1ccccc1,Gas Permeability-He,70,1497.01608,cm3 mm/(m2 day atm),
+312,C=COC(=O)c1ccccc1,Gas Permeability-Ne,25,132.192648,cm3 mm/(m2 day atm),
+313,C=COC(=O)c1ccccc1,Gas Permeability-Ne,70,374.691744,cm3 mm/(m2 day atm),
+314,C=COC(=O)c1ccccc1,Gas Permeability-Ar,25,31.3410384,cm3 mm/(m2 day atm),
+315,C=COC(=O)c1ccccc1,Gas Permeability-Ar,35,40.1830632,cm3 mm/(m2 day atm),
+316,C=COC(=O)c1ccccc1,Gas Permeability-Ar,70,108.555552,cm3 mm/(m2 day atm),
+317,C=COC(=O)c1ccccc1,Gas Permeability-Kr,25,16.8086016,cm3 mm/(m2 day atm),
+318,C=COC(=O)c1ccccc1,Gas Permeability-Kr,70,62.3318976,cm3 mm/(m2 day atm),
+319,C=COC(=O)c1ccccc1,Gas Permeability-Xe,25,6.2156808,cm3 mm/(m2 day atm),
+320,C=COC(=O)c1ccccc1,Gas Permeability-Xe,70,37.644264,cm3 mm/(m2 day atm),
+321,C=COC(=O)c1ccccc1,Gas Permeability-N2,25,10.8555552,cm3 mm/(m2 day atm),
+322,C=COC(=O)c1ccccc1,Gas Permeability-N2,70,40.5332424,cm3 mm/(m2 day atm),
+323,C=COC(=O)c1ccccc1,Gas Permeability-O2,25,62.594532,cm3 mm/(m2 day atm),
+324,C=COC(=O)c1ccccc1,Gas Permeability-O2,70,184.719528,cm3 mm/(m2 day atm),
+325,C=COC(=O)c1ccccc1,Gas Permeability-CO2,25,365.061816,cm3 mm/(m2 day atm),
+326,C=COC(=O)c1ccccc1,Gas Permeability-CO2,35,414.962352,cm3 mm/(m2 day atm),
+327,C=COC(=O)c1ccccc1,Gas Permeability-CO2,70,705.611088,cm3 mm/(m2 day atm),
+328,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-He,25,781.775064,cm3 mm/(m2 day atm),
+329,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-He,80,4368.48552,cm3 mm/(m2 day atm),
+330,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Ne,25,339.673824,cm3 mm/(m2 day atm),
+331,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Ne,80,1216.87272,cm3 mm/(m2 day atm),
+332,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Ar,25,166.33512,cm3 mm/(m2 day atm),
+333,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Ar,80,671.468616,cm3 mm/(m2 day atm),
+334,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Kr,25,82.292112,cm3 mm/(m2 day atm),
+335,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Kr,80,547.155,cm3 mm/(m2 day atm),
+336,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Xe,25,0.824672016,cm3 mm/(m2 day atm),
+337,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-Xe,80,404.456976,cm3 mm/(m2 day atm),
+338,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-O2,25,213.609312,cm3 mm/(m2 day atm),
+339,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-O2,80,1085.55552,cm3 mm/(m2 day atm),
+340,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-N2,25,56.6414856,cm3 mm/(m2 day atm),
+341,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-N2,80,261.758952,cm3 mm/(m2 day atm),
+342,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-CO2,25,1374.45336,cm3 mm/(m2 day atm),
+343,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-CO2,80,2880.22392,cm3 mm/(m2 day atm),
+344,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-CH4,25,115.559136,cm3 mm/(m2 day atm),
+345,C=COC(=O)c1ccc(C(C)C)cc1,Gas Permeability-CH4,80,494.62812,cm3 mm/(m2 day atm),
+346,C=COC(=O)c1cccc(C)c1,Gas Permeability-Ar,35,56.2037616,cm3 mm/(m2 day atm),
+347,C=COC(=O)c1cccc(C)c1,Gas Permeability-CO2,35,442.10124,cm3 mm/(m2 day atm),
+348,C=CCl,Gas Permeability-He,25,131.3172,cm3 mm/(m2 day atm),Unplasticized
+349,C=CCl,Gas Permeability-H2,25,113.80824,cm3 mm/(m2 day atm),Unplasticized
+350,C=CCl,Gas Permeability-Ne,25,25.387992,cm3 mm/(m2 day atm),Unplasticized
+351,C=CCl,Gas Permeability-N2,25,0.77914872,cm3 mm/(m2 day atm),Unplasticized
+352,C=CCl,Gas Permeability-Ar,25,0.75288528,cm3 mm/(m2 day atm),Unplasticized
+353,C=CCl,Gas Permeability-Kr,25,0.5252688,cm3 mm/(m2 day atm),Unplasticized
+354,C=CCl,Gas Permeability-Kr,80,12.256272,cm3 mm/(m2 day atm),Unplasticized
+355,C=CCl,Gas Permeability-O2,25,2.9765232,cm3 mm/(m2 day atm),Unplasticized
+356,C=CCl,Gas Permeability-CO2,25,10.505376,cm3 mm/(m2 day atm),Unplasticized
+357,C=CCl,Gas Permeability-CH4,25,1.8384408,cm3 mm/(m2 day atm),Unplasticized
+358,C=CCl,Gas Permeability-H2O,25,18034.2288,cm3 mm/(m2 day atm),Unplasticized
+359,C=CCl,Gas Permeability-H2S,20,12.256272,cm3 mm/(m2 day atm),Unplasticized
+360,C=CCl,Gas Permeability-NH3,20,323.91576,cm3 mm/(m2 day atm),Unplasticized
+361,C=CCl,Gas Permeability-C2H4O,30,385.19712,cm3 mm/(m2 day atm),Unplasticized
+362,C=CCl,Gas Permeability-He,35,220.612896,cm3 mm/(m2 day atm),Unplasticized
+363,C=CCl,Gas Permeability-N2,35,0.620692632,cm3 mm/(m2 day atm),Pentaform Type TH  170/01
+364,C=CCl,Gas Permeability-Ar,35,2.42499096,cm3 mm/(m2 day atm),Pentaform Type TH  170/01
+365,C=CCl,Gas Permeability-CO2,35,15.9331536,cm3 mm/(m2 day atm),Pentaform Type TH  170/01
+366,C=CCl,Gas Permeability-CH4,35,0.70911288,cm3 mm/(m2 day atm),Pentaform Type TH  170/01
+367,C=CCl,Gas Permeability-He,35,196.100352,cm3 mm/(m2 day atm),unplasticized
+368,C=CCl,Gas Permeability-N2,35,0.438599448,cm3 mm/(m2 day atm),CS 5760
+369,C=CCl,Gas Permeability-Ar,35,1.82093184,cm3 mm/(m2 day atm),CS 5760
+370,C=CCl,Gas Permeability-CO2,35,12.0811824,cm3 mm/(m2 day atm),CS 5760
+371,C=CCl,Gas Permeability-CH4,35,0.558535824,cm3 mm/(m2 day atm),CS 5760
+372,C=CCl,Gas Permeability-H2,27,157.58064,cm3 mm/(m2 day atm),Plasticized with 0%  tricresyl triphospate
+373,C=CCl,Gas Permeability-H2,27,122.56272,cm3 mm/(m2 day atm),Plasticized with 5%  tricresyl triphospate
+374,C=CCl,Gas Permeability-H2,27,113.80824,cm3 mm/(m2 day atm),Plasticized with 10.2%  tricresyl triphospate
+375,C=CCl,Gas Permeability-H2,27,113.80824,cm3 mm/(m2 day atm),Plasticized with 15%  tricresyl triphospate
+376,C=CCl,Gas Permeability-H2,27,140.07168,cm3 mm/(m2 day atm),Plasticized with 20.1%  tricresyl triphospate
+377,C=CCl,Gas Permeability-H2,27,183.84408,cm3 mm/(m2 day atm),Plasticized with 30.8%  tricresyl triphospate
+378,C=CCl,Gas Permeability-H2,27,236.37096,cm3 mm/(m2 day atm),Plasticized with 40.0%  tricresyl triphospate
+379,C=CCl,Gas Permeability-CO,27,1.6633512,cm3 mm/(m2 day atm),Plasticized with 0%  tricresyl triphospate
+380,C=CCl,Gas Permeability-CO,27,1.0505376,cm3 mm/(m2 day atm),Plasticized with 5%  tricresyl triphospate
+381,C=CCl,Gas Permeability-CO,27,1.1380824,cm3 mm/(m2 day atm),Plasticized with 10.2%  tricresyl triphospate
+382,C=CCl,Gas Permeability-CO,27,1.2256272,cm3 mm/(m2 day atm),Plasticized with 15%  tricresyl triphospate
+383,C=CCl,Gas Permeability-CO,27,1.8384408,cm3 mm/(m2 day atm),Plasticized with 20.1%  tricresyl triphospate
+384,C=CCl,Gas Permeability-CO,27,6.9160392,cm3 mm/(m2 day atm),Plasticized with 30.8%  tricresyl triphospate
+385,C=CCl,Gas Permeability-CO,27,24.6000888,cm3 mm/(m2 day atm),Plasticized with 40.0%  tricresyl triphospate
+386,C=CCl,Gas Permeability-N2,25,1.97851248,cm3 mm/(m2 day atm),100/0
+387,C=CCl,Gas Permeability-O2,25,9.0171144,cm3 mm/(m2 day atm),100/0
+388,C=CCl,Gas Permeability-N2,25,2.46000888,cm3 mm/(m2 day atm),90/10
+389,C=CCl,Gas Permeability-O2,25,10.505376,cm3 mm/(m2 day atm),90/10
+390,C=CCl,Gas Permeability-N2,25,2.76641568,cm3 mm/(m2 day atm),80/20
+391,C=CCl,Gas Permeability-O2,25,13.2192648,cm3 mm/(m2 day atm),80/20
+392,C=CCl,Gas Permeability-N2,25,3.14285832,cm3 mm/(m2 day atm),75/25
+393,C=CCl,Gas Permeability-O2,25,14.3573472,cm3 mm/(m2 day atm),75/25
+394,C=CCl,Gas Permeability-N2,25,5.74293888,cm3 mm/(m2 day atm),60/40
+395,C=CCl,Gas Permeability-O2,25,25.825716,cm3 mm/(m2 day atm),60/40
+396,C=CCl,Gas Permeability-N2,25,13.3943544,cm3 mm/(m2 day atm),50/50
+397,C=CCl,Gas Permeability-O2,25,59.3553744,cm3 mm/(m2 day atm),50/50
+398,C=CCl,Gas Permeability-N2,25,28.014336,cm3 mm/(m2 day atm),40/60
+399,C=CCl,Gas Permeability-O2,25,152.327952,cm3 mm/(m2 day atm),40/60
+400,C=CCl,Gas Permeability-N2,25,132.192648,cm3 mm/(m2 day atm),30/70
+401,C=CCl,Gas Permeability-O2,25,335.296584,cm3 mm/(m2 day atm),30/70
+402,C=CCl,Gas Permeability-N2,25,2.35495512,cm3 mm/(m2 day atm),100/0
+403,C=CCl,Gas Permeability-O2,25,14.3573472,cm3 mm/(m2 day atm),100/0
+404,C=CCl,Gas Permeability-N2,25,2.37246408,cm3 mm/(m2 day atm),80/20
+405,C=CCl,Gas Permeability-O2,25,14.444892,cm3 mm/(m2 day atm),80/20
+406,C=CCl,Gas Permeability-N2,25,3.77318088,cm3 mm/(m2 day atm),70/30
+407,C=CCl,Gas Permeability-O2,25,22.2363792,cm3 mm/(m2 day atm),70/30
+408,C=CCl,Gas Permeability-N2,25,5.33147832,cm3 mm/(m2 day atm),60/40
+409,C=CCl,Gas Permeability-O2,25,36.1560024,cm3 mm/(m2 day atm),60/40
+410,C=CCl,Gas Permeability-N2,25,10.505376,cm3 mm/(m2 day atm),50/50
+411,C=CCl,Gas Permeability-O2,25,69.598116,cm3 mm/(m2 day atm),50/50
+412,C=CCl,Gas Permeability-N2,25,36.5061816,cm3 mm/(m2 day atm),40/60
+413,C=CCl,Gas Permeability-O2,25,212.733864,cm3 mm/(m2 day atm),40/60
+414,C=CCl,Gas Permeability-N2,25,88.420248,cm3 mm/(m2 day atm),30/70
+415,C=CCl,Gas Permeability-O2,25,436.848552,cm3 mm/(m2 day atm),30/70
+416,C=C(Cl)Cl,Gas Permeability-O2,35,0.033267024,cm3 mm/(m2 day atm),
+417,C=C(Cl)Cl,Gas Permeability-He,34,20.3979384,cm3 mm/(m2 day atm),Saran
+418,C=C(Cl)Cl,Gas Permeability-N2,30,0.0618066288,cm3 mm/(m2 day atm),Saran
+419,C=C(Cl)Cl,Gas Permeability-O2,30,0.335296584,cm3 mm/(m2 day atm),Saran
+420,C=C(Cl)Cl,Gas Permeability-CO2,30,1.90847664,cm3 mm/(m2 day atm),Saran
+421,C=C(Cl)Cl,Gas Permeability-CH3Br,30,0.190847664,cm3 mm/(m2 day atm),Saran
+422,C=C(Cl)Cl,Gas Permeability-H2S,30,2.3637096,cm3 mm/(m2 day atm),Saran
+423,C=C(Cl)Cl,Gas Permeability-H2O,25,612.8136,cm3 mm/(m2 day atm),Saran
+424,C=COC(=O)C1CCCCC1,Gas Permeability-He,25,848.309112,cm3 mm/(m2 day atm),
+425,C=COC(=O)C1CCCCC1,Gas Permeability-He,70,2932.7508,cm3 mm/(m2 day atm),
+426,C=COC(=O)C1CCCCC1,Gas Permeability-O2,25,113.80824,cm3 mm/(m2 day atm),
+427,C=COC(=O)C1CCCCC1,Gas Permeability-O2,70,569.0412,cm3 mm/(m2 day atm),
+428,C=COC(=O)C1CCCCC1,Gas Permeability-Ar,25,74.5006248,cm3 mm/(m2 day atm),
+429,C=COC(=O)C1CCCCC1,Gas Permeability-Ar,35,102.427416,cm3 mm/(m2 day atm),
+430,C=COC(=O)C1CCCCC1,Gas Permeability-Ar,70,415.8378,cm3 mm/(m2 day atm),
+431,C=COC(=O)C1CCCCC1,Gas Permeability-N2,25,22.4114688,cm3 mm/(m2 day atm),
+432,C=COC(=O)C1CCCCC1,Gas Permeability-N2,70,159.331536,cm3 mm/(m2 day atm),
+433,C=COC(=O)C1CCCCC1,Gas Permeability-CO2,25,442.10124,cm3 mm/(m2 day atm),
+434,C=COC(=O)C1CCCCC1,Gas Permeability-CO2,70,1873.45872,cm3 mm/(m2 day atm),
+435,FC(F)=C(F)F,Gas Permeability-H2,25,647.83152,cm3 mm/(m2 day atm),
+436,FC(F)=C(F)F,Gas Permeability-H2,25,634.6998,cm3 mm/(m2 day atm),
+437,FC(F)=C(F)F,Gas Permeability-N2,25,87.5448,cm3 mm/(m2 day atm),
+438,FC(F)=C(F)F,Gas Permeability-O2,25,280.14336,cm3 mm/(m2 day atm),
+439,FC(F)=C(F)F,Gas Permeability-CO2,25,656.586,cm3 mm/(m2 day atm),
+440,FC(F)=C(F)F,Gas Permeability-NO2,25,1050.5376,cm3 mm/(m2 day atm),
+441,FC(F)=C(F)F,Gas Permeability-N2O4,25,2451.2544,cm3 mm/(m2 day atm),
+442,FC(F)=C(F)F,Gas Permeability-D2,25,654.835104,cm3 mm/(m2 day atm),
+443,FC(F)=C(F)F,Gas Permeability-T2,25,541.902312,cm3 mm/(m2 day atm),
+444,FC(F)=C(F)F,Gas Permeability-CH4,25,49.025088,cm3 mm/(m2 day atm),
+445,FC(F)=C(F)F,Gas Permeability-He,25,787.9032,cm3 mm/(m2 day atm),
+446,FC(F)=C(F)F,Gas Permeability-Ne,25,235.495512,cm3 mm/(m2 day atm),
+447,FC(F)=C(F)F,Gas Permeability-Ar,25,131.3172,cm3 mm/(m2 day atm),
+448,FC(F)=C(F)F,Gas Permeability-Kr,25,63.907704,cm3 mm/(m2 day atm),
+449,FC(F)=C(F)F,Gas Permeability-Xe,25,26.26344,cm3 mm/(m2 day atm),
+450,FC(F)=C(F)F,Gas Permeability-H2O,38,525.2688,cm3 mm/(m2 day atm),
+451,FC(F)=C(F)F,Gas Permeability-CH4,90,337.04748,cm3 mm/(m2 day atm),
+452,FC(F)=C(F)F,Gas Permeability-C2H6,90,188.22132,cm3 mm/(m2 day atm),
+453,FC(F)=C(F)F,Gas Permeability-C3H8,90,84.043008,cm3 mm/(m2 day atm),
+454,FC(F)=C(F)F,Gas Permeability-n-C4H10,90,76.8643344,cm3 mm/(m2 day atm),
+455,FC(F)=C(F)F,Gas Permeability-i-C4H10,90,30.202956,cm3 mm/(m2 day atm),
+456,FC(F)=C(F)F,Gas Permeability-He,23,2888.9784,cm3 mm/(m2 day atm),Hostaflon PFA
+457,FC(F)=C(F)F,Gas Permeability-O2,22,277.517016,cm3 mm/(m2 day atm),Hostaflon PFA
+458,FC(F)=C(F)F,Gas Permeability-N2,23,80.541216,cm3 mm/(m2 day atm),Hostaflon PFA
+459,FC(F)=C(F)F,Gas Permeability-CO2,24,875.448,cm3 mm/(m2 day atm),Hostaflon PFA
+460,FC(F)=C(F)F,Gas Permeability-CH4,25,69.160392,cm3 mm/(m2 day atm),Hostaflon PFA
+461,FC(F)=C(F)F,Gas Permeability-SO2,24,184.719528,cm3 mm/(m2 day atm),Hostaflon PFA
+462,FC(F)=C(F)F,Gas Permeability-Cl2,23,118.18548,cm3 mm/(m2 day atm),Hostaflon PFA
+463,FC(F)=C(F)F,Gas Permeability-HCl,22,178.591392,cm3 mm/(m2 day atm),Hostaflon PFA
+464,FC(F)=C(F)F,Gas Permeability-H2O,23,1173.10032,cm3 mm/(m2 day atm),Hostaflon PFA
+465,FC(F)=C(F)Cl,Gas Permeability-He,20,446.47848,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+466,FC(F)=C(F)Cl,Gas Permeability-H2,20,61.719084,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+467,FC(F)=C(F)Cl,Gas Permeability-N2,25,0.328293,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+468,FC(F)=C(F)Cl,Gas Permeability-O2,40,2.626344,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+469,FC(F)=C(F)Cl,Gas Permeability-CO2,40,13.8320784,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+470,FC(F)=C(F)Cl,Gas Permeability-H2O,25,19.0847664,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+471,FC(F)=C(F)Cl,Gas Permeability-C2H2O,60,288.89784,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+472,FC(F)=C(F)Cl,Gas Permeability-CH3Br,60,302.02956,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 30% crystallinity
+473,FC(F)=C(F)Cl,Gas Permeability-N2,25,0.1969758,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 80% crystallinity
+474,FC(F)=C(F)Cl,Gas Permeability-O2,40,1.64584224,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 80% crystallinity
+475,FC(F)=C(F)Cl,Gas Permeability-CO2,40,3.1516128,cm3 mm/(m2 day atm),Unplasticized Kel-F 300  film of about 80% crystallinity
+476,FC(F)=C(F)Cl,Gas Permeability-N2,50,36.1560024,cm3 mm/(m2 day atm),Crystallinity 30%
+477,FC(F)=C(F)Cl,Gas Permeability-O2,30,36.768816,cm3 mm/(m2 day atm),Plasticizede
+478,FC(F)=C(F)Cl,Gas Permeability-CO2,50,492.877224,cm3 mm/(m2 day atm),Plasticizede
+479,C=CF,Gas Permeability-He,23,30.3780456,cm3 mm/(m2 day atm),Tedlar
+480,C=CF,Gas Permeability-N2,23,0.10505376,cm3 mm/(m2 day atm),Tedlar
+481,C=CF,Gas Permeability-O2,23,1.21687272,cm3 mm/(m2 day atm),Tedlar
+482,C=CF,Gas Permeability-CO2,23,6.0405912,cm3 mm/(m2 day atm),Tedlar
+483,C=CF,Gas Permeability-H2O,23,884.20248,cm3 mm/(m2 day atm),Tedlar
+484,C=CF,Gas Permeability-He,35,112.932792,cm3 mm/(m2 day atm),Kynar
+485,C=CF,Gas Permeability-H2,35,35.3680992,cm3 mm/(m2 day atm),Kynar
+486,C=CF,Gas Permeability-Ar,35,2.82769704,cm3 mm/(m2 day atm),Kynar
+487,C=CF,Gas Permeability-N2,35,1.46199816,cm3 mm/(m2 day atm),Kynar
+488,C=CF,Gas Permeability-O2,35,5.4277776,cm3 mm/(m2 day atm),Kynar
+489,C=CF,Gas Permeability-CH4,35,1.313172,cm3 mm/(m2 day atm),Kynar
+490,C=CF,Gas Permeability-CO2,35,33.9673824,cm3 mm/(m2 day atm),Kynar
+491,C=CC=C,Gas Permeability-H2,25,2766.41568,cm3 mm/(m2 day atm),
+492,C=CC=C,Gas Permeability-N2,25,423.716832,cm3 mm/(m2 day atm),
+493,C=CC=C,Gas Permeability-O2,25,1251.89064,cm3 mm/(m2 day atm),
+494,C=CC=C,Gas Permeability-CO2,25,9104.6592,cm3 mm/(m2 day atm),
+495,C=CC=C,Gas Permeability-He,24,2144.8476,cm3 mm/(m2 day atm),"cis-1,4"
+496,C=CC=C,Gas Permeability-Ne,24,1260.64512,cm3 mm/(m2 day atm),
+497,C=CC=C,Gas Permeability-Ar,24,2696.37984,cm3 mm/(m2 day atm),
+498,C=CC=C,Gas Permeability-N2,24,1260.64512,cm3 mm/(m2 day atm),
+499,C=CC=C,Gas Permeability-He,25,1033.02864,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+500,C=CC=C,Gas Permeability-O2,25,743.255352,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+501,C=CC=C,Gas Permeability-Ar,25,725.746392,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+502,C=CC=C,Gas Permeability-CO2,25,3177.87624,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+503,C=CC=C,Gas Permeability-CO,25,406.207872,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+504,C=CC=C,Gas Permeability-N2,25,262.6344,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+505,C=CC=C,Gas Permeability-CH4,25,855.312696,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+506,C=CC=C,Gas Permeability-C2H6,25,2188.62,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+507,C=CC=C,Gas Permeability-C3H4,25,14795.0712,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+508,C=CC=C,Gas Permeability-C3H6,25,5445.28656,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+509,C=CC=C,Gas Permeability-C3H8,25,3545.5644,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+510,C=CC=C,Gas Permeability-SF6,25,74.3255352,cm3 mm/(m2 day atm),"Hydrogenated,  crystallinity 29%, Hydropol density  0.894g/cm3"
+511,C=CC(=C)Cl,Gas Permeability-H2,25,892.95696,cm3 mm/(m2 day atm),Neoprene G
+512,C=CC(=C)Cl,Gas Permeability-O2,25,259.132608,cm3 mm/(m2 day atm),Neoprene G
+513,C=CC(=C)Cl,Gas Permeability-N2,25,77.039424,cm3 mm/(m2 day atm),Neoprene G
+514,C=CC(=C)Cl,Gas Permeability-Ar,25,248.627232,cm3 mm/(m2 day atm),Neoprene G
+515,C=CC(=C)Cl,Gas Permeability-CO2,25,1680.86016,cm3 mm/(m2 day atm),Neoprene G
+516,C=CC(=C)Cl,Gas Permeability-CH4,25,216.235656,cm3 mm/(m2 day atm),Neoprene G
+517,C=CC(=C)Cl,Gas Permeability-H2O,25,59793.0984,cm3 mm/(m2 day atm),Neoprene G
+518,C=CC(=C)Cl,Gas Permeability-H2O,23,73274.9976,cm3 mm/(m2 day atm),Neoprene W
+519,C=CC(=C)Cl,Gas Permeability-H2O,23,449104.824,cm3 mm/(m2 day atm),Neoprene W
+520,C=CC(=C)Cl,Gas Permeability-He,35,1313.172,cm3 mm/(m2 day atm),Neoprene
+521,C=CC(=C)Cl,Gas Permeability-H2,35,1812.17736,cm3 mm/(m2 day atm),Neoprene
+522,C=CC(=C)Cl,Gas Permeability-D2,35,1750.896,cm3 mm/(m2 day atm),Neoprene
+523,C=CC(=C)Cl,Gas Permeability-O2,35,579.546576,cm3 mm/(m2 day atm),Neoprene
+524,C=CC(=C)Cl,Gas Permeability-N2,35,195.224904,cm3 mm/(m2 day atm),Neoprene
+525,C=CC=C(C)C,Gas Permeability-He,25,945.48384,cm3 mm/(m2 day atm),Methyl rubber
+526,C=CC=C(C)C,Gas Permeability-H2,25,1120.57344,cm3 mm/(m2 day atm),Methyl rubber
+527,C=CC=C(C)C,Gas Permeability-N2,25,31.078404,cm3 mm/(m2 day atm),Methyl rubber
+528,C=CC=C(C)C,Gas Permeability-O2,25,138.320784,cm3 mm/(m2 day atm),Methyl rubber
+529,C=CC=C(C)C,Gas Permeability-CO2,25,492.877224,cm3 mm/(m2 day atm),Methyl rubber
+530,C=CC=C(C)C,Gas Permeability-CH4,25,54.4528656,cm3 mm/(m2 day atm),Methyl rubber
+531,C=CC(=C)C,Gas Permeability-O2,25,1540.78848,cm3 mm/(m2 day atm),"Amorphous, Natural  rubber"
+532,C=CC(=C)C,Gas Permeability-Ar,25,1505.77056,cm3 mm/(m2 day atm),"Amorphous, Natural  rubber"
+533,C=CC(=C)C,Gas Permeability-CO2,25,10067.652,cm3 mm/(m2 day atm),"Amorphous, Natural  rubber"
+534,C=CC(=C)C,Gas Permeability-CO,25,1033.02864,cm3 mm/(m2 day atm),"Amorphous, Natural  rubber"
+535,C=CC(=C)C,Gas Permeability-N2,25,622.443528,cm3 mm/(m2 day atm),
+536,C=CC(=C)C,Gas Permeability-CH4,25,1987.26696,cm3 mm/(m2 day atm),
+537,C=CC(=C)C,Gas Permeability-C3H4,25,36331.092,cm3 mm/(m2 day atm),
+538,C=CC(=C)C,Gas Permeability-C3H6,25,13481.8992,cm3 mm/(m2 day atm),
+539,C=CC(=C)C,Gas Permeability-C3H8,25,11030.6448,cm3 mm/(m2 day atm),
+540,C=CC(=C)C,Gas Permeability-SF6,25,236.37096,cm3 mm/(m2 day atm),
+541,C=CC(=C)C,Gas Permeability-C2H2,25,6522.0876,cm3 mm/(m2 day atm),
+542,C=CC(=C)C,Gas Permeability-n-C4H10,50,46048.5648,cm3 mm/(m2 day atm),
+543,C=CC(=C)C,Gas Permeability-n-C5H12,50,108555.552,cm3 mm/(m2 day atm),
+544,C=CC(=C)C,Gas Permeability-H2O,25,150577.056,cm3 mm/(m2 day atm),
+545,C=CC(=C)C,Gas Permeability-H2,25,954.23832,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+546,C=CC(=C)C,Gas Permeability-H2,50,9279.7488,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+547,C=CC(=C)C,Gas Permeability-O2,25,406.207872,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+548,C=CC(=C)C,Gas Permeability-O2,50,4928.77224,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+549,C=CC(=C)C,Gas Permeability-N2,25,141.822576,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+550,C=CC(=C)C,Gas Permeability-N2,50,2074.81176,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+551,C=CC(=C)C,Gas Permeability-CO2,25,2337.44616,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+552,C=CC(=C)C,Gas Permeability-CO2,50,24600.0888,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+553,C=CC(=C)C,Gas Permeability-H2O,25,33179.4792,cm3 mm/(m2 day atm),"trans, Vulcanized  purified gutta percha"
+554,C=CC(=C)C,Gas Permeability-He,20,1251.89064,cm3 mm/(m2 day atm),Pliofilm FM-1
+555,C=CC(=C)C,Gas Permeability-N2,30,9.8925624,cm3 mm/(m2 day atm),Pliofilm FM-1
+556,C=CC(=C)C,Gas Permeability-O2,30,3545.5644,cm3 mm/(m2 day atm),Pliofilm FM-1
+557,C=CC(=C)C,Gas Permeability-CO2,30,79.665768,cm3 mm/(m2 day atm),Pliofilm FM-1
+558,C=CC(=C)C,Gas Permeability-H2S,30,6.56586,cm3 mm/(m2 day atm),Pliofilm FM-1
+559,C=CC(=C)C,Gas Permeability-C2H4O,0,47974.5504,cm3 mm/(m2 day atm),Pliofilm FM-1
+560,C=CC(=C)C,Gas Permeability-CH3Br,60,2232.3924,cm3 mm/(m2 day atm),Pliofilm FM-1
+561,C=O,Gas Permeability-CO2,25,118.18548,cm3 mm/(m2 day atm),
+562,C=O,Gas Permeability-H2O,25,59793.0984,cm3 mm/(m2 day atm),
+563,C=O,Gas Permeability-CO2,25,335.296584,cm3 mm/(m2 day atm),Grafted with 2.8%  butadiene
+564,C=O,Gas Permeability-H2O,25,87369.7104,cm3 mm/(m2 day atm),Grafted with 2.8%  butadiene
+565,C=O,Gas Permeability-O2,23,4.9900536,cm3 mm/(m2 day atm),Hostaform
+566,C=O,Gas Permeability-CO2,23,112.057344,cm3 mm/(m2 day atm),Hostaform
+567,C=O,Gas Permeability-H2O,23,36943.9056,cm3 mm/(m2 day atm),Hostaform
+568,c1ccc2c(c1)O2,Gas Permeability-CO2,35,3326.7024,cm3 mm/(m2 day atm),0%  Brg
+569,c1ccc2c(c1)O2,Gas Permeability-CH4,35,192.59856,cm3 mm/(m2 day atm),0%  Brg
+570,c1ccc2c(c1)O2,Gas Permeability-CO2,35,3326.7024,cm3 mm/(m2 day atm),36% Br
+571,c1ccc2c(c1)O2,Gas Permeability-CH4,35,175.0896,cm3 mm/(m2 day atm),36% Br
+572,c1ccc2c(c1)O2,Gas Permeability-CO2,35,4464.7848,cm3 mm/(m2 day atm),91% Br
+573,c1ccc2c(c1)O2,Gas Permeability-CH4,35,227.61648,cm3 mm/(m2 day atm),91% Br
+574,c1ccc2c(c1)O2,Gas Permeability-CO2,35,7091.1288,cm3 mm/(m2 day atm),106% Br
+575,c1ccc2c(c1)O2,Gas Permeability-CH4,35,411.46056,cm3 mm/(m2 day atm),106% Br
+576,O=C1OCCOC(=O)c2ccc1cc2,Gas Permeability-H2O,25,9892.5624,cm3 mm/(m2 day atm),
+577,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-O2,35,8.535618,cm3 mm/(m2 day atm),"Molecular weight=1050,  density=1.20g/cm3"
+578,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO2,35,45.96102,cm3 mm/(m2 day atm),"Molecular weight=1050,  density=1.20g/cm3"
+579,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO,35,2.43374544,cm3 mm/(m2 day atm),"Molecular weight=1050,  density=1.20g/cm3"
+580,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CH4,35,3.09033144,cm3 mm/(m2 day atm),"Molecular weight=1050,  density=1.20g/cm3"
+581,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-H2O,23,341424.72,cm3 mm/(m2 day atm),"Molecular weight=1050,  density=1.20g/cm3"
+582,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-O2,35,49.2877224,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+583,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO2,35,420.21504,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+584,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO,35,17.071236,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+585,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-N2,35,9.8925624,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+586,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CH4,35,33.5296584,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+587,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-H2O,23,518702.94,cm3 mm/(m2 day atm),"Molecular weight=1510,  density=1.19g/cm3"
+588,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-O2,35,131.3172,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+589,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO2,35,1313.172,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+590,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CO,35,78.79032,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+591,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-N2,35,52.52688,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+592,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-CH4,35,105.05376,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+593,O=C1CCCCC(=O)OCCCCO1,Gas Permeability-H2O,23,650020.14,cm3 mm/(m2 day atm),"Molecular weight=2100,  density=1.18g/cm3"
+594,O=C([O-])[O-],Gas Permeability-H2O,25,91922.04,cm3 mm/(m2 day atm),Lexan
+595,O=C([O-])[O-],Gas Permeability-CO2,35,393.9516,cm3 mm/(m2 day atm),Lexan
+596,O=C([O-])[O-],Gas Permeability-CH4,35,17.50896,cm3 mm/(m2 day atm),
+597,O=C([O-])[O-].O=C([O-])[O-].[ClH2+].[ClH2+].[ClH2+].[ClH2+],Gas Permeability-CO2,35,437.724,cm3 mm/(m2 day atm),
+598,O=C([O-])[O-].O=C([O-])[O-].[ClH2+].[ClH2+].[ClH2+].[ClH2+],Gas Permeability-CH4,35,14.7075264,cm3 mm/(m2 day atm),
+599,O=C1OCCCCO1,Gas Permeability-CO2,35,1155.59136,cm3 mm/(m2 day atm),
+600,O=C1OCCCCO1,Gas Permeability-CH4,35,52.52688,cm3 mm/(m2 day atm),
+601,O=C1OCCCCO1,Gas Permeability-O2,35,9.192204,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+602,O=C1OCCCCO1,Gas Permeability-CO2,35,59.09274,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+603,O=C1OCCCCO1,Gas Permeability-CO,35,4.596102,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+604,O=C1OCCCCO1,Gas Permeability-N2,35,2.69637984,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+605,O=C1OCCCCO1,Gas Permeability-CH4,35,3.28293,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+606,O=C1OCCCCO1,Gas Permeability-H2O,23,72224.46,cm3 mm/(m2 day atm),"Molecular weight=1150,  density=1.29g/cm3"
+607,O=C1OCCCCO1,Gas Permeability-O2,35,12.5189064,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+608,O=C1OCCCCO1,Gas Permeability-CO2,35,118.18548,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+609,O=C1OCCCCO1,Gas Permeability-CO,35,9.192204,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+610,O=C1OCCCCO1,Gas Permeability-N2,35,5.7779568,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+611,O=C1OCCCCO1,Gas Permeability-CH4,35,9.192204,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+612,O=C1OCCCCO1,Gas Permeability-H2O,23,183844.08,cm3 mm/(m2 day atm),"Molecular weight=1570,  density=1.27g/cm3"
+613,O=C1OCCCCO1,Gas Permeability-O2,35,26.9637984,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+614,O=C1OCCCCO1,Gas Permeability-CO2,35,217.111104,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+615,O=C1OCCCCO1,Gas Permeability-CO,35,12.5189064,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+616,O=C1OCCCCO1,Gas Permeability-N2,35,7.879032,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+617,O=C1OCCCCO1,Gas Permeability-CH4,35,8.535618,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+618,O=C1OCCCCO1,Gas Permeability-H2O,23,164146.5,cm3 mm/(m2 day atm),"Molecular weight=3070,  density=1.21g/cm3"
+619,O=C1OCCCCCCO1,Gas Permeability-O2,35,16.4584224,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+620,O=C1OCCCCCCO1,Gas Permeability-CO2,35,91.92204,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+621,O=C1OCCCCCCO1,Gas Permeability-CO,35,3.939516,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+622,O=C1OCCCCCCO1,Gas Permeability-N2,35,3.939516,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+623,O=C1OCCCCCCO1,Gas Permeability-CH4,35,3.28293,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+624,O=C1OCCCCCCO1,Gas Permeability-H2O,23,72224.46,cm3 mm/(m2 day atm),"Molecular weight=1040,  density=1.29g/cm3"
+625,O=C1OCCCCCCO1,Gas Permeability-O2,35,19.69758,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+626,O=C1OCCCCCCO1,Gas Permeability-CO2,35,177.715944,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+627,O=C1OCCCCCCO1,Gas Permeability-CO,35,13.13172,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+628,O=C1OCCCCCCO1,Gas Permeability-N2,35,7.222446,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+629,O=C1OCCCCCCO1,Gas Permeability-CH4,35,5.909274,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+630,O=C1OCCCCCCO1,Gas Permeability-H2O,23,91922.04,cm3 mm/(m2 day atm),"Molecular weight=1320,  density=1.25g/cm3"
+631,O=C1OCCCCCCO1,Gas Permeability-O2,35,54.5404104,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+632,O=C1OCCCCCCO1,Gas Permeability-CO2,35,249.50268,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+633,O=C1OCCCCCCO1,Gas Permeability-CO,35,19.69758,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+634,O=C1OCCCCCCO1,Gas Permeability-N2,35,15.1452504,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+635,O=C1OCCCCCCO1,Gas Permeability-CH4,35,14.444892,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+636,O=C1OCCCCCCO1,Gas Permeability-H2O,23,137883.06,cm3 mm/(m2 day atm),"Molecular weight=1500,  density=1.20g/cm3"
+637,O=C1OCCCCCCO1,Gas Permeability-O2,35,144.44892,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+638,O=C1OCCCCCCO1,Gas Permeability-CO2,35,989.25624,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+639,O=C1OCCCCCCO1,Gas Permeability-CO,35,65.6586,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+640,O=C1OCCCCCCO1,Gas Permeability-N2,35,49.900536,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+641,O=C1OCCCCCCO1,Gas Permeability-CH4,35,72.22446,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+642,O=C1OCCCCCCO1,Gas Permeability-H2O,23,302029.56,cm3 mm/(m2 day atm),"Molecular weight=2380,  density=1.18g/cm3"
+643,O=C1OCCCCCCO1,Gas Permeability-O2,35,190.847664,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+644,O=C1OCCCCCCO1,Gas Permeability-CO2,35,787.9032,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+645,O=C1OCCCCCCO1,Gas Permeability-CO,35,85.35618,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+646,O=C1OCCCCCCO1,Gas Permeability-N2,35,78.79032,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+647,O=C1OCCCCCCO1,Gas Permeability-CH4,35,105.05376,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+648,O=C1OCCCCCCO1,Gas Permeability-H2O,23,367688.16,cm3 mm/(m2 day atm),"Molecular weight=2860,  density=1.18g/cm3"
+649,O=C1OCCCCCCCCCCCO1,Gas Permeability-O2,35,72.22446,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+650,O=C1OCCCCCCCCCCCO1,Gas Permeability-CO2,35,656.586,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+651,O=C1OCCCCCCCCCCCO1,Gas Permeability-CO,35,38.7823464,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+652,O=C1OCCCCCCCCCCCO1,Gas Permeability-N2,35,24.3374544,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+653,O=C1OCCCCCCCCCCCO1,Gas Permeability-CH4,35,42.021504,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+654,O=C1OCCCCCCCCCCCO1,Gas Permeability-H2O,23,216673.38,cm3 mm/(m2 day atm),"Molecular weight=2170,  density=1.18g/cm3"
+655,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-O2,35,34.8428304,cm3 mm/(m2 day atm),
+656,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-CO2,35,236.37096,cm3 mm/(m2 day atm),Molecular weight  3010
+657,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-CO,35,11.818548,cm3 mm/(m2 day atm),Density  1.19g/cm3
+658,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-N2,35,7.222446,cm3 mm/(m2 day atm),
+659,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-CH4,35,9.192204,cm3 mm/(m2 day atm),
+660,CC(O)COC(C)CO.O=C(O)O,Gas Permeability-H2O,23,177278.22,cm3 mm/(m2 day atm),
+661,CC(O)COC(C)CO,Gas Permeability-O2,35,85.35618,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+662,CC(O)COC(C)CO,Gas Permeability-CO2,35,637.326144,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+663,CC(O)COC(C)CO,Gas Permeability-CO,35,51.213708,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+664,CC(O)COC(C)CO,Gas Permeability-N2,35,24.3374544,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+665,CC(O)COC(C)CO,Gas Permeability-CH4,35,49.900536,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+666,CC(O)COC(C)CO,Gas Permeability-H2O,23,262634.4,cm3 mm/(m2 day atm),"Molecular weight=2020,  density=1.16g/cm3"
+667,O=C(O)O.OCCOCCOCCO,Gas Permeability-O2,35,23.0242824,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+668,O=C(O)O.OCCOCCOCCO,Gas Permeability-CO2,35,275.76612,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+669,O=C(O)O.OCCOCCOCCO,Gas Permeability-CO,35,12.5189064,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+670,O=C(O)O.OCCOCCOCCO,Gas Permeability-N2,35,7.222446,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+671,O=C(O)O.OCCOCCOCCO,Gas Permeability-CH4,35,13.13172,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+672,O=C(O)O.OCCOCCOCCO,Gas Permeability-H2O,23,875448,cm3 mm/(m2 day atm),"Molecular weight=2580,  density=1.20g/cm3"
+673,CS(C)(=O)=O,Gas Permeability-CO2,35,138.320784,cm3 mm/(m2 day atm),
+674,CS(C)(=O)=O,Gas Permeability-CH4,35,4.596102,cm3 mm/(m2 day atm),
+675,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-He,20,0.0328293,cm3 mm/(m2 day atm),Cellophane
+676,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,25,0.413211456,cm3 mm/(m2 day atm),Cellophane
+677,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,25,0.21010752,cm3 mm/(m2 day atm),Cellophane
+678,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,25,0.14007168,cm3 mm/(m2 day atm),Cellophane
+679,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,25,0.309033144,cm3 mm/(m2 day atm),Cellophane
+680,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-SO2,25,0.112932792,cm3 mm/(m2 day atm),Cellophane
+681,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2S,25,0.75288528,cm3 mm/(m2 day atm),Cellophane
+682,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2SC,45,0.3939516,cm3 mm/(m2 day atm),Cellophane
+683,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-NH3,25,1.03302864,cm3 mm/(m2 day atm),Cellophane
+684,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2O,25,1654596.72,cm3 mm/(m2 day atm),Cellophane
+685,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,25,1.0505376,cm3 mm/(m2 day atm),Cellophane
+686,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,25,0.443852136,cm3 mm/(m2 day atm),Cellophane
+687,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,25,0.469240128,cm3 mm/(m2 day atm),Cellophane
+688,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,25,0.852686352,cm3 mm/(m2 day atm),Cellophane
+689,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,25,2.13609312,cm3 mm/(m2 day atm),Cellophane
+690,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,25,0.489375432,cm3 mm/(m2 day atm),Cellophane
+691,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,25,0.58217292,cm3 mm/(m2 day atm),Cellophane
+692,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,25,4.71866472,cm3 mm/(m2 day atm),Cellophane
+693,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,25,5.23517904,cm3 mm/(m2 day atm),Cellophane
+694,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,25,1.20811824,cm3 mm/(m2 day atm),Cellophane
+695,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,25,0.76163976,cm3 mm/(m2 day atm),Cellophane
+696,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,25,16.8086016,cm3 mm/(m2 day atm),Cellophane
+697,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-NH3,25,11643.4584,cm3 mm/(m2 day atm),Cellophane
+698,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-SO2,25,2486.27232,cm3 mm/(m2 day atm),Cellophane
+699,O.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2S,,37.20654,cm3 mm/(m2 day atm),Cellophane
+700,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-He,20,892.95696,cm3 mm/(m2 day atm),
+701,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,20,230.242824,cm3 mm/(m2 day atm),
+702,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2,35,980.50176,cm3 mm/(m2 day atm),
+703,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,30,18.384408,cm3 mm/(m2 day atm),
+704,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-N2,35,15.1452504,cm3 mm/(m2 day atm),
+705,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,30,51.213708,cm3 mm/(m2 day atm),
+706,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-O2,35,68.9853024,cm3 mm/(m2 day atm),
+707,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,30,1514.52504,cm3 mm/(m2 day atm),
+708,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CO2,35,391.325256,cm3 mm/(m2 day atm),
+709,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2O,25,361560.024,cm3 mm/(m2 day atm),
+710,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2O,25,481496.4,cm3 mm/(m2 day atm),
+711,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2S,30,230.242824,cm3 mm/(m2 day atm),
+712,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-H2S,30,400.955184,cm3 mm/(m2 day atm),
+713,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CH4,35,13.4818992,cm3 mm/(m2 day atm),
+714,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-C2H4O,30,2626.344,cm3 mm/(m2 day atm),
+715,CC(=O)OCC1OC(OC2C(COC(C)=O)OC(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O.CCC(=O)OCC1OC(OC2C(COC(=O)CC)OC(OC(=O)CC)C(OC(=O)CC)C2OC(=O)CC)C(OC(=O)CC)C(OC(=O)CC)C1OC(=O)CC.OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,Gas Permeability-CH3Br,30,367.68816,cm3 mm/(m2 day atm),
+716,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-He,25,453.482064,cm3 mm/(m2 day atm),
+717,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-H2,20,131.3172,cm3 mm/(m2 day atm),
+718,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-N2,25,7.6163976,cm3 mm/(m2 day atm),
+719,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-O2,25,127.815408,cm3 mm/(m2 day atm),
+720,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-Ar,25,7.222446,cm3 mm/(m2 day atm),
+721,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-CO2,25,139.196232,cm3 mm/(m2 day atm),
+722,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-SO2,25,115.559136,cm3 mm/(m2 day atm),
+723,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-NH3,25,3746.91744,cm3 mm/(m2 day atm),
+724,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-H2O,25,413211.456,cm3 mm/(m2 day atm),
+725,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-C2H6,25,4.14086904,cm3 mm/(m2 day atm),
+726,O=[N+]([O-])OC[C@H]1O[C@@H](O[C@H]2[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])O[C@@H]2CO[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@@H]1O[C@@H]1O[C@H](CO[N+](=O)[O-])[C@@H](O[N+](=O)[O-])[C@H](O[N+](=O)[O-])[C@H]1O[N+](=O)[O-],Gas Permeability-C3H8,25,0.55153224,cm3 mm/(m2 day atm),
+727,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-He,25,3510.54648,cm3 mm/(m2 day atm),
+728,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-H2,20,5716.67544,cm3 mm/(m2 day atm),
+729,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-N2,25,290.648736,cm3 mm/(m2 day atm),
+730,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-O2,25,962.9928,cm3 mm/(m2 day atm),
+731,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-Ar,25,669.71772,cm3 mm/(m2 day atm),
+732,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-CO2,25,7423.79904,cm3 mm/(m2 day atm),
+733,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-SO2,25,17333.8704,cm3 mm/(m2 day atm),
+734,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-NH3,25,46311.1992,cm3 mm/(m2 day atm),
+735,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-H2O,25,586550.16,cm3 mm/(m2 day atm),
+736,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,25,604.05912,cm3 mm/(m2 day atm),
+737,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,30,875.448,cm3 mm/(m2 day atm),
+738,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,40,901.71144,cm3 mm/(m2 day atm),
+739,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,50,1068.04656,cm3 mm/(m2 day atm),
+740,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,60,1304.41752,cm3 mm/(m2 day atm),
+741,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H6,70,1759.65048,cm3 mm/(m2 day atm),
+742,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,25,243.374544,cm3 mm/(m2 day atm),
+743,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,30,414.086904,cm3 mm/(m2 day atm),
+744,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,40,465.738336,cm3 mm/(m2 day atm),
+745,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,50,556.784928,cm3 mm/(m2 day atm),
+746,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,60,792.28044,cm3 mm/(m2 day atm),
+747,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C3H8,70,945.48384,cm3 mm/(m2 day atm),
+748,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,25,253.87992,cm3 mm/(m2 day atm),
+749,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,30,367.68816,cm3 mm/(m2 day atm),
+750,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,40,551.53224,cm3 mm/(m2 day atm),
+751,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,50,650.457864,cm3 mm/(m2 day atm),
+752,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,60,855.312696,cm3 mm/(m2 day atm),
+753,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C4H10,70,998.01072,cm3 mm/(m2 day atm),
+754,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C5H12,25,243.374544,cm3 mm/(m2 day atm),
+755,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-n-C6H14,25,503.3826,cm3 mm/(m2 day atm),
+756,CCOCC1OC(OC)C(OCC)C(OCC)C1OC1OC(CO)C(OC)C(O)C1O,Gas Permeability-C2H4O,30,26963.7984,cm3 mm/(m2 day atm),Ethocel 610
